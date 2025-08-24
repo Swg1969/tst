@@ -1,3 +1,929 @@
+#EXTM3U
+#EXTINF:-1 channel-id="0" channel-number="0" CUID="0" group-title="Dummy" tvg-chno="0" tvg-group="Dummy" tvg-id="0" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/1" tvg-name="ABC News",ABC News
+http://hksmt.huanqiuzhibo.cn:4268/v/3WZDpVPZBqa-QNj6TRkTV0lzBJ9S0m5XM_foBiAD6iJzRSoAxC7H1Nd9YrhizoSKX7r4lCP22qu80Fw2Ok60OA
+#EXTINF:-1 channel-id="1" channel-number="1" CUID="1" group-title="Dummy" tvg-chno="1" tvg-group="Dummy" tvg-id="1" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/2" tvg-name="Adithya",Adithya
+http://hksmt.huanqiuzhibo.cn:4268/v/OiSyX7-CzTQywk-G3IklQGFug6OjRjRJo91PgnZgRJNBaARi44d8WdTJIQYoLjDmskXBXXKJNke0iMIrKnJ6ZQ
+#EXTINF:-1 channel-id="2" channel-number="2" CUID="2" group-title="Dummy" tvg-chno="2" tvg-group="Dummy" tvg-id="2" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/3" tvg-name="AEC",AEC
+http://hksmt.huanqiuzhibo.cn:4268/v/OeDd292PWLr1mCB1naLB8PBMeCEdSEQlN7NSAwKIRFnBwvye7kEzP2agAnzn6nEB_-gMb1N5X9DMZEdJbkmEug
+#EXTINF:-1 channel-id="3" channel-number="3" CUID="3" group-title="Dummy" tvg-chno="3" tvg-group="Dummy" tvg-id="3" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/4" tvg-name="AFC 亚洲旅游台",AFC 亚洲旅游台
+http://hksmt.huanqiuzhibo.cn:4268/v/VXT2_415KglTfsSeh4nw1cAvdtE_a22N8bHOZh3ER-mXSaWpJytrt_VBLkLODtgjUdF7-NQfybD7Ol2ZgNAXhA
+#EXTINF:-1 channel-id="4" channel-number="4" CUID="4" group-title="Dummy" tvg-chno="4" tvg-group="Dummy" tvg-id="4" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/5" tvg-name="Al-Hijrah",Al-Hijrah
+http://hksmt.huanqiuzhibo.cn:4268/v/U05Y2DEeRzl0rTnsCM8_kfW2uAtVB-W2t017-vhSsfZw0-elp4Jn5s53hmRjObcu5-egIr1GwotIZzmr5cY2sw
+#EXTINF:-1 channel-id="5" channel-number="5" CUID="5" group-title="Dummy" tvg-chno="5" tvg-group="Dummy" tvg-id="5" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/6" tvg-name="Al-Hijrah backup",Al-Hijrah backup
+http://hksmt.huanqiuzhibo.cn:4268/v/KIk11VYrLQd8OAeSaUUxVAFTb7ACIKc-axOh05JpmbtR5B62DW-V8l4v4m5QtthJMS5Q17VeNnCeiL6Irzg9cQ
+#EXTINF:-1 channel-id="6" channel-number="6" CUID="6" group-title="Dummy" tvg-chno="6" tvg-group="Dummy" tvg-id="6" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/7" tvg-name="Al-Jazeera",Al-Jazeera
+http://hksmt.huanqiuzhibo.cn:4268/v/T9TEnO78p84LeQm3XMr0_RAQbxtaiem51zBLKgiqIeXDhtQSwTI1eRTa0_2Oaf2l93bCyxboV2-Bm8gE0kSEhg
+#EXTINF:-1 channel-id="7" channel-number="7" CUID="7" group-title="Dummy" tvg-chno="7" tvg-group="Dummy" tvg-id="7" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/8" tvg-name="All the Kpop",All the Kpop
+http://hksmt.huanqiuzhibo.cn:4268/v/1tyhAWbf0sOmrrAvtC-YNzP1HL7wCGQgNh5JCKWjlExTvA32apULgU4z1_E9xWhOK3Ggxfooj7kEFEJKN5EEIg
+#EXTINF:-1 channel-id="8" channel-number="8" CUID="8" group-title="Dummy" tvg-chno="8" tvg-group="Dummy" tvg-id="8" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/9" tvg-name="AlQuran AlKareem",AlQuran AlKareem
+http://hksmt.huanqiuzhibo.cn:4268/v/opKn4Jtvogbq5wp9XlhR2sHiSxIXejJdpb1nAMHNzTuAkYE20Mv0E-VNQhRG9FeSw6jVFvBuSyNkYlubdWhLew
+#EXTINF:-1 channel-id="9" channel-number="9" CUID="9" group-title="Dummy" tvg-chno="9" tvg-group="Dummy" tvg-id="9" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/10" tvg-name="Amarin",Amarin
+http://hksmt.huanqiuzhibo.cn:4268/v/2CveKUEm4W2eEQqxoq8xHeObNWVyZOeUqtG96oTjk3eNMxD2m_vOsO2pDnRx2sC35-bShQus4ZxYE62N-g4XFQ
+#EXTINF:-1 channel-id="10" channel-number="10" CUID="10" group-title="Dummy" tvg-chno="10" tvg-group="Dummy" tvg-id="10" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/11" tvg-name="Animal Planet",Animal Planet
+http://hksmt.huanqiuzhibo.cn:4268/v/XRj9uIY9ZR4s9f93nSuuAY8rUjHAmrbrlRDfHex0kdD4A9BWJlCGS2UQGDr6j55MD6n_kJof6PBHOvcoCKsTsg
+#EXTINF:-1 channel-id="11" channel-number="11" CUID="11" group-title="Dummy" tvg-chno="11" tvg-group="Dummy" tvg-id="11" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/12" tvg-name="Animal_Planet",Animal_Planet
+http://hksmt.huanqiuzhibo.cn:4268/v/E7v8WxpeYBedzdrGzqZGPWembIG0EceJAnd_QUpgzJRB-i4gn6R1Hk-GBIN6lTpdXQ5Zxuw-svupgHu02hjs5g
+#EXTINF:-1 channel-id="12" channel-number="12" CUID="12" group-title="Dummy" tvg-chno="12" tvg-group="Dummy" tvg-id="12" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/13" tvg-name="Animax",Animax
+http://hksmt.huanqiuzhibo.cn:4268/v/MPW4jcPN1OU148rXreDEStgvMnNmNqf4GoTkT178MfZeIHBqdtYqGFTVPwHW_7J5RbPr7Bi6AD6sF6wC2p_ZfA
+#EXTINF:-1 channel-id="13" channel-number="13" CUID="13" group-title="Dummy" tvg-chno="13" tvg-group="Dummy" tvg-id="13" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/14" tvg-name="AnTV",AnTV
+http://hksmt.huanqiuzhibo.cn:4268/v/pNcmMGIwV2mQtQwjy-8PzgEEX5tMd6_99q-amdiHxF9Kr5rrWSwmnyv7pGcEoAZ0BhqeeDmWItUWHF9zqL5rOw
+#EXTINF:-1 channel-id="14" channel-number="14" CUID="14" group-title="Dummy" tvg-chno="14" tvg-group="Dummy" tvg-id="14" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/15" tvg-name="ANTV",ANTV
+http://hksmt.huanqiuzhibo.cn:4268/v/wD6PgXF4TcKe13J5Bct4_2rquzHiOhCqnO7ry-EYgp3288rE9UwjG14ARx3vrGuWz_pm8urjQtIQ7THK1ui9oA
+#EXTINF:-1 channel-id="15" channel-number="15" CUID="15" group-title="Dummy" tvg-chno="15" tvg-group="Dummy" tvg-id="15" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/16" tvg-name="AOD",AOD
+http://hksmt.huanqiuzhibo.cn:4268/v/tyi3UFyg6sSMlNpfE2cMl44unA1Bc0OEgXhCtbd6isw-kncUTwdqm1KVOxBIhbD7dCK0nvUh1Dj0_uk3IbgPYw
+#EXTINF:-1 channel-id="16" channel-number="16" CUID="16" group-title="Dummy" tvg-chno="16" tvg-group="Dummy" tvg-id="16" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/17" tvg-name="Apps TV",Apps TV
+http://hksmt.huanqiuzhibo.cn:4268/v/A0AU4-kQZ2uLrWdI_ZvPYeyMG3zjG2i7crtbxCGbfauZTfwOqcQH_88-PAUO0k9LnLHi1oSrJOz5zDBAdoZhkQ
+#EXTINF:-1 channel-id="17" channel-number="17" CUID="17" group-title="Dummy" tvg-chno="17" tvg-group="Dummy" tvg-id="17" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/18" tvg-name="Arena",Arena
+http://hksmt.huanqiuzhibo.cn:4268/v/trYxJZlTWx-BYYP1KzQur6A1Hv07x0mGXA-wX2d_6o3__3o1jruhIYfdmATfX_h1rK8Nb3nWOHK2LM54ond44A
+#EXTINF:-1 channel-id="18" channel-number="18" CUID="18" group-title="Dummy" tvg-chno="18" tvg-group="Dummy" tvg-id="18" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/19" tvg-name="Arena 2",Arena 2
+http://hksmt.huanqiuzhibo.cn:4268/v/UF4N9Qe9AtqNG0_uG8JTFYV1-rKkFVeeeO8T_vpI1u4OxCTfVU334fgyvqM8ZR2YmkU5SIn-tAV97X9ebOxOcw
+#EXTINF:-1 channel-id="19" channel-number="19" CUID="19" group-title="Dummy" tvg-chno="19" tvg-group="Dummy" tvg-id="19" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/20" tvg-name="Arirang HD",Arirang HD
+http://hksmt.huanqiuzhibo.cn:4268/v/kYd5EPUkgnJmQgQVhPOlZUoHVmdrZyPzAalVgfwJ2JUBFsI4tHJmpIWKPurayGssqSpROs7-eu_CeXZdvXpvRA
+#EXTINF:-1 channel-id="20" channel-number="20" CUID="20" group-title="Dummy" tvg-chno="20" tvg-group="Dummy" tvg-id="20" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/21" tvg-name="Asia Travel",Asia Travel
+http://hksmt.huanqiuzhibo.cn:4268/v/71oecGmczoQaD7RRZtn8bv3bw8hpA2xwZ5PCHnjLsJobd4WEUyEvPad5dOAN5HdKeU825UPBIPZmV5T0tuYxgw
+#EXTINF:-1 channel-id="21" channel-number="21" CUID="21" group-title="Dummy" tvg-chno="21" tvg-group="Dummy" tvg-id="21" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/22" tvg-name="Asianet",Asianet
+http://hksmt.huanqiuzhibo.cn:4268/v/G6waSpgSJGiQ0pKA71fRLecsU3nw-bqfM7tuUZr0N4zVersFK0HPaPVtQajfPg0AuFF9mB8M6RUukV1v7GLaFg
+#EXTINF:-1 channel-id="22" channel-number="22" CUID="22" group-title="Dummy" tvg-chno="22" tvg-group="Dummy" tvg-id="22" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/23" tvg-name="Asianet News",Asianet News
+http://hksmt.huanqiuzhibo.cn:4268/v/8CD9ibOiPHhqMkPm1v8J4zgRZkK5lx1e6d8DY5qgEL3DoNdYGAnjwFnlqeEGn6ORFOnR2U2mU31BtzOdaMuNCw
+#EXTINF:-1 channel-id="23" channel-number="23" CUID="23" group-title="Dummy" tvg-chno="23" tvg-group="Dummy" tvg-id="23" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/24" tvg-name="Astro Cricket",Astro Cricket
+http://hksmt.huanqiuzhibo.cn:4268/v/3Sh4XYRJvHFPPRkQX-O9jmFXAjK4twC8ijZ6EPDSYkvTWOHaLrSGZIKdCITciOsqmiZrgp5kZ2easF_j3pDXvA
+#EXTINF:-1 channel-id="24" channel-number="24" CUID="24" group-title="Dummy" tvg-chno="24" tvg-group="Dummy" tvg-id="24" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/25" tvg-name="Astro Golf",Astro Golf
+http://hksmt.huanqiuzhibo.cn:4268/v/Z6-ucqnsE_FYiyCUiQl9PT37Xwu1rb2B-3GqSktImv9hflTcSixtnY58oJgWtn65FoF0C4wr2TKpUB9BYfPDSA
+#EXTINF:-1 channel-id="25" channel-number="25" CUID="25" group-title="Dummy" tvg-chno="25" tvg-group="Dummy" tvg-id="25" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/26" tvg-name="Astro KTV",Astro KTV
+http://hksmt.huanqiuzhibo.cn:4268/v/3ThteLzX1aO6xsQq62-nbsU4TfCxd_E7cOXrqJitJcdCKstPTVAi3ry8a5dBaa8rxd6x2VEkaRYovTaJjEnUhQ
+#EXTINF:-1 channel-id="26" channel-number="26" CUID="26" group-title="Dummy" tvg-chno="26" tvg-group="Dummy" tvg-id="26" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/27" tvg-name="Astro MTV",Astro MTV
+http://hksmt.huanqiuzhibo.cn:4268/v/pfDo7tPOTR67SsX0LuQWEPXiUdEeJpvEJdy0Nkn4wFN6DNly3CbNJjSIe3b6q33yutGryVdN4HNn4dIZefJooQ
+#EXTINF:-1 channel-id="27" channel-number="27" CUID="27" group-title="Dummy" tvg-chno="27" tvg-group="Dummy" tvg-id="27" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/28" tvg-name="Astro Premier",Astro Premier
+http://hksmt.huanqiuzhibo.cn:4268/v/II-ffSssXYJwMDKR-0B4mxv366kVmZl57wR4559iYWegoj6adveydiZurUfV3LWc9axVIZ7vMETDuN2cV9xaig
+#EXTINF:-1 channel-id="28" channel-number="28" CUID="28" group-title="Dummy" tvg-chno="28" tvg-group="Dummy" tvg-id="28" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/29" tvg-name="Astro QJ",Astro QJ
+http://hksmt.huanqiuzhibo.cn:4268/v/sUI9khbo8SoYBip8cyCEU54WbfVHsaMDesD0pWvFc_C2z9n3aHx3hNzOk7DTRBQU1TrGfC9aIHacdMAnNreKYQ
+#EXTINF:-1 channel-id="29" channel-number="29" CUID="29" group-title="Dummy" tvg-chno="29" tvg-group="Dummy" tvg-id="29" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/30" tvg-name="Astro Sunlife",Astro Sunlife
+http://hksmt.huanqiuzhibo.cn:4268/v/VFiJIOlKyKf2BnX8jHtn1ZUWRfZ5-UU09fgMZhGo4A4Su4Yr3hBYJXNMLOgJKyZLYutHLAw7HgkqlSosnAL7Qw
+#EXTINF:-1 channel-id="30" channel-number="30" CUID="30" group-title="Dummy" tvg-chno="30" tvg-group="Dummy" tvg-id="30" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/31" tvg-name="Astro Sunmusic",Astro Sunmusic
+http://hksmt.huanqiuzhibo.cn:4268/v/_YVSCzBU30dwBQBGkYX5eRMFRejSO8ApdO4WU5JzBLbAn1BMXIF5Sz_obmklxF0I1fbgdQ5oGThZ8kMus9LD2A
+#EXTINF:-1 channel-id="31" channel-number="31" CUID="31" group-title="Dummy" tvg-chno="31" tvg-group="Dummy" tvg-id="31" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/32" tvg-name="Astro Vaanavil",Astro Vaanavil
+http://hksmt.huanqiuzhibo.cn:4268/v/ev3k5p4QHuW7u6oPmrTd-PabeyLjqjh0k0UXZWTDZ45zQ7j8FG4JAu5OW90cGEfKyRonLPCphd-lT9ZpXr3C9Q
+#EXTINF:-1 channel-id="32" channel-number="32" CUID="32" group-title="Dummy" tvg-chno="32" tvg-group="Dummy" tvg-id="32" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/33" tvg-name="Astrol Kplus",Astrol Kplus
+http://hksmt.huanqiuzhibo.cn:4268/v/96iNHvSXuvX6vVt0RL1-FQgodql1T2zAmh5lxFtwWaFz56QNZ_GZ7evzuTvHoGFfJiWDKaG3iA1D-dbzObP58g
+#EXTINF:-1 channel-id="33" channel-number="33" CUID="33" group-title="Dummy" tvg-chno="33" tvg-group="Dummy" tvg-id="33" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/34" tvg-name="Aura",Aura
+http://hksmt.huanqiuzhibo.cn:4268/v/mYvZgI7f1fo9jPsihNUtk5tNNvL1wbd-F9iIUwIqoVBYILV9n9aOWITTTp1cnmTOryMMIgRyaNEoa9CulB1-PA
+#EXTINF:-1 channel-id="34" channel-number="34" CUID="34" group-title="Dummy" tvg-chno="34" tvg-group="Dummy" tvg-id="34" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/35" tvg-name="Awani",Awani
+http://hksmt.huanqiuzhibo.cn:4268/v/BbjANOAQHvSES-Dn-DHfi5cfZCG1kiT8gSQzcffG0P-PC--pJmxENBrGmPaATYrt5pCliaxFtuOCXko55x5yXQ
+#EXTINF:-1 channel-id="35" channel-number="35" CUID="35" group-title="Dummy" tvg-chno="35" tvg-group="Dummy" tvg-id="35" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/36" tvg-name="Awesome TV",Awesome TV
+http://hksmt.huanqiuzhibo.cn:4268/v/iDZeot0Hhsp0sFDsRruAgnc_ddaiwSrXD7lOgp3XRhdrybEa1JP-dHgN2rv0TT0X0vqeeTCau8_fi0H-fdSl7g
+#EXTINF:-1 channel-id="36" channel-number="36" CUID="36" group-title="Dummy" tvg-chno="36" tvg-group="Dummy" tvg-id="36" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/37" tvg-name="Axn HD",Axn HD
+http://hksmt.huanqiuzhibo.cn:4268/v/6kHGAPut5-qDW6rZ0rkabhcqLYBfLLLxNuOhYXIm6GJ2HC__lr4hrKjwWYBJH_MYOX9MqaJZJwwXEoWgyyix_g
+#EXTINF:-1 channel-id="37" channel-number="37" CUID="37" group-title="Dummy" tvg-chno="37" tvg-group="Dummy" tvg-id="37" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/38" tvg-name="AXN Taiwan",AXN Taiwan
+http://hksmt.huanqiuzhibo.cn:4268/v/_vl4yUOilRfQouCy5sgqvqGb9Fkq7-6CTRuacLl3cDLDH-25SXqJaPldBSjBlL_KUoAQkPE1t1dXSGUu_R8pxA
+#EXTINF:-1 channel-id="38" channel-number="38" CUID="38" group-title="Dummy" tvg-chno="38" tvg-group="Dummy" tvg-id="38" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/39" tvg-name="Baby TV",Baby TV
+http://hksmt.huanqiuzhibo.cn:4268/v/YaHLpA1gpM08byDAZSUUnU9tmwzs0z7KPBoJjXpJyH4MlbujD_71qu1MfWXkth6VpBL6YU_E___m28a6UfNWBQ
+#EXTINF:-1 channel-id="39" channel-number="39" CUID="39" group-title="Dummy" tvg-chno="39" tvg-group="Dummy" tvg-id="39" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/40" tvg-name="Baby TV Eng",Baby TV Eng
+http://hksmt.huanqiuzhibo.cn:4268/v/fpz9VSLyWsu46n9ftT81Ce9zk4WBZXMn8X0POfW6z45lAJESaU3KJHy_Z3C9IMOWIL-IRhgldF_8YR-muMhXcw
+#EXTINF:-1 channel-id="40" channel-number="40" CUID="40" group-title="Dummy" tvg-chno="40" tvg-group="Dummy" tvg-id="40" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/41" tvg-name="BBC 1",BBC 1
+http://hksmt.huanqiuzhibo.cn:4268/v/c9CulPavyAXpSfB0pu3AHlkrWKA39TuPqsceA0EU-f7gH_HcpnIoocoGU7R4bzn-rQLi89Cf51yrfndhKs2uVA
+#EXTINF:-1 channel-id="41" channel-number="41" CUID="41" group-title="Dummy" tvg-chno="41" tvg-group="Dummy" tvg-id="41" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/42" tvg-name="BBC 2",BBC 2
+http://hksmt.huanqiuzhibo.cn:4268/v/8LsmWfCmerlZY1ZLEmJUCFpcBtqw_FjfeXSphz9V_MzprXPplrWW1YBJP5qzKKZA5gvU3Suw8kyMV1aQW9bD4Q
+#EXTINF:-1 channel-id="42" channel-number="42" CUID="42" group-title="Dummy" tvg-chno="42" tvg-group="Dummy" tvg-id="42" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/43" tvg-name="BBC Earth HD",BBC Earth HD
+http://hksmt.huanqiuzhibo.cn:4268/v/AYnAlzR6lqrvbb2WMk1Ko7ar2HUot9d8uV1kUExCOvHvHaK0M0OgJSmcFA7c-dwsB1DhoUkuDcHax4kGd151Vg
+#EXTINF:-1 channel-id="43" channel-number="43" CUID="43" group-title="Dummy" tvg-chno="43" tvg-group="Dummy" tvg-id="43" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/44" tvg-name="BBC Earth Lifestyle",BBC Earth Lifestyle
+http://hksmt.huanqiuzhibo.cn:4268/v/3CIj9A_MwETBgnffZFCXgG5c8hmuG-piQqHEenuLM6aQO8sc5Nvn4GtMgyDh4Spskz8DaTON-T3HcY4irVsSUA
+#EXTINF:-1 channel-id="44" channel-number="44" CUID="44" group-title="Dummy" tvg-chno="44" tvg-group="Dummy" tvg-id="44" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/45" tvg-name="BBC Earth Tamil",BBC Earth Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/moG4ryXS3j-8W7HJCVuETq7ep6MEkXGP6uRiq8fs3Qc3LiDcCSB96IuYFG4vYRVOmbUVXZeBvGvB77aZ4-qUYw
+#EXTINF:-1 channel-id="45" channel-number="45" CUID="45" group-title="Dummy" tvg-chno="45" tvg-group="Dummy" tvg-id="45" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/46" tvg-name="BBC World News",BBC World News
+http://hksmt.huanqiuzhibo.cn:4268/v/wMgdMFqVsVRyL-2JCAExEWJ7V6R5MjCd0BB1W22LnHy1Lro3dGQIrvDHutdtIDG8N7ppbMmRTt4bM5oC8OXgIg
+#EXTINF:-1 channel-id="46" channel-number="46" CUID="46" group-title="Dummy" tvg-chno="46" tvg-group="Dummy" tvg-id="46" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/47" tvg-name="Bein 1 Sports",Bein 1 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/Gb5EeXecGO0IemXWOX7pV0zEBJ5va88u-EYXEjLGXhofbyYfOUmBAegtnkuf6BSgBeRE3RoM6-6yNHEfT3gowg
+#EXTINF:-1 channel-id="47" channel-number="47" CUID="47" group-title="Dummy" tvg-chno="47" tvg-group="Dummy" tvg-id="47" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/48" tvg-name="Bein 2 Sports",Bein 2 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/37zB8W6iU4ZtqQNyHCaXeFXpmNKx4AjdAL8_yWA0mm0ZXuXvl3eLBg7naHa8zZElwqmwxvlVJUNLiC87so562Q
+#EXTINF:-1 channel-id="48" channel-number="48" CUID="48" group-title="Dummy" tvg-chno="48" tvg-group="Dummy" tvg-id="48" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/49" tvg-name="Bein 2HD",Bein 2HD
+http://hksmt.huanqiuzhibo.cn:4268/v/yioQDDcb0Ap4ZdU-5qfXvB8eO5mS_mqQDYhnf02pETvDC6K4dmVNfP92jblsggQbabAr0epOUn6LM-jBkYyGsw
+#EXTINF:-1 channel-id="49" channel-number="49" CUID="49" group-title="Dummy" tvg-chno="49" tvg-group="Dummy" tvg-id="49" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/50" tvg-name="Bein 3 Sports",Bein 3 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/-L5nu_mmOFQHcW_DXIdMc0LTvZx1rYjSyuZslXcvtLaHd5Md3ygywrIFngY_0XnBlhtJq-jsnNsgBD8Oqm49Gw
+#EXTINF:-1 channel-id="50" channel-number="50" CUID="50" group-title="Dummy" tvg-chno="50" tvg-group="Dummy" tvg-id="50" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/51" tvg-name="Bein 4 Sports",Bein 4 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/OQn3XlXUCm4fjjrTPi_5mXqSemCPEy2ipw1pb8t9fynn7WvaLSqLL6n5-F1wPQzUesZMhRg8UIc8LwQCzP9bsQ
+#EXTINF:-1 channel-id="51" channel-number="51" CUID="51" group-title="Dummy" tvg-chno="51" tvg-group="Dummy" tvg-id="51" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/52" tvg-name="Bein 5 Sports",Bein 5 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/zGM_zUAmSfD8CJ1eEbEUw9rIJc4Of95EWhw3o_8mOGFgCAy9uOcveVeJioljfB-uICUOw7sWk8UD-1Mz6YyXfw
+#EXTINF:-1 channel-id="52" channel-number="52" CUID="52" group-title="Dummy" tvg-chno="52" tvg-group="Dummy" tvg-id="52" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/53" tvg-name="Bein 6 Sports",Bein 6 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/SDUaP5YOYK_RsyyMbxVmVZUnpeHuHCnZgmwld9mkpkEc3-apVbkG0vezSaQEeE_Pt5YgDDbDGNzqPIPRb7oTfA
+#EXTINF:-1 channel-id="53" channel-number="53" CUID="53" group-title="Dummy" tvg-chno="53" tvg-group="Dummy" tvg-id="53" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/54" tvg-name="Bein 7 Sports",Bein 7 Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/lqUAa3lPXBLdRpxUzp-TjqDF25ydXArucluOL6gohuvPkf76HYU7-_arbVKkIuWgbiODq1jdlappyNX8YvfnFg
+#EXTINF:-1 channel-id="54" channel-number="54" CUID="54" group-title="Dummy" tvg-chno="54" tvg-group="Dummy" tvg-id="54" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/55" tvg-name="Beinsports 2 HD",Beinsports 2 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/ud0HvoAc_6lAgIlPscda_yId7hCLbnwN_xT_Z-YGrwSPNbS3lMeZ05N29zshdZTWz-zDlmw5EQEGrNNB3eJGaw
+#EXTINF:-1 channel-id="55" channel-number="55" CUID="55" group-title="Dummy" tvg-chno="55" tvg-group="Dummy" tvg-id="55" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/56" tvg-name="Beinsports HD",Beinsports HD
+http://hksmt.huanqiuzhibo.cn:4268/v/iLkWNA-ciIkHMC2kWDdn3H3zpfSpk4ttXmmmZORHOghemrdO8RR8GkhVjSzFG5qVtLO0wmWRO4YIzzlrMOriEw
+#EXTINF:-1 channel-id="56" channel-number="56" CUID="56" group-title="Dummy" tvg-chno="56" tvg-group="Dummy" tvg-id="56" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/57" tvg-name="Berita Satu",Berita Satu
+http://hksmt.huanqiuzhibo.cn:4268/v/5KkDAmTjhVDdleLivD7IWcq4SfCPcfaCXvGYCNwSW6wzxoIQRyC6ti-_YGPyOcWsW1tzwAOQFcaj-wLEexvR4Q
+#EXTINF:-1 channel-id="57" channel-number="57" CUID="57" group-title="Dummy" tvg-chno="57" tvg-group="Dummy" tvg-id="57" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/58" tvg-name="Bernama",Bernama
+http://hksmt.huanqiuzhibo.cn:4268/v/-3vU-sQ0KhqDgQhBWwpQ1Mvb56LPuZND_s6d_X2OyRlfz7qpkv8iqo2GLeoOWl0WZ0NFsk443pLjqcrYupxLIA
+#EXTINF:-1 channel-id="58" channel-number="58" CUID="58" group-title="Dummy" tvg-chno="58" tvg-group="Dummy" tvg-id="58" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/59" tvg-name="Bloomberg News",Bloomberg News
+http://hksmt.huanqiuzhibo.cn:4268/v/KFs_sPqjnmT-3nI-ITGeJf6R1Eidt8ZSdJPsv3yMniAxyDsRXpj_V07o6SxrOKJDN_-MhULiVrmUPSvKPOeRUw
+#EXTINF:-1 channel-id="59" channel-number="59" CUID="59" group-title="Dummy" tvg-chno="59" tvg-group="Dummy" tvg-id="59" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/60" tvg-name="BolaArena 1",BolaArena 1
+http://hksmt.huanqiuzhibo.cn:4268/v/dpgsr2W4XzmfOaU_rHM8w_FtmSEVgySGooump1WpOPRLBDx-g4EdPa3kG65fZNhMRWM4FMk3fmHTRLSEwg-PvQ
+#EXTINF:-1 channel-id="60" channel-number="60" CUID="60" group-title="Dummy" tvg-chno="60" tvg-group="Dummy" tvg-id="60" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/61" tvg-name="BolaArena 2",BolaArena 2
+http://hksmt.huanqiuzhibo.cn:4268/v/psD56rq0D6NBHnPU5sXLdpRNISp3okph2oh4ipDro7DdU2vqsTB5yB8ckympjRfdASVotOzBKi0zlutmBwKsCg
+#EXTINF:-1 channel-id="61" channel-number="61" CUID="61" group-title="Dummy" tvg-chno="61" tvg-group="Dummy" tvg-id="61" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/62" tvg-name="Bollyone",Bollyone
+http://hksmt.huanqiuzhibo.cn:4268/v/bJ447lUebD5ucG9dOh-2X1qR6-Vv4LTTVcQDB2wNZELOLn964ybEEqR5ceMYg7INrz5Cfo80NNH16vK5SUJ1uQ
+#EXTINF:-1 channel-id="62" channel-number="62" CUID="62" group-title="Dummy" tvg-chno="62" tvg-group="Dummy" tvg-id="62" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/63" tvg-name="Boo",Boo
+http://hksmt.huanqiuzhibo.cn:4268/v/iObfeplarlP9SqLxMgrOMPtbDGZAoEIz40BXXhrN6M0mMqheYcWcvEX7wvTAJvszBz3RR62UX2CUtEdqooM4_w
+#EXTINF:-1 channel-id="63" channel-number="63" CUID="63" group-title="Dummy" tvg-chno="63" tvg-group="Dummy" tvg-id="63" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/64" tvg-name="Boomerang",Boomerang
+http://hksmt.huanqiuzhibo.cn:4268/v/JEXFIo2J3PoCoUiS9sTWTZ_2jQEJCarIE_OdmizR0Q56333iS6uJYHGaPog52hKhzw7VJ4CgUtK33AnlLPT5sQ
+#EXTINF:-1 channel-id="64" channel-number="64" CUID="64" group-title="Dummy" tvg-chno="64" tvg-group="Dummy" tvg-id="64" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/65" tvg-name="Boomerang Taiwan",Boomerang Taiwan
+http://hksmt.huanqiuzhibo.cn:4268/v/KarkewS-JsE2PVxqruC9AmaM4u17ywCkhvYxVdK8d6jm2f0y3-U7hDXV4sCkWHeb56XD3rbMEYanVRBIOf0G3Q
+#EXTINF:-1 channel-id="65" channel-number="65" CUID="65" group-title="Dummy" tvg-chno="65" tvg-group="Dummy" tvg-id="65" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/66" tvg-name="BPTV 2",BPTV 2
+http://hksmt.huanqiuzhibo.cn:4268/v/OzZcPg1KeC6ykX6dQoMUddvfIlTfd0Ktp9xQYdc5dH6BLW0ritS6MzA6ANQTZ_Y_jh9ZZKoCiqCI8f4leHMOlw
+#EXTINF:-1 channel-id="66" channel-number="66" CUID="66" group-title="Dummy" tvg-chno="66" tvg-group="Dummy" tvg-id="66" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/67" tvg-name="BRT HD",BRT HD
+http://hksmt.huanqiuzhibo.cn:4268/v/LyauLFnAL5I-GvztPlnLnl1mDZvoQScXGvQU9NsYgR_DBLDn99Bo4JKGyCpcYcGfQi3DYJAqUc6EULROHTeE0Q
+#EXTINF:-1 channel-id="67" channel-number="67" CUID="67" group-title="Dummy" tvg-chno="67" tvg-group="Dummy" tvg-id="67" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/68" tvg-name="BS-TBS",BS-TBS
+http://hksmt.huanqiuzhibo.cn:4268/v/v0WZtIVKcutzgjcm8O0BlsaNS2FByxOKdS57xQiLh8JpSfmNv8H973eo70jq7bYCS5MRLUYRWJ1uidM-9ivmVQ
+#EXTINF:-1 channel-id="68" channel-number="68" CUID="68" group-title="Dummy" tvg-chno="68" tvg-group="Dummy" tvg-id="68" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/69" tvg-name="BSジャパン 181",BSジャパン 181
+http://hksmt.huanqiuzhibo.cn:4268/v/FR87-TXsR23hWBiYFB55MWIp3xpY5uhkavO7avq1ezsiUyGc6hJyCoOofXOPPWhSIRROAlFDaXmprVYGejhVnw
+#EXTINF:-1 channel-id="69" channel-number="69" CUID="69" group-title="Dummy" tvg-chno="69" tvg-group="Dummy" tvg-id="69" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/70" tvg-name="BSフジ BS Fuji",BSフジ BS Fuji
+http://hksmt.huanqiuzhibo.cn:4268/v/ANS9mKY6qALb0dJPz57nvI0LtdTkQDcBy2BH38YvxbruEz94-DjPpr9yAcbfIkEoTUhhnDz2qf_Bv4xk_HgIsw
+#EXTINF:-1 channel-id="70" channel-number="70" CUID="70" group-title="Dummy" tvg-chno="70" tvg-group="Dummy" tvg-id="70" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/71" tvg-name="Ca Mau TV",Ca Mau TV
+http://hksmt.huanqiuzhibo.cn:4268/v/hUkxe3SbADYv33MJclhNt0eVkk-miBMXshLKvcwudD2LsAPXZAH7ocyvWZnfNnqJq18_K1iTy2fRP2ScLzWCvw
+#EXTINF:-1 channel-id="71" channel-number="71" CUID="71" group-title="Dummy" tvg-chno="71" tvg-group="Dummy" tvg-id="71" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/72" tvg-name="Cartoon Network",Cartoon Network
+http://hksmt.huanqiuzhibo.cn:4268/v/WDTCunOfAuARoLV2lfRfYoFjxOPEjeQImBFTWYf8pzWm5tqD9QYxKk-4hh2YmFLS4Aaqud0amNYsMlS8hG24sw
+#EXTINF:-1 channel-id="72" channel-number="72" CUID="72" group-title="Dummy" tvg-chno="72" tvg-group="Dummy" tvg-id="72" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/73" tvg-name="CBBC",CBBC
+http://hksmt.huanqiuzhibo.cn:4268/v/y0IcEjjbdBQJisFl_cKiZUw8H5SIgGIFmBbLx4My2q9nT7WpcBWphvcmINd7tSrpPY3EsvyhUgPp3kqURyy8xQ
+#EXTINF:-1 channel-id="73" channel-number="73" CUID="73" group-title="Dummy" tvg-chno="73" tvg-group="Dummy" tvg-id="73" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/74" tvg-name="CBeebies",CBeebies
+http://hksmt.huanqiuzhibo.cn:4268/v/Vg99u0SikqAx9UMPaly90bWeh3395mvs6fW6CX3XUAVBYpCPzHjjAybzfpIOTa80iyZzi9qpWC-WrFbNV7Rtog
+#EXTINF:-1 channel-id="74" channel-number="74" CUID="74" group-title="Dummy" tvg-chno="74" tvg-group="Dummy" tvg-id="74" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/75" tvg-name="CBS",CBS
+http://hksmt.huanqiuzhibo.cn:4268/v/J_CyHsAgzwhG0JTDAfgUkY1YqbOoWvpwnGe8huvuCdwMrMf6jE0Hi78b_4dSDxRos6goSYJ9SFP1kCWyx-FdKA
+#EXTINF:-1 channel-id="75" channel-number="75" CUID="75" group-title="Dummy" tvg-chno="75" tvg-group="Dummy" tvg-id="75" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/76" tvg-name="CBS HD",CBS HD
+http://hksmt.huanqiuzhibo.cn:4268/v/wZ5p1yIuEUWk_SggRMrEhzzIIvQYjqDFdXDIVnTN0Ri6-JxrYPeP3GJs6wo7hEbg7Tl3mW4MmWYvXDNTzZSSLw
+#EXTINF:-1 channel-id="76" channel-number="76" CUID="76" group-title="Dummy" tvg-chno="76" tvg-group="Dummy" tvg-id="76" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/77" tvg-name="CBSN HD",CBSN HD
+http://hksmt.huanqiuzhibo.cn:4268/v/yWjLeVakXnwLz5Kl2PS4-Vf2q5bS9GWV1H4_zcdpJyBlB3t2nAaP__wuWsiARuAxmxBe4D_5CcZ1hwPikI0lcQ
+#EXTINF:-1 channel-id="77" channel-number="77" CUID="77" group-title="Dummy" tvg-chno="77" tvg-group="Dummy" tvg-id="77" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/78" tvg-name="CCTV-1 综合 HD",CCTV-1 综合 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/ta0yZlk9dcPW6GzfCYRqu19jY5A-ZOvFm6VVcc8U3oue9ewzuAdgc79WrtUjn13M_27xBTPyI6a_fHd9DDUPIQ
+#EXTINF:-1 channel-id="78" channel-number="78" CUID="78" group-title="Dummy" tvg-chno="78" tvg-group="Dummy" tvg-id="78" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/79" tvg-name="CCTV-10 科教 HD",CCTV-10 科教 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/STUmD5wUaDpubFLhtEoVKygcczSH4FiNDY_ovef3MJyIPOD-ER0kofqQulq28VDlOoCWVVsqa4PUZ0W1r-hnmA
+#EXTINF:-1 channel-id="79" channel-number="79" CUID="79" group-title="Dummy" tvg-chno="79" tvg-group="Dummy" tvg-id="79" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/80" tvg-name="CCTV-11 戏曲",CCTV-11 戏曲
+http://hksmt.huanqiuzhibo.cn:4268/v/6Oj6f5HYBgZNO9kU8HjrNFK1Z9yHh-l7pcesyW_QBjULXCKVw2KdLsiMaJXgHXlI_GovO2_pBaSlbZx-Ov0XLg
+#EXTINF:-1 channel-id="80" channel-number="80" CUID="80" group-title="Dummy" tvg-chno="80" tvg-group="Dummy" tvg-id="80" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/81" tvg-name="CCTV-12 社会与法",CCTV-12 社会与法
+http://hksmt.huanqiuzhibo.cn:4268/v/qrFusxf1L0wZlheFbgEvmKw8zUf-OFYlBv094pRh3SAAkhrIe_Bahl7pBH_W1K7VB1HppkCDxpLPa4lkdLVHKA
+#EXTINF:-1 channel-id="81" channel-number="81" CUID="81" group-title="Dummy" tvg-chno="81" tvg-group="Dummy" tvg-id="81" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/82" tvg-name="CCTV-13 新闻频道",CCTV-13 新闻频道
+http://hksmt.huanqiuzhibo.cn:4268/v/vEWOEh-UTEB61hEOoaWkhvXe1DIbfZ9Fb6LE_xQle8ClRqX4iIo1GM3XIKzQebIUcEecdiSlheuWPcDKQP84sg
+#EXTINF:-1 channel-id="82" channel-number="82" CUID="82" group-title="Dummy" tvg-chno="82" tvg-group="Dummy" tvg-id="82" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/83" tvg-name="CCTV-14 少儿",CCTV-14 少儿
+http://hksmt.huanqiuzhibo.cn:4268/v/JgoEDHb2tTcF8nC-m4fm_rqi5v8CFd742OMZGOrFtVdArjF-p-LD3-an8y2kbMFEV-kNKr7ym_HUO69QtLjolQ
+#EXTINF:-1 channel-id="83" channel-number="83" CUID="83" group-title="Dummy" tvg-chno="83" tvg-group="Dummy" tvg-id="83" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/84" tvg-name="CCTV-15 音乐",CCTV-15 音乐
+http://hksmt.huanqiuzhibo.cn:4268/v/cl1MxDOlCANUDRzeRW8xL7BqQmZ6jTh4v5b6fqrBzCEgGp-aX464oeKeRWeN4oDjTFMjINf1CDiM4yY3ku8Qng
+#EXTINF:-1 channel-id="84" channel-number="84" CUID="84" group-title="Dummy" tvg-chno="84" tvg-group="Dummy" tvg-id="84" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/85" tvg-name="CCTV-17",CCTV-17
+http://hksmt.huanqiuzhibo.cn:4268/v/hAbHHatqtLRaRaxOWuI6If8JmSZQHSnagQagjuP-iti930lVOIlnGsDHEbwMtGfC6g6hV3CuQeBFdtpFMbOJdg
+#EXTINF:-1 channel-id="85" channel-number="85" CUID="85" group-title="Dummy" tvg-chno="85" tvg-group="Dummy" tvg-id="85" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/86" tvg-name="CCTV-2 财经",CCTV-2 财经
+http://hksmt.huanqiuzhibo.cn:4268/v/6WVk4-v6k7a1Vxee5URJXrO2dBTPX2qjKXjl-RVpIn4f4bmY89hncriJ4YAJu-h-HY3jktB1_Wivutxdenn_Ww
+#EXTINF:-1 channel-id="86" channel-number="86" CUID="86" group-title="Dummy" tvg-chno="86" tvg-group="Dummy" tvg-id="86" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/87" tvg-name="CCTV-3 综艺 HD",CCTV-3 综艺 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/NxSfyb_ur7jiAs2u2XmzQYXWqAmhOhfntb05yp2_iuuM0wm3UDrDoeiVUBX7RKmWLJjW4K8Cfnb0AV91C7NKpg
+#EXTINF:-1 channel-id="87" channel-number="87" CUID="87" group-title="Dummy" tvg-chno="87" tvg-group="Dummy" tvg-id="87" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/88" tvg-name="CCTV-4 中文国际",CCTV-4 中文国际
+http://hksmt.huanqiuzhibo.cn:4268/v/L4QNvetiem3aMp2JXsqCoHWFtzNVKx92DUpQLeiVg-jn2N4V-RB5RyfU0Ni5837bN0madB0jbTCKd34WCE8lYQ
+#EXTINF:-1 channel-id="88" channel-number="88" CUID="88" group-title="Dummy" tvg-chno="88" tvg-group="Dummy" tvg-id="88" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/89" tvg-name="CCTV-5 体育频道",CCTV-5 体育频道
+http://hksmt.huanqiuzhibo.cn:4268/v/uISf0dCg6lThlDTyCANgthOyQEElPwNS1VzEP17bm-XCO9TSJdHHpcFFX9LwNBXRhgwjW7xJd_HwAMK66vKCgw
+#EXTINF:-1 channel-id="89" channel-number="89" CUID="89" group-title="Dummy" tvg-chno="89" tvg-group="Dummy" tvg-id="89" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/90" tvg-name="CCTV-5+ 体育赛事 HD",CCTV-5+ 体育赛事 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/LXfuK0XBqXq774rkjg4To53KE_FalWR7iILKDYPy0NnHq2d8cdy_pxeoF_pzbs850QQffZRwtcz_aR9SiiEqZg
+#EXTINF:-1 channel-id="90" channel-number="90" CUID="90" group-title="Dummy" tvg-chno="90" tvg-group="Dummy" tvg-id="90" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/91" tvg-name="CCTV-6",CCTV-6
+http://hksmt.huanqiuzhibo.cn:4268/v/1FhTUBRkGz2huGdM3pemGYf9IlSRT-Yc5DaSyRP4xCjcsjlVLg7uNDg2bDpAZ_veoRrWt9u5RSBFpqmPboMhIQ
+#EXTINF:-1 channel-id="91" channel-number="91" CUID="91" group-title="Dummy" tvg-chno="91" tvg-group="Dummy" tvg-id="91" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/92" tvg-name="CCTV-7 军事农业",CCTV-7 军事农业
+http://hksmt.huanqiuzhibo.cn:4268/v/rqjctr_2-5TZ1UnIcPyMIVSLExMfbn8upitb8ENNqCJwxgEm860qFc_Zss3fac6wma91D55KaOVX_kb7bcQ1dA
+#EXTINF:-1 channel-id="92" channel-number="92" CUID="92" group-title="Dummy" tvg-chno="92" tvg-group="Dummy" tvg-id="92" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/93" tvg-name="CCTV-8 电视剧 HD",CCTV-8 电视剧 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/Ec3VIUlxNOtkEDujJhjeTrp52DLmpvH4ZHLf-rPAohQaInzuMAnySClPXM4mMD-m-rXtGzHRpJI_xnaRHRPgyQ
+#EXTINF:-1 channel-id="93" channel-number="93" CUID="93" group-title="Dummy" tvg-chno="93" tvg-group="Dummy" tvg-id="93" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/94" tvg-name="CCTV-9 记录 HD",CCTV-9 记录 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/hTGVWVyAcW9pyo6kzHVHhXq_01U5uFqWxpPE_EEF-uSpJhqnvYtYm6l2s5d7aWmWsaC2VPLlQhxd60wjQ79QZw
+#EXTINF:-1 channel-id="94" channel-number="94" CUID="94" group-title="Dummy" tvg-chno="94" tvg-group="Dummy" tvg-id="94" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/95" tvg-name="CCTV4 新闻台",CCTV4 新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/iO3IOmAo7P9soKso8ZuLCWHS4tvZN0USLoZCXwOlE4hTltntggVYNsrwtUv2h8yFNBvXsZG1wTU6btaEs-ZMIw
+#EXTINF:-1 channel-id="95" channel-number="95" CUID="95" group-title="Dummy" tvg-chno="95" tvg-group="Dummy" tvg-id="95" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/96" tvg-name="Celestial Classic",Celestial Classic
+http://hksmt.huanqiuzhibo.cn:4268/v/2Cg1Rfh_tcOQhwpd_To5g4S1OVxFByKtbZyA6QPl5fCzJu9xaipJ43Q9AhJ3O7Wiiqhjd3wi9uRlP4zQjIJ-qQ
+#EXTINF:-1 channel-id="96" channel-number="96" CUID="96" group-title="Dummy" tvg-chno="96" tvg-group="Dummy" tvg-id="96" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/97" tvg-name="Celestial Movies HD",Celestial Movies HD
+http://hksmt.huanqiuzhibo.cn:4268/v/rDilo3l5VeZQAsuxDN_e7dFmN5ZISS0ygAnyiZ5HdtQwR-Cubuy1mo54qScAAZ0iWycJpZ8Hp6OexavV7phR-g
+#EXTINF:-1 channel-id="97" channel-number="97" CUID="97" group-title="Dummy" tvg-chno="97" tvg-group="Dummy" tvg-id="97" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/98" tvg-name="Ceria",Ceria
+http://hksmt.huanqiuzhibo.cn:4268/v/g3b2Me3NVcb8gwvNnM1dPv1YQS7qP2v_KTm8YLnVVJJh3DcFs1_mrKsF3_uy3j9EgFBaMtaHnnNWwSe02dBNqQ
+#EXTINF:-1 channel-id="98" channel-number="98" CUID="98" group-title="Dummy" tvg-chno="98" tvg-group="Dummy" tvg-id="98" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/99" tvg-name="CGNTV",CGNTV
+http://hksmt.huanqiuzhibo.cn:4268/v/e6Yy5kLOEA29_x9mmUkFM-1VnAwBxRkuI0CTqz_epYzhYcBhSIjzcUiLgWTuJZ6p9Y8iScnkMGxREN6LklO_7A
+#EXTINF:-1 channel-id="99" channel-number="99" CUID="99" group-title="Dummy" tvg-chno="99" tvg-group="Dummy" tvg-id="99" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/100" tvg-name="CGTN",CGTN
+http://hksmt.huanqiuzhibo.cn:4268/v/vPZDeStLFUCKgJPcqyjaBu4pn4Pkmd3SnXa_YDuoumAi-YEQREMQiU7UWy1jxFdFxgCcCvgxXHnoT7ZrW5nHfA
+#EXTINF:-1 channel-id="100" channel-number="100" CUID="100" group-title="Dummy" tvg-chno="100" tvg-group="Dummy" tvg-id="100" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/101" tvg-name="Ch 5 backup",Ch 5 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/ddAjKIdE7TzBFYlrEIAeNdl1oXfjT_4tpx2qCnOPmQrB0isgliAuLI--6X6Q2ZvfPXjhBoZYevmKnTgYO4LZAg
+#EXTINF:-1 channel-id="101" channel-number="101" CUID="101" group-title="Dummy" tvg-chno="101" tvg-group="Dummy" tvg-id="101" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/102" tvg-name="Ch 8",Ch 8
+http://hksmt.huanqiuzhibo.cn:4268/v/33yeuL6F6BOaOdH8UuuogSjPMYz82S0uyskvNq73hzEURKEyDUB1z1l8YmEP-vWK8tvgVV-7C1ctMfGNcYTDcw
+#EXTINF:-1 channel-id="102" channel-number="102" CUID="102" group-title="Dummy" tvg-chno="102" tvg-group="Dummy" tvg-id="102" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/103" tvg-name="Champion 5 EPL",Champion 5 EPL
+http://hksmt.huanqiuzhibo.cn:4268/v/wib1ksJ9PdL9eYi5cbX0y_xA_UwZMpFKJuDtlP3prgH1eGFz4RoIv_8JO-DMeNazV355jB3fgtInOf1nW0NBEQ
+#EXTINF:-1 channel-id="103" channel-number="103" CUID="103" group-title="Dummy" tvg-chno="103" tvg-group="Dummy" tvg-id="103" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/104" tvg-name="Champion 6 EPL",Champion 6 EPL
+http://hksmt.huanqiuzhibo.cn:4268/v/zyCmwXldUUgDVkDe4irYolcW7Sv3vXZX4-NkfkcRDk108xWhTrGxpLX-smWCsEqWgaQ46UuRG8n2b3ZGj2w81w
+#EXTINF:-1 channel-id="104" channel-number="104" CUID="104" group-title="Dummy" tvg-chno="104" tvg-group="Dummy" tvg-id="104" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/105" tvg-name="Channel 3 Thailand",Channel 3 Thailand
+http://hksmt.huanqiuzhibo.cn:4268/v/tW9sIJlHwu1NjAPGJai0zkEzPSnG61HoEJOmWdTf_-ddEuLqJA3ch4DgfunnzEtt1MgC7maVEg9FyWuEWX5xkQ
+#EXTINF:-1 channel-id="105" channel-number="105" CUID="105" group-title="Dummy" tvg-chno="105" tvg-group="Dummy" tvg-id="105" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/106" tvg-name="Channel 4",Channel 4
+http://hksmt.huanqiuzhibo.cn:4268/v/-yP0gdRGvo4txs4M3tYVmTX3cEFspxzPTPZzpxuOJG_ODrpq2A8pxsUla4-mYhtQE2qYP1C3_aK9Ca7V5-cxvg
+#EXTINF:-1 channel-id="106" channel-number="106" CUID="106" group-title="Dummy" tvg-chno="106" tvg-group="Dummy" tvg-id="106" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/107" tvg-name="Channel 5",Channel 5
+http://hksmt.huanqiuzhibo.cn:4268/v/UizqHdZNwrVccXD1_jXbngmUf_F4hq0Eg6MZRzizsfYeX0psK368pnSBKpeyzOe4afCgUgU_35kfhYgechBMKg
+#EXTINF:-1 channel-id="107" channel-number="107" CUID="107" group-title="Dummy" tvg-chno="107" tvg-group="Dummy" tvg-id="107" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/108" tvg-name="Channel 5 Thailand",Channel 5 Thailand
+http://hksmt.huanqiuzhibo.cn:4268/v/mnBcPmZc4nc6G8R04EkTLy4vvmlparnX9Ll7V1LJ21RJNnz2lG7EaCbSu6fZkVht1d93wfkriUl9Ty-Z3QkACw
+#EXTINF:-1 channel-id="108" channel-number="108" CUID="108" group-title="Dummy" tvg-chno="108" tvg-group="Dummy" tvg-id="108" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/109" tvg-name="Channel 7 Thailand",Channel 7 Thailand
+http://hksmt.huanqiuzhibo.cn:4268/v/NgOJHRbm-WBG4BnV70IqOnJnC82LM94mVwKir_ZalMlxt5l_jxNwoBI0S9zJLSrTtSD4Yg2KvtaOQwsvjUziPw
+#EXTINF:-1 channel-id="109" channel-number="109" CUID="109" group-title="Dummy" tvg-chno="109" tvg-group="Dummy" tvg-id="109" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/110" tvg-name="Channel 8",Channel 8
+http://hksmt.huanqiuzhibo.cn:4268/v/xZG9-niyJIa3FcBAy8ViAN8t8niN7uM_UQA_80z8DuRfWo-VqFF1uvyLlbZu-nnkwTeY_G-BQw8HoHPCIVN3Yg
+#EXTINF:-1 channel-id="110" channel-number="110" CUID="110" group-title="Dummy" tvg-chno="110" tvg-group="Dummy" tvg-id="110" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/111" tvg-name="Channel 8 backup",Channel 8 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/mTyH3y4FPLx_iQo4_3-Gz3rYq_l86gy_AnKyx_noQg_AVIyJK2VQp8LXQumU3FJ1OGRaTKS5vzHrNTrKLK-Dug
+#EXTINF:-1 channel-id="111" channel-number="111" CUID="111" group-title="Dummy" tvg-chno="111" tvg-group="Dummy" tvg-id="111" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/112" tvg-name="Channel U",Channel U
+http://hksmt.huanqiuzhibo.cn:4268/v/afymvlTsl2GX85X-7pb5xF3S5hVIopq62CLp4TN7bY4cWYbCLjyV6BSPMLV0FYh_09SU-t60vUfo86bOp8QLnA
+#EXTINF:-1 channel-id="112" channel-number="112" CUID="112" group-title="Dummy" tvg-chno="112" tvg-group="Dummy" tvg-id="112" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/113" tvg-name="Channel U backup",Channel U backup
+http://hksmt.huanqiuzhibo.cn:4268/v/iYXdwJvSRmMCavJ-YhXh_xA0DZ3ChJR6ZJm38jntlXE1xc7yCwVnGHSISvSa5ocEwVf01y-O_21vB_AVP3JPYw
+#EXTINF:-1 channel-id="113" channel-number="113" CUID="113" group-title="Dummy" tvg-chno="113" tvg-group="Dummy" tvg-id="113" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/114" tvg-name="CI",CI
+http://hksmt.huanqiuzhibo.cn:4268/v/LyDqx8Nlndr1W-331rMpvFA9hqpGD4_iRG0DzGMaswvYvv7dSm-mPrrqX8TF5nXdAiScSVS0KdfIYtCFVT1pFg
+#EXTINF:-1 channel-id="114" channel-number="114" CUID="114" group-title="Dummy" tvg-chno="114" tvg-group="Dummy" tvg-id="114" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/115" tvg-name="CINEMAX",CINEMAX
+http://hksmt.huanqiuzhibo.cn:4268/v/jlgIvVqhp0ASWKE9SRpOHUxbq9weFgcVBTDbOtdfU631szgFmr21XAvmmaZi8Kdsb8ciMepEzCyfEt3Jyc1hhQ
+#EXTINF:-1 channel-id="115" channel-number="115" CUID="115" group-title="Dummy" tvg-chno="115" tvg-group="Dummy" tvg-id="115" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/116" tvg-name="Cinemax",Cinemax
+http://hksmt.huanqiuzhibo.cn:4268/v/A_Fx01d_6VDBNMzj7SXm20bTKFrNDdaXeQSQm0wUuIsxjj8F9SQJ469mC7zpM_9yUEAGwwyrK44HBurtaR9nYQ
+#EXTINF:-1 channel-id="116" channel-number="116" CUID="116" group-title="Dummy" tvg-chno="116" tvg-group="Dummy" tvg-id="116" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/117" tvg-name="Citra",Citra
+http://hksmt.huanqiuzhibo.cn:4268/v/S8BNsG72sc7y_CgXN2srMkXRni8KreabpH_AHeFURd931bS7tSsbxfvNvyCFXjFc7ap6e7NQqBFTMgSJ5qEsDA
+#EXTINF:-1 channel-id="117" channel-number="117" CUID="117" group-title="Dummy" tvg-chno="117" tvg-group="Dummy" tvg-id="117" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/118" tvg-name="CNA",CNA
+http://hksmt.huanqiuzhibo.cn:4268/v/jkHyyITyZvy4MMVglb7j_iUdKC3ToWvROD8zdQImSfpWfVmhsbyHRz99QVkahHLyxzFSc2Ixhk0JetKy41XCqA
+#EXTINF:-1 channel-id="118" channel-number="118" CUID="118" group-title="Dummy" tvg-chno="118" tvg-group="Dummy" tvg-id="118" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/119" tvg-name="CNA backup",CNA backup
+http://hksmt.huanqiuzhibo.cn:4268/v/8eVuePhn60K3Vupa6D2n7ynDtofJT3LbnrGeSWCLBv_ubw1OL1HztiY_LBEfI7Mlna-aBlEnEA8bHmUSnMJKLg
+#EXTINF:-1 channel-id="119" channel-number="119" CUID="119" group-title="Dummy" tvg-chno="119" tvg-group="Dummy" tvg-id="119" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/120" tvg-name="CNA Japan",CNA Japan
+http://hksmt.huanqiuzhibo.cn:4268/v/G35WY0pVP7mZ_blM7bLHhiaztDF309Z_mr4vo92MCck77V3SrwOfwZwpna2RB9syRg7ySJ-MzKrghC6YQBjI6Q
+#EXTINF:-1 channel-id="120" channel-number="120" CUID="120" group-title="Dummy" tvg-chno="120" tvg-group="Dummy" tvg-id="120" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/121" tvg-name="CNBC",CNBC
+http://hksmt.huanqiuzhibo.cn:4268/v/ecYJsXdLNHze-6oYMpl5VRaw-6_F504O5SVFkeYueU26rmQ39C7U9G3ER-8qJ-H-W1f_4ctre3DKVYGvnaTITg
+#EXTINF:-1 channel-id="121" channel-number="121" CUID="121" group-title="Dummy" tvg-chno="121" tvg-group="Dummy" tvg-id="121" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/122" tvg-name="CNN backup",CNN backup
+http://hksmt.huanqiuzhibo.cn:4268/v/bkOlIQg4I8gxg-IBIv3BjWuaArqko71495s7iZDkeJoSB1Wn3QismVaxyQ0qh6mkUYgVq7fFqffw4c7S--CRiQ
+#EXTINF:-1 channel-id="122" channel-number="122" CUID="122" group-title="Dummy" tvg-chno="122" tvg-group="Dummy" tvg-id="122" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/123" tvg-name="CNN International",CNN International
+http://hksmt.huanqiuzhibo.cn:4268/v/codDyKWB0NZwVAhSsYinisWvB3v59oIO0EVhvYEL8NY9MfXn6Pbm-A4tO3E4vu9eiprAugM6E8u3OsQ5GvItWQ
+#EXTINF:-1 channel-id="123" channel-number="123" CUID="123" group-title="Dummy" tvg-chno="123" tvg-group="Dummy" tvg-id="123" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/124" tvg-name="Color HD",Color HD
+http://hksmt.huanqiuzhibo.cn:4268/v/kUfPxpBoLJIM1aW1WvhXPoAuSo9s7F45Ls6FV08JDEfRUMwnVIzGHYuk1xlXzITJx1Xwv6u-RopM306_Xi8HiA
+#EXTINF:-1 channel-id="124" channel-number="124" CUID="124" group-title="Dummy" tvg-chno="124" tvg-group="Dummy" tvg-id="124" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/125" tvg-name="Colors Tamil",Colors Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/JK_HqYXVIZBkqe2530lhwXUvYpx2BkCwDQRX7AtzTxPEivwaJ5E6YQRKd4FA_VrDyxG7WeOg3ma4xs-ZldVMoA
+#EXTINF:-1 channel-id="125" channel-number="125" CUID="125" group-title="Dummy" tvg-chno="125" tvg-group="Dummy" tvg-id="125" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/126" tvg-name="Daai TV",Daai TV
+http://hksmt.huanqiuzhibo.cn:4268/v/KdNRNNOB4XggDn2MDYGuEpcsjupX56wZy5Q1kDT2EtmlYUXw-5hwmV85xGeKq6RJP0UnCjTbsnSB_AufycxVAw
+#EXTINF:-1 channel-id="126" channel-number="126" CUID="126" group-title="Dummy" tvg-chno="126" tvg-group="Dummy" tvg-id="126" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/127" tvg-name="Danang TV1 HD",Danang TV1 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/jb0kzjPZb9oPECLGa59t8_JRSRs2sGLNl-aGQfuD-uWKhPSSprkQuDERdh6-HDW-Xs2llMJ_WCFZ5KJJHo5Gkg
+#EXTINF:-1 channel-id="127" channel-number="127" CUID="127" group-title="Dummy" tvg-chno="127" tvg-group="Dummy" tvg-id="127" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/128" tvg-name="Danang TV2 HD",Danang TV2 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/SV6nV5bmPS2nAf4hiz15IMN949UuIi5_rmZHLWUxVZdb11eAI8RyvxjKMXQRiKU5rMN9HXnC7WnlxFfhrkeM1g
+#EXTINF:-1 channel-id="128" channel-number="128" CUID="128" group-title="Dummy" tvg-chno="128" tvg-group="Dummy" tvg-id="128" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/129" tvg-name="Discovery Asia",Discovery Asia
+http://hksmt.huanqiuzhibo.cn:4268/v/6_JYGA1X2W03YHm5aicTV_3RjffOMYbJXhM_ugptiQXP6iOcr6yPPYQva2jlgsdb1GCz5NWJjjygyle4i-acGw
+#EXTINF:-1 channel-id="129" channel-number="129" CUID="129" group-title="Dummy" tvg-chno="129" tvg-group="Dummy" tvg-id="129" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/130" tvg-name="Discovery HD",Discovery HD
+http://hksmt.huanqiuzhibo.cn:4268/v/6jlagCCyDYp1sZlSxrKss2ynkLfzqKkPd-gNSluZaRLmj40y2-kFpN9cCBzUdr4n_cPkOZHZsbUox_-LIHCruA
+#EXTINF:-1 channel-id="130" channel-number="130" CUID="130" group-title="Dummy" tvg-chno="130" tvg-group="Dummy" tvg-id="130" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/131" tvg-name="Discovery Kids Tamil",Discovery Kids Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/3QPs4GSBeakFjaldP55T_Z3MAHBDoMwZsiMaAsbEgaswPaXNsA_8mqRAGyRfuPnmuphHyvka5iXkYIfFO90-kg
+#EXTINF:-1 channel-id="131" channel-number="131" CUID="131" group-title="Dummy" tvg-chno="131" tvg-group="Dummy" tvg-id="131" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/132" tvg-name="Discovery Tamil",Discovery Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/sDgd4nxnUxSQB5Ceuu9q6In3w5uinobz2Oj6twiCdYgDPMAqin-Tjbjz6ZMAtZlWevDMnuZgpnFEb4CB-MfEjg
+#EXTINF:-1 channel-id="132" channel-number="132" CUID="132" group-title="Dummy" tvg-chno="132" tvg-group="Dummy" tvg-id="132" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/133" tvg-name="Discovery World Tamil",Discovery World Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/igbhNz6XPICmmps4aPyqAxS0Y3GliIUoDOw2uKX2bd0-L1nLOY62g2Ur2FtO3SA3H1-iFj15c93nQf5XsRs04Q
+#EXTINF:-1 channel-id="133" channel-number="133" CUID="133" group-title="Dummy" tvg-chno="133" tvg-group="Dummy" tvg-id="133" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/134" tvg-name="Disney Taiwan",Disney Taiwan
+http://hksmt.huanqiuzhibo.cn:4268/v/kKYhd89HEDcbDi1q9iu8GKeU05DxVrQB8T9qie1BlzFuw8AeUTFuS76WJWXDVGVUMPdXif6E_0vhckg4HBrd0A
+#EXTINF:-1 channel-id="134" channel-number="134" CUID="134" group-title="Dummy" tvg-chno="134" tvg-group="Dummy" tvg-id="134" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/135" tvg-name="DW",DW
+http://hksmt.huanqiuzhibo.cn:4268/v/3mt1qC8bzXFR18wSVndM6YHuW3zIgG_JkYcJOL9hhZD_FhowOuMeGhCGytoBpOrb8aWbFBgXv9Wpx25101fgXw
+#EXTINF:-1 channel-id="135" channel-number="135" CUID="135" group-title="Dummy" tvg-chno="135" tvg-group="Dummy" tvg-id="135" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/136" tvg-name="EBS 1",EBS 1
+http://hksmt.huanqiuzhibo.cn:4268/v/onHzkQLR6I5AtXcuO60NkvUJexee7Aww2xsxmoquzTfXrmYw8C1T4C3EbmIPb01-ON3ySCnMXj7qdkGlgop-iQ
+#EXTINF:-1 channel-id="136" channel-number="136" CUID="136" group-title="Dummy" tvg-chno="136" tvg-group="Dummy" tvg-id="136" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/137" tvg-name="EBS Kids",EBS Kids
+http://hksmt.huanqiuzhibo.cn:4268/v/M7DuDEyaBzybuUCeX3czULEkUVHZgNye9qdFyyU2nzxi8HP8OX00JXNS30bWAxeR0lHe85ZsReNaQsyH5l6c4A
+#EXTINF:-1 channel-id="137" channel-number="137" CUID="137" group-title="Dummy" tvg-chno="137" tvg-group="Dummy" tvg-id="137" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/138" tvg-name="EBS Plus2",EBS Plus2
+http://hksmt.huanqiuzhibo.cn:4268/v/Pv1tMKhcDWB_2k5KypUQSlTkvidXlBXlE4Mc1d0Oucv19puHONI1CJq68ooR7HgoRox2M2L2uXsw3cq3Sg204A
+#EXTINF:-1 channel-id="138" channel-number="138" CUID="138" group-title="Dummy" tvg-chno="138" tvg-group="Dummy" tvg-id="138" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/139" tvg-name="EBS2",EBS2
+http://hksmt.huanqiuzhibo.cn:4268/v/Thnsidc-I8hhsKjqImuQZpjaQStz-Y6Bp1Ped4v4Nm4usmjf-VLvgAd-Crlik06GMY6-N2b-hMo8WBP53rEVSA
+#EXTINF:-1 channel-id="139" channel-number="139" CUID="139" group-title="Dummy" tvg-chno="139" tvg-group="Dummy" tvg-id="139" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/140" tvg-name="Entertain",Entertain
+http://hksmt.huanqiuzhibo.cn:4268/v/pAFa39KAMKEUR5WGl9QNIPM0mDx6MXCQQhphKV4isZ7UJs5antIsIO7i-c8SKAafXYnLkRN-RO2dK3asNSrz3A
+#EXTINF:-1 channel-id="140" channel-number="140" CUID="140" group-title="Dummy" tvg-chno="140" tvg-group="Dummy" tvg-id="140" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/141" tvg-name="Euronews",Euronews
+http://hksmt.huanqiuzhibo.cn:4268/v/wZ5vQPjC8Io-AviUJ6v7oHwnLhFd-WfQK9Jo9hCCwd5xFuv2G64QrpKc0ejlZLrmXurRghwKlOZ8Z16jOGVrLA
+#EXTINF:-1 channel-id="141" channel-number="141" CUID="141" group-title="Dummy" tvg-chno="141" tvg-group="Dummy" tvg-id="141" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/142" tvg-name="EWTN",EWTN
+http://hksmt.huanqiuzhibo.cn:4268/v/_y3kkePEbBzTUk-gFNfrDtg683r0rD-aXy24hV-e1wai3NHidiVC5UavtkzjYGEmkjEwZfrK02ImF5FfFXpocw
+#EXTINF:-1 channel-id="142" channel-number="142" CUID="142" group-title="Dummy" tvg-chno="142" tvg-group="Dummy" tvg-id="142" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/143" tvg-name="EYETV 戏剧",EYETV 戏剧
+http://hksmt.huanqiuzhibo.cn:4268/v/Nh6_UYcgthSv4VQY9up2ibpcl8tCFxwKbLXZJ7J5NpY6zO1wBqBfRBRBbja9gso616amTKNjK0fJkZCNUUKtIA
+#EXTINF:-1 channel-id="143" channel-number="143" CUID="143" group-title="Dummy" tvg-chno="143" tvg-group="Dummy" tvg-id="143" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/144" tvg-name="EYETV 旅游",EYETV 旅游
+http://hksmt.huanqiuzhibo.cn:4268/v/ehrthvakhq6tfPx7XAGkFicP_i6E6N8K_sVTViivs0EKt6xxkfLzJK2HPBio8wxhIJd9W-wK-3fbP4_7DoGA6Q
+#EXTINF:-1 channel-id="144" channel-number="144" CUID="144" group-title="Dummy" tvg-chno="144" tvg-group="Dummy" tvg-id="144" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/145" tvg-name="Fashion TV",Fashion TV
+http://hksmt.huanqiuzhibo.cn:4268/v/9xqJDjx7eb5oPrvZBn16lPNMnBWeuzpx2WgPDWwDWrvbS30k3U-vdCyXwOh56Y_K2Oryl-VJlzJU6VUK_6i0wA
+#EXTINF:-1 channel-id="145" channel-number="145" CUID="145" group-title="Dummy" tvg-chno="145" tvg-group="Dummy" tvg-id="145" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/146" tvg-name="Fight Sports",Fight Sports
+http://hksmt.huanqiuzhibo.cn:4268/v/83zhbzZ6MR4govz21tcEjR3r5484Ucb0pDW1dB2VN8tI25OFRl-2pOpRtXDjKgNoKEomWCSMbAEg3ikZqJZ8jw
+#EXTINF:-1 channel-id="146" channel-number="146" CUID="146" group-title="Dummy" tvg-chno="146" tvg-group="Dummy" tvg-id="146" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/147" tvg-name="Foodnetwork Hd",Foodnetwork Hd
+http://hksmt.huanqiuzhibo.cn:4268/v/yG5701Gi7YtKceq2_ABSCCCbl6vu-Ac2kyLhqJC-6Jni1Zv2E-8mWylYO-_L03CX-oZ_Cf8QzYfV4gobV0SfJQ
+#EXTINF:-1 channel-id="147" channel-number="147" CUID="147" group-title="Dummy" tvg-chno="147" tvg-group="Dummy" tvg-id="147" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/148" tvg-name="Fox News",Fox News
+http://hksmt.huanqiuzhibo.cn:4268/v/6WvkOcvq7LK_p2HdNb4b8tFPHPssGaq5JkmO0ZOFW0YcVJpFjhz9NGy5wauOFEUjI2QatVV6Hf1OcFastFJBFg
+#EXTINF:-1 channel-id="148" channel-number="148" CUID="148" group-title="Dummy" tvg-chno="148" tvg-group="Dummy" tvg-id="148" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/149" tvg-name="France 24",France 24
+http://hksmt.huanqiuzhibo.cn:4268/v/w1j6bM1WqHlJCSRTP4cF2eSCiXfq6t8RMQwxO9e32TvgVqEIHui4oh5ifBR94-pgYSyK0qtUboC4k_coNEKbaA
+#EXTINF:-1 channel-id="149" channel-number="149" CUID="149" group-title="Dummy" tvg-chno="149" tvg-group="Dummy" tvg-id="149" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/150" tvg-name="Freesports",Freesports
+http://hksmt.huanqiuzhibo.cn:4268/v/y5K3os3TAZ1UGSm8OBl4cLiMmg9Y0G1cVv2Y0PaJd9NLMX--GBaWrGhw7DI-EwlwLlPL54w_K5Hn3391LvzQfg
+#EXTINF:-1 channel-id="150" channel-number="150" CUID="150" group-title="Dummy" tvg-chno="150" tvg-group="Dummy" tvg-id="150" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/151" tvg-name="Gmm Channel",Gmm Channel
+http://hksmt.huanqiuzhibo.cn:4268/v/zKSFtWZzmUNB_SJEhHSa_GhsGw4xSWIy7OhvzuIhriaoh-zO99iPm__h0LHCqL9jAj1WWldTHUo2c5FbzJ3cNw
+#EXTINF:-1 channel-id="151" channel-number="151" CUID="151" group-title="Dummy" tvg-chno="151" tvg-group="Dummy" tvg-id="151" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/152" tvg-name="GmmOne",GmmOne
+http://hksmt.huanqiuzhibo.cn:4268/v/ViyzfkjFFIzelG0jmfdtaR64n44t-RdR7843i_1ioce1D9RBldqgAZIpmccrMJB7j2aiEoKTUIWFL-vATPfYBQ
+#EXTINF:-1 channel-id="152" channel-number="152" CUID="152" group-title="Dummy" tvg-chno="152" tvg-group="Dummy" tvg-id="152" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/153" tvg-name="Goshop",Goshop
+http://hksmt.huanqiuzhibo.cn:4268/v/wKtPw5FPN5MDkrXGM44J55n8ObABKauEfQ6wiOBq8VYYmNGXSJC-9UsYO8d7u0wSHOrtVqKgAJFqx1zp-UqftQ
+#EXTINF:-1 channel-id="153" channel-number="153" CUID="153" group-title="Dummy" tvg-chno="153" tvg-group="Dummy" tvg-id="153" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/154" tvg-name="GTV",GTV
+http://hksmt.huanqiuzhibo.cn:4268/v/eNJIB-AqT6rI1wHvqPQWqxHGpOIpIq1yI5rfwi2x4mhNq1o2N-6siw9pM8hcBNnGmWfSfU8IxXe-OcmkjDJYBQ
+#EXTINF:-1 channel-id="154" channel-number="154" CUID="154" group-title="Dummy" tvg-chno="154" tvg-group="Dummy" tvg-id="154" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/155" tvg-name="HBO Family",HBO Family
+http://hksmt.huanqiuzhibo.cn:4268/v/v-m06CYwcs4U8BeQ_U9OrT9ziLNhrGHYUVMo5hrwDF2Kymy6KrJ6lTkWmpRVVywFLGbexnepEpy-aAF0Lb6fcQ
+#EXTINF:-1 channel-id="155" channel-number="155" CUID="155" group-title="Dummy" tvg-chno="155" tvg-group="Dummy" tvg-id="155" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/156" tvg-name="HBO HD",HBO HD
+http://hksmt.huanqiuzhibo.cn:4268/v/oH_b6psejckV19BvrbM0FiX44Uzml3E7qoFl5god0kIOFyqj7hdi7yMdvkvtepyE1hDRG78dEZOwX-akR5pn6A
+#EXTINF:-1 channel-id="156" channel-number="156" CUID="156" group-title="Dummy" tvg-chno="156" tvg-group="Dummy" tvg-id="156" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/157" tvg-name="HBO Hits",HBO Hits
+http://hksmt.huanqiuzhibo.cn:4268/v/t1_Fr4Bedki-oZiMzD34zFeuwXE1IRvOj3RIP10L8o1D_8U9kHU0d6Lb2-Ng_8WFUu2hIYFAKbFXHrHwHvDm5A
+#EXTINF:-1 channel-id="157" channel-number="157" CUID="157" group-title="Dummy" tvg-chno="157" tvg-group="Dummy" tvg-id="157" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/158" tvg-name="HBO Signature",HBO Signature
+http://hksmt.huanqiuzhibo.cn:4268/v/tc24VJjNkTEeuAEKlreNDsyWJhN2F538dkBD718NDumeYJBlgAzA8XIHfvAv2c5a5SQ9gab6tU0z8f623AoJcg
+#EXTINF:-1 channel-id="158" channel-number="158" CUID="158" group-title="Dummy" tvg-chno="158" tvg-group="Dummy" tvg-id="158" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/159" tvg-name="HBO_HD",HBO_HD
+http://hksmt.huanqiuzhibo.cn:4268/v/7F-tOecE-HBWbnqbkTqAuviIXAHzWE9hTugTu9CGoXvDujEb5jsCuJnk5eEICxBRrxapvjZz_0iDPYHvYim6JA
+#EXTINF:-1 channel-id="159" channel-number="159" CUID="159" group-title="Dummy" tvg-chno="159" tvg-group="Dummy" tvg-id="159" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/160" tvg-name="HBO_HITS",HBO_HITS
+http://hksmt.huanqiuzhibo.cn:4268/v/tdG8LU-hPYBzm7MGwIrrGjbAKtC13ex1ZHcvxCMQSYEfCaDs4GFbCHb4mpPuj2rRsAksvjQpSkMpWkONL-eHtw
+#EXTINF:-1 channel-id="160" channel-number="160" CUID="160" group-title="Dummy" tvg-chno="160" tvg-group="Dummy" tvg-id="160" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/161" tvg-name="HBTV HD",HBTV HD
+http://hksmt.huanqiuzhibo.cn:4268/v/v-hRURkr4J-IUEpDcnyMwibUzbdQCc8O3Mv8kHvddSQALf2J5QnX1DE2JAtL-Xk36RZYRhUxI38-3pK6e6iK2g
+#EXTINF:-1 channel-id="161" channel-number="161" CUID="161" group-title="Dummy" tvg-chno="161" tvg-group="Dummy" tvg-id="161" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/162" tvg-name="HGTV",HGTV
+http://hksmt.huanqiuzhibo.cn:4268/v/ZhigrTcojRE2bFkyuiDqTzxXFirsbWkmewcm7AORF5-ashtGAjZy4oGManuPj-E-fUuGQCSu1mrvAWoSOhj3hw
+#EXTINF:-1 channel-id="162" channel-number="162" CUID="162" group-title="Dummy" tvg-chno="162" tvg-group="Dummy" tvg-id="162" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/163" tvg-name="History",History
+http://hksmt.huanqiuzhibo.cn:4268/v/wnSzCLz2Z9MKtE62R0T8CsQbMz13MHHaYzMQEN4MnbhaoOcmCLFXUnHjJGuC78MgY-rqdq8ro5x1PkPFYV9UBw
+#EXTINF:-1 channel-id="163" channel-number="163" CUID="163" group-title="Dummy" tvg-chno="163" tvg-group="Dummy" tvg-id="163" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/164" tvg-name="History Tamil",History Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/5CqahUixVXjLTQmb5LhSBX9MGzcX2XWyIjvbiVUuWwpXktDHJy_n8i--53TNUHwymwR2fBzKm5d-bn_qyIADYg
+#EXTINF:-1 channel-id="164" channel-number="164" CUID="164" group-title="Dummy" tvg-chno="164" tvg-group="Dummy" tvg-id="164" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/165" tvg-name="Hits",Hits
+http://hksmt.huanqiuzhibo.cn:4268/v/UUWefmbZi9P2hITSzDDwxYwx6KBZhkDsjWxDn6QJI7OtAlQN4_LOGnlZx3G797idj-XwihvZVKpfyW58ju_0yw
+#EXTINF:-1 channel-id="165" channel-number="165" CUID="165" group-title="Dummy" tvg-chno="165" tvg-group="Dummy" tvg-id="165" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/166" tvg-name="Hits Movie",Hits Movie
+http://hksmt.huanqiuzhibo.cn:4268/v/d1DXy_hWcZ7FcoiJkKCaCjSS8AJwThZLHnWsXIJZGJSCfiBdc1cFwngqWf5px1Dr1Fotww-Xm2onNk9PyG2Jzg
+#EXTINF:-1 channel-id="166" channel-number="166" CUID="166" group-title="Dummy" tvg-chno="166" tvg-group="Dummy" tvg-id="166" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/167" tvg-name="Hollywood Movies",Hollywood Movies
+http://hksmt.huanqiuzhibo.cn:4268/v/HxUOUCi0fXBULgY-5Yhb8jcV4fwRT4GeNR9DrsF9Vtu_CaMCS2z8wbLo4JFbplzUDv_qvCkzC5wlPgI3wA417Q
+#EXTINF:-1 channel-id="167" channel-number="167" CUID="167" group-title="Dummy" tvg-chno="167" tvg-group="Dummy" tvg-id="167" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/168" tvg-name="HTV 7",HTV 7
+http://hksmt.huanqiuzhibo.cn:4268/v/fmuEkCrJ0aNweeu2iH9yluX0FMJlm5N40_Ra_Z3yHSnyl6nyN_jgLsctLC-lBawH4xAdf07i3wmr0whFyF7zfw
+#EXTINF:-1 channel-id="168" channel-number="168" CUID="168" group-title="Dummy" tvg-chno="168" tvg-group="Dummy" tvg-id="168" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/169" tvg-name="HTV 9",HTV 9
+http://hksmt.huanqiuzhibo.cn:4268/v/alxc8kOI_8ghX2SXmRA35QJ1ZdAkE6kwFshxAh6efGeovD4huJ_ULoMYn4iQdRLUm7GLqR13zWCxrxWsuJKWBA
+#EXTINF:-1 channel-id="169" channel-number="169" CUID="169" group-title="Dummy" tvg-chno="169" tvg-group="Dummy" tvg-id="169" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/170" tvg-name="Indosiar HD",Indosiar HD
+http://hksmt.huanqiuzhibo.cn:4268/v/Mk_aOc_YX1xAULyEwwNBpifKRjCwGQMIi7fH_oly-I1gO4IQMg60_RE8Shpo05LJCjv8QqOaxxxNgNvKVeW8UQ
+#EXTINF:-1 channel-id="170" channel-number="170" CUID="170" group-title="Dummy" tvg-chno="170" tvg-group="Dummy" tvg-id="170" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/171" tvg-name="iNews TV",iNews TV
+http://hksmt.huanqiuzhibo.cn:4268/v/agW-jZMPjF4TlJme3l569a3y3HqH3VmBV1dFUCv65KjTjyBDbSpWESL0Xqjl3dYOvq2uy76QlecH_NAx-Fe1og
+#EXTINF:-1 channel-id="171" channel-number="171" CUID="171" group-title="Dummy" tvg-chno="171" tvg-group="Dummy" tvg-id="171" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/172" tvg-name="iNews 新闻台",iNews 新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/mPqdaJPrd2wU_fA7xXXDvsjjbJImJsv7vWCeXtRPrm6dP4R-LKm97HboRCv7ruznI5QluaL7tRpXh6IV-jo_5Q
+#EXTINF:-1 channel-id="172" channel-number="172" CUID="172" group-title="Dummy" tvg-chno="172" tvg-group="Dummy" tvg-id="172" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/173" tvg-name="itv 1",itv 1
+http://hksmt.huanqiuzhibo.cn:4268/v/AVrnyj9K-a0We3NL4uv3ltZhpnH63FVo1_pLB19_opViBetFdDDDdTLVfa17KIu1NhhcFBSsyvrB8RDdSuRIVg
+#EXTINF:-1 channel-id="173" channel-number="173" CUID="173" group-title="Dummy" tvg-chno="173" tvg-group="Dummy" tvg-id="173" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/174" tvg-name="itv 2",itv 2
+http://hksmt.huanqiuzhibo.cn:4268/v/U7RxsZXtoyqwGfKb2ZiP0J8E4pazjae7aFScc7L47yx3WIG3gWCRHcOPsRLYov73R1QfDdJ6kMPTtEOryarWFA
+#EXTINF:-1 channel-id="174" channel-number="174" CUID="174" group-title="Dummy" tvg-chno="174" tvg-group="Dummy" tvg-id="174" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/175" tvg-name="J 2",J 2
+http://hksmt.huanqiuzhibo.cn:4268/v/uzx7spX_IiIahRw2UHBsXhEwIkfU1wy9-zlDDMe-8I0af4VeVMeB4ZgY5r38eJbrZwxSjHaO9IM5e8Oa-qbh2w
+#EXTINF:-1 channel-id="175" channel-number="175" CUID="175" group-title="Dummy" tvg-chno="175" tvg-group="Dummy" tvg-id="175" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/176" tvg-name="J the Kpop",J the Kpop
+http://hksmt.huanqiuzhibo.cn:4268/v/FuA3DpzlQ4xOO0wuWtivIEbiJdj8Qep7nUHTGP7GKYKPRGmPgZ-L-CrOEAe68tLeYFietpddb5lBuy9_Obfekw
+#EXTINF:-1 channel-id="176" channel-number="176" CUID="176" group-title="Dummy" tvg-chno="176" tvg-group="Dummy" tvg-id="176" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/177" tvg-name="J2 备用",J2 备用
+http://hksmt.huanqiuzhibo.cn:4268/v/XKclJB7hBlXwhG9y4FYgPdTSqRZyaddVyD3oKBPBOGb2eq7eptt7-V_5B5UBrRDiIGKN__GmNnsMgCEivx8AbA
+#EXTINF:-1 channel-id="177" channel-number="177" CUID="177" group-title="Dummy" tvg-chno="177" tvg-group="Dummy" tvg-id="177" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/178" tvg-name="Jak TV",Jak TV
+http://hksmt.huanqiuzhibo.cn:4268/v/Ond5G1RhQgiPvEtHVU2diEfR0D75pJjdR5WqbS9f-QOEVIrwBrMR1QzdTb3hhykFrgfLSFqe7YHKfGDP9MeoSA
+#EXTINF:-1 channel-id="178" channel-number="178" CUID="178" group-title="Dummy" tvg-chno="178" tvg-group="Dummy" tvg-id="178" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/179" tvg-name="JET 綜合",JET 綜合
+http://hksmt.huanqiuzhibo.cn:4268/v/3rUHfJaD_ImAP5M89lE9n8cvXiW63dy0vKO17jw9gA32RQbRuywvM97S_pKzbgatSXmHLdkc_ORjeZbPF2WzyA
+#EXTINF:-1 channel-id="179" channel-number="179" CUID="179" group-title="Dummy" tvg-chno="179" tvg-group="Dummy" tvg-id="179" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/180" tvg-name="JTV",JTV
+http://hksmt.huanqiuzhibo.cn:4268/v/m30VmxwIiS7qt2aewWpRqEOuFM2LAyuXQ8ziOWGKqT5uXqPqepp9mdotOrwOa8k1k9IlXuthHky5dPYBA6H9Vw
+#EXTINF:-1 channel-id="180" channel-number="180" CUID="180" group-title="Dummy" tvg-chno="180" tvg-group="Dummy" tvg-id="180" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/181" tvg-name="KBS World",KBS World
+http://hksmt.huanqiuzhibo.cn:4268/v/7Z6iKsDP55y3GY-EAkPpoyTnQiRh4KjLNFkprbOK_TUbeMGkyMTIv9ljM8LM1j2X0U00v-moRya4-f29m5XS0w
+#EXTINF:-1 channel-id="181" channel-number="181" CUID="181" group-title="Dummy" tvg-chno="181" tvg-group="Dummy" tvg-id="181" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/182" tvg-name="KBS World 24",KBS World 24
+http://hksmt.huanqiuzhibo.cn:4268/v/Syr8DVXSzMGshRaHDHBGWrfRLSfac9kE14tzQYZjBwMG-QAr1t0Q2V7avK3yaEvL4Ytx22WD5GrxrqACjLkpbw
+#EXTINF:-1 channel-id="182" channel-number="182" CUID="182" group-title="Dummy" tvg-chno="182" tvg-group="Dummy" tvg-id="182" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/183" tvg-name="Kids TV",Kids TV
+http://hksmt.huanqiuzhibo.cn:4268/v/ybsR-s6zpNLD8VXPN1Bt-fhhnUzfJKe84eJQjAXjmdrvg9zKQPuiCb0b0xygz32-MPQKEIcWyeISfiUGvlY6ZA
+#EXTINF:-1 channel-id="183" channel-number="183" CUID="183" group-title="Dummy" tvg-chno="183" tvg-group="Dummy" tvg-id="183" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/184" tvg-name="Kompass TV",Kompass TV
+http://hksmt.huanqiuzhibo.cn:4268/v/17pxBPXxLihZ58o0CtBoJXYVVt_OiQF0Huo3DSo6BO-IRPpAwXQQoJWZsUFd3YNDYe64BpYIQU7gigOEJTJzog
+#EXTINF:-1 channel-id="184" channel-number="184" CUID="184" group-title="Dummy" tvg-chno="184" tvg-group="Dummy" tvg-id="184" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/185" tvg-name="Lifestyle&Fashion",Lifestyle&Fashion
+http://hksmt.huanqiuzhibo.cn:4268/v/m9FmWRpOt_lz-46kl4uwyPVXcDqE2X4U5VsbKOcXh3KiWC-cZ9S9MzZ4hTsAoxGBgVD7fioGa6Oa3w1V2hgbGw
+#EXTINF:-1 channel-id="185" channel-number="185" CUID="185" group-title="Dummy" tvg-chno="185" tvg-group="Dummy" tvg-id="185" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/186" tvg-name="Madinah HD",Madinah HD
+http://hksmt.huanqiuzhibo.cn:4268/v/38QZ-iZhuH9wt8aeGPyHMCwOusUQqXhpC1QY5CrdjjKS6Y2FFnoer7dbcIcFWLkvBPtQqx__tTGRWIIJjcYbQA
+#EXTINF:-1 channel-id="186" channel-number="186" CUID="186" group-title="Dummy" tvg-chno="186" tvg-group="Dummy" tvg-id="186" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/187" tvg-name="Makkal TV",Makkal TV
+http://hksmt.huanqiuzhibo.cn:4268/v/lHtxrKqKqGlkiw3bO_tbhDnfW5JnNrERKj9F9HviVC6MBYjDjMoGzBCUcQjkw6eKruWRjNfWTIS7n90vWdfRBw
+#EXTINF:-1 channel-id="187" channel-number="187" CUID="187" group-title="Dummy" tvg-chno="187" tvg-group="Dummy" tvg-id="187" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/188" tvg-name="MCOT HD Thailand-1",MCOT HD Thailand-1
+http://hksmt.huanqiuzhibo.cn:4268/v/9v2yEZU8uDZu6ckkgv1YEDVyO_vzCmqUmEXBAnKnyeX7yo2UHhRBEPyp-vSb6SkLO7jz5RjihK0R8KW33IDZ8w
+#EXTINF:-1 channel-id="188" channel-number="188" CUID="188" group-title="Dummy" tvg-chno="188" tvg-group="Dummy" tvg-id="188" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/189" tvg-name="Mecca Live HD",Mecca Live HD
+http://hksmt.huanqiuzhibo.cn:4268/v/jI5YbP7AHnODfX99hdTse9-N5eJtv3JfsrcSDD0aaEI17tz4E5gMjOVsVuFODDg7DaNjnRGowYss0hvdnKIYPg
+#EXTINF:-1 channel-id="189" channel-number="189" CUID="189" group-title="Dummy" tvg-chno="189" tvg-group="Dummy" tvg-id="189" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/190" tvg-name="Metro TV",Metro TV
+http://hksmt.huanqiuzhibo.cn:4268/v/wNFlntKHZUiEJwKAq6UCswSJpQR17kzHEXMvYavWS7rSJLFOPnL7PQcvpLvty5v7J4C6bgf4ez_vdyGNcL5Ouw
+#EXTINF:-1 channel-id="190" channel-number="190" CUID="190" group-title="Dummy" tvg-chno="190" tvg-group="Dummy" tvg-id="190" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/191" tvg-name="MiaoMi",MiaoMi
+http://hksmt.huanqiuzhibo.cn:4268/v/v4J0T6J0vX571QuBvtMJs8fAPBhvi9olqDRw3lGViy8Je4J2i0AmNB0IGh3K1PoPe9RC2raw9bUQtLY-eYb_dA
+#EXTINF:-1 channel-id="191" channel-number="191" CUID="191" group-title="Dummy" tvg-chno="191" tvg-group="Dummy" tvg-id="191" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/192" tvg-name="MNC TV",MNC TV
+http://hksmt.huanqiuzhibo.cn:4268/v/W2cIsw21s8lPdRBmi1M7VGTyJaH2bTJngI2PG52sU4qOXY9Pn-ihNtbq_OCcc3GaLCYjHjJpiQnwXMdd3xpgXg
+#EXTINF:-1 channel-id="192" channel-number="192" CUID="192" group-title="Dummy" tvg-chno="192" tvg-group="Dummy" tvg-id="192" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/193" tvg-name="Momo TV",Momo TV
+http://hksmt.huanqiuzhibo.cn:4268/v/yean1Gw2L9Da7ikDAjIoAkJXEhf0HQgnwmjUCZwKLNviyvGkEYk2wCxspeYwKX1pDkajFEOizBWJKde_zL-_WQ
+#EXTINF:-1 channel-id="193" channel-number="193" CUID="193" group-title="Dummy" tvg-chno="193" tvg-group="Dummy" tvg-id="193" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/194" tvg-name="Mono",Mono
+http://hksmt.huanqiuzhibo.cn:4268/v/FsPvoWcxUIZVTzFY9alHCMi1AUXZ7HXgnPb37SK3GzEoVsl0d9xfWffu7dqX-NpadDSi3RKcOAZ6tB-Vfu4EPA
+#EXTINF:-1 channel-id="194" channel-number="194" CUID="194" group-title="Dummy" tvg-chno="194" tvg-group="Dummy" tvg-id="194" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/195" tvg-name="More4",More4
+http://hksmt.huanqiuzhibo.cn:4268/v/Rc_5RPflL007kXbUoociJfTQe_2I2rev3t5Vh-brfJNGwT_mOoCXqKZ8EftHFIwl7ch2ilE4MVpTDHVBFnHC3A
+#EXTINF:-1 channel-id="195" channel-number="195" CUID="195" group-title="Dummy" tvg-chno="195" tvg-group="Dummy" tvg-id="195" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/196" tvg-name="Movies Now HD",Movies Now HD
+http://hksmt.huanqiuzhibo.cn:4268/v/bXPps_34WTJnvDPKNC99fQJcdURQcenVATPebUCOFpSAPZEDqwONVndEOZ07xQMJtY4Jnei3PsomG0hvUld0lg
+#EXTINF:-1 channel-id="196" channel-number="196" CUID="196" group-title="Dummy" tvg-chno="196" tvg-group="Dummy" tvg-id="196" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/197" tvg-name="MTV Live",MTV Live
+http://hksmt.huanqiuzhibo.cn:4268/v/La3Qondyhe5c1NpufriAIfzKr0wiyYmlYNAt4wEIt82QRcHyYFEgssRfHGc23j98Ycsiszkc2NXSF4WmGWt5xQ
+#EXTINF:-1 channel-id="197" channel-number="197" CUID="197" group-title="Dummy" tvg-chno="197" tvg-group="Dummy" tvg-id="197" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/198" tvg-name="Music TV",Music TV
+http://hksmt.huanqiuzhibo.cn:4268/v/YzaYSAOAZYdjHxj76gLC4lr5ISNWcV0hlkbUzuZo2aq7FeI8Yh99FXExOtspl3EzqbibwdXZggriaxTNf-nJ9g
+#EXTINF:-1 channel-id="198" channel-number="198" CUID="198" group-title="Dummy" tvg-chno="198" tvg-group="Dummy" tvg-id="198" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/199" tvg-name="Muslim TV",Muslim TV
+http://hksmt.huanqiuzhibo.cn:4268/v/qRIHEaWqWMq1Mpv9QRGEQvAUpI1uYKA-FU5mVjlNOBVi6WOo3JW47uDDwtm8_A1vAnowvOBJZj-t9tOSkaYPHQ
+#EXTINF:-1 channel-id="199" channel-number="199" CUID="199" group-title="Dummy" tvg-chno="199" tvg-group="Dummy" tvg-id="199" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/200" tvg-name="NatGeo HD",NatGeo HD
+http://hksmt.huanqiuzhibo.cn:4268/v/TH7kzsW5d6v9oeHz07tH6F7nQRnxQccO2Mn0vUR6Up9rsykWVQctmGXVHF9j7QRroMiBnW88c79cd9_K69O2cA
+#EXTINF:-1 channel-id="200" channel-number="200" CUID="200" group-title="Dummy" tvg-chno="200" tvg-group="Dummy" tvg-id="200" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/201" tvg-name="NatGeo Tamil",NatGeo Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/hFadhfE6HUr_-Xz5-SBjFC4icTiTGK1jXYJ-ZcYFeWeF4MQVXKwuNdkS2lwCItOqFWpVKufMys47XEbBef6BUg
+#EXTINF:-1 channel-id="201" channel-number="201" CUID="201" group-title="Dummy" tvg-chno="201" tvg-group="Dummy" tvg-id="201" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/202" tvg-name="NatGeo Wild HD",NatGeo Wild HD
+http://hksmt.huanqiuzhibo.cn:4268/v/VCVNQsJfQedRRkzdpoF2GxgQ3EZnEAkxniNRpMtyMR4CHKjcQLh050MJCqwN010FCHsT8fz-86CyTDkZn5SUVg
+#EXTINF:-1 channel-id="202" channel-number="202" CUID="202" group-title="Dummy" tvg-chno="202" tvg-group="Dummy" tvg-id="202" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/203" tvg-name="Natgeo Wild Tamil",Natgeo Wild Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/BjX0X3Y2ZJ94eJXapd93pcAJ39K2Y7_BrdEi1-DAME6fuF88B-8b0xQoqV9_UleKuC6s9POkW1-oYR7MOkVyTA
+#EXTINF:-1 channel-id="203" channel-number="203" CUID="203" group-title="Dummy" tvg-chno="203" tvg-group="Dummy" tvg-id="203" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/204" tvg-name="Natgeo_HD",Natgeo_HD
+http://hksmt.huanqiuzhibo.cn:4268/v/SGOjnGvOLW7iMEUK-ny9Go94AKwk9M7fZMWN7IDY78yikDO9_mwuu_LLjhjMODcdNKnzNU-YdyHA6rDtpOwrfg
+#EXTINF:-1 channel-id="204" channel-number="204" CUID="204" group-title="Dummy" tvg-chno="204" tvg-group="Dummy" tvg-id="204" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/205" tvg-name="NatGeo_Wild HD",NatGeo_Wild HD
+http://hksmt.huanqiuzhibo.cn:4268/v/TEqOH7fChcEY8dJu0N4aCoATpywZZnnnPBiq_oqNoKmvX5xe4TOFCSNq0Z0wYnHCJV1_HzYKgCAL-H4La3DKcg
+#EXTINF:-1 channel-id="205" channel-number="205" CUID="205" group-title="Dummy" tvg-chno="205" tvg-group="Dummy" tvg-id="205" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/206" tvg-name="Nation",Nation
+http://hksmt.huanqiuzhibo.cn:4268/v/LsIG4WtrP1CN36qLp6XdY1gnKt5tvU6-CJnHbwLFQSlCditcnSZUHIXXG8f6K0RhCMy786oqS6s-yQiPzDmsgQ
+#EXTINF:-1 channel-id="206" channel-number="206" CUID="206" group-title="Dummy" tvg-chno="206" tvg-group="Dummy" tvg-id="206" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/207" tvg-name="NBA TV",NBA TV
+http://hksmt.huanqiuzhibo.cn:4268/v/Cx3846OUqqTU6eKtXCW36zV0Ke7hpG3u_lhL_XH1NmGEGZHnMan57cxTuAJlDjKbAurKlO3wCNlRxDpLChA7-g
+#EXTINF:-1 channel-id="207" channel-number="207" CUID="207" group-title="Dummy" tvg-chno="207" tvg-group="Dummy" tvg-id="207" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/208" tvg-name="Nbt",Nbt
+http://hksmt.huanqiuzhibo.cn:4268/v/-5QB3W3bxurnm36cjGX1BvCTM85yeh-IvcjhW4lRQC8IxuArCTw3KQvSe_EtyZ5VCsg3cvrc-5RIhxWhChivwA
+#EXTINF:-1 channel-id="208" channel-number="208" CUID="208" group-title="Dummy" tvg-chno="208" tvg-group="Dummy" tvg-id="208" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/209" tvg-name="Net TV",Net TV
+http://hksmt.huanqiuzhibo.cn:4268/v/QXsFzQ6WASGJudDF4zL6yAOictJ01p9ZPQZT6qMzRr90SVyQUBe0P2w7t0_DcYgwDJJu2wGxhwTs2Yc0fhGcqg
+#EXTINF:-1 channel-id="209" channel-number="209" CUID="209" group-title="Dummy" tvg-chno="209" tvg-group="Dummy" tvg-id="209" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/210" tvg-name="New",New
+http://hksmt.huanqiuzhibo.cn:4268/v/uXimoHlRV7iH0YRYYcCgyic27iUHXCjo39nBtNbnnrVlOej7YCWVyzIJOsfMDh-LSW8ocKBxmWxWEOBWRHy_cw
+#EXTINF:-1 channel-id="210" channel-number="210" CUID="210" group-title="Dummy" tvg-chno="210" tvg-group="Dummy" tvg-id="210" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/211" tvg-name="News 18 Tamil",News 18 Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/S4-0FjwdZXh4A6yhLGtnp9ZgHm58rSa6aT_igjl23iuR0RqOI-GSUXDE88zZ3Dtb59cV1zHhfJ1SkLfFE2auyA
+#EXTINF:-1 channel-id="211" channel-number="211" CUID="211" group-title="Dummy" tvg-chno="211" tvg-group="Dummy" tvg-id="211" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/212" tvg-name="NHK Oaska",NHK Oaska
+http://hksmt.huanqiuzhibo.cn:4268/v/BsfMzUwGvE5-fC8uqItv3I6tueWxhobwRWcY25n4BMckxM-7UBqzBLhpeHQw7__hF30opxn0xYDSIi1mUzUTng
+#EXTINF:-1 channel-id="212" channel-number="212" CUID="212" group-title="Dummy" tvg-chno="212" tvg-group="Dummy" tvg-id="212" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/213" tvg-name="NHK World",NHK World
+http://hksmt.huanqiuzhibo.cn:4268/v/mNasHqShHT3jHu_CQD5nLfkm5_x29hB0Ee9zcNY1NQ7vntI-v08wl9XFP6AbK7KlLw4rlrT4afwuGP9q6ypMQQ
+#EXTINF:-1 channel-id="213" channel-number="213" CUID="213" group-title="Dummy" tvg-chno="213" tvg-group="Dummy" tvg-id="213" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/214" tvg-name="NHK-E",NHK-E
+http://hksmt.huanqiuzhibo.cn:4268/v/rb2HU_DVB-94SCStS4bE22pWHBU9me3YptLPjbCDLNXGm-CZv3ZxNhqjjWPT7Au_er30znedW30NLGemM_R4BQ
+#EXTINF:-1 channel-id="214" channel-number="214" CUID="214" group-title="Dummy" tvg-chno="214" tvg-group="Dummy" tvg-id="214" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/215" tvg-name="NHK-総合-2",NHK-総合-2
+http://hksmt.huanqiuzhibo.cn:4268/v/aCc9LrFldPzMg5W3fONCTLa4SPuIB9TjlqBvmXgZDnezHq63AcI-_B5WTG1G0XxGfnWFmkphVHun_boVAHn4PA
+#EXTINF:-1 channel-id="215" channel-number="215" CUID="215" group-title="Dummy" tvg-chno="215" tvg-group="Dummy" tvg-id="215" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/216" tvg-name="NHKBS1",NHKBS1
+http://hksmt.huanqiuzhibo.cn:4268/v/VJuh4VWFGftJjm-I_FvknyKk17VkeE6e-db4Iu1IBo3InpBi7UMWxQIR9GpgJ8ZPccsX7Fm13iLll-1OpSB0KA
+#EXTINF:-1 channel-id="216" channel-number="216" CUID="216" group-title="Dummy" tvg-chno="216" tvg-group="Dummy" tvg-id="216" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/217" tvg-name="NHKBSプレミア Premium",NHKBSプレミア Premium
+http://hksmt.huanqiuzhibo.cn:4268/v/PiWCHuptZmHic82RkQ08lYvcgRyKqUHizs89cVDdtyGYEHT8aTim--3d-_Nh3u-Wz4AkCoqyP5yGBUbKNnxVSA
+#EXTINF:-1 channel-id="217" channel-number="217" CUID="217" group-title="Dummy" tvg-chno="217" tvg-group="Dummy" tvg-id="217" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/218" tvg-name="Nick Jr",Nick Jr
+http://hksmt.huanqiuzhibo.cn:4268/v/9ys04ez0VQr3kJBb15GrKjVoQlp5ms8VkYMO4zXo3ekJuI5XVK7O_zahZ9UooTUscEeihdw6zkt7FnNPLeDxEg
+#EXTINF:-1 channel-id="218" channel-number="218" CUID="218" group-title="Dummy" tvg-chno="218" tvg-group="Dummy" tvg-id="218" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/219" tvg-name="Nickelodeon",Nickelodeon
+http://hksmt.huanqiuzhibo.cn:4268/v/YXzow2x5EdAz8I390tJh-sDHBmPAYanHfSSJz4762b94cadSmImVzXd9W7dbRTQG7Ylu3exEFJHS3lFX6-Cp7g
+#EXTINF:-1 channel-id="219" channel-number="219" CUID="219" group-title="Dummy" tvg-chno="219" tvg-group="Dummy" tvg-id="219" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/220" tvg-name="NTV7",NTV7
+http://hksmt.huanqiuzhibo.cn:4268/v/mwl2tyoPN7EQ4HQez8ALZHSo0BEnQoawHmxDulCZYK6GY6zoYuZWrk0Ddwe_uBwpdKLsJ70bXIld7DNNhlirCg
+#EXTINF:-1 channel-id="220" channel-number="220" CUID="220" group-title="Dummy" tvg-chno="220" tvg-group="Dummy" tvg-id="220" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/221" tvg-name="Oasis",Oasis
+http://hksmt.huanqiuzhibo.cn:4268/v/KLExvD8qjpI8YErNkpXT9ap-pFnlvvDkEVkp7FQ9mugeI9xKUnp2-NqsOHbyWDeBbUYkWK0bf8urqiKiOk7ppw
+#EXTINF:-1 channel-id="221" channel-number="221" CUID="221" group-title="Dummy" tvg-chno="221" tvg-group="Dummy" tvg-id="221" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/222" tvg-name="One",One
+http://hksmt.huanqiuzhibo.cn:4268/v/QBqYRu6mOUHcOvx5EeMtPDy4hr5uuiMeWZ_wDd4jCsN_2Iwfjp6rk8-Wx8TfMmteFsF44v1okSbMqlzMbg-sRw
+#EXTINF:-1 channel-id="222" channel-number="222" CUID="222" group-title="Dummy" tvg-chno="222" tvg-group="Dummy" tvg-id="222" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/223" tvg-name="Paramount Network",Paramount Network
+http://hksmt.huanqiuzhibo.cn:4268/v/hxWNZut6QR0lQ9nR8DhnkoGhwJbyA5o26Yn_kk3nUu9RjetZnUQ4Av6bCMglISsoYbPJuJUsEsIK_-e-P9HmwA
+#EXTINF:-1 channel-id="223" channel-number="223" CUID="223" group-title="Dummy" tvg-chno="223" tvg-group="Dummy" tvg-id="223" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/224" tvg-name="Pick TV",Pick TV
+http://hksmt.huanqiuzhibo.cn:4268/v/Ro5At4eFzsVszk5B-86HYu1PiLGC5wjQPtriZ1w6Csf1ZYTRj2A3QGXU8b_MGRr1sG0R8bYPxJLGL9UnNYkVnw
+#EXTINF:-1 channel-id="224" channel-number="224" CUID="224" group-title="Dummy" tvg-chno="224" tvg-group="Dummy" tvg-id="224" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/225" tvg-name="Picture HD",Picture HD
+http://hksmt.huanqiuzhibo.cn:4268/v/7U9wv2RcPpdYFS8Vg5tDAJoTWmbLo8j6cEU_beCFOjuZAUp3I2FAW6qJEBKJX44Po0Pz2EtErIVLLKU5aGNfYg
+#EXTINF:-1 channel-id="225" channel-number="225" CUID="225" group-title="Dummy" tvg-chno="225" tvg-group="Dummy" tvg-id="225" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/226" tvg-name="PPTV Thailand1",PPTV Thailand1
+http://hksmt.huanqiuzhibo.cn:4268/v/wLYj4fEjuljiEdyZyq7dItGWDrel0fxv3JdtU43lCk7xG_qouyFDKZ-93KCTisYclTYp4xEBZan44RnSQeV7zQ
+#EXTINF:-1 channel-id="226" channel-number="226" CUID="226" group-title="Dummy" tvg-chno="226" tvg-group="Dummy" tvg-id="226" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/227" tvg-name="Prima",Prima
+http://hksmt.huanqiuzhibo.cn:4268/v/WPGZ8f2zoZbjHrEG1riqziCndt61fw2JfLQKK2OV5BqgRLGOrYZljBbhNsAhWUq1okO0Fg7emAJUYEJFNhrKfQ
+#EXTINF:-1 channel-id="227" channel-number="227" CUID="227" group-title="Dummy" tvg-chno="227" tvg-group="Dummy" tvg-id="227" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/228" tvg-name="Prima backup",Prima backup
+http://hksmt.huanqiuzhibo.cn:4268/v/gZlr2ME4d4ye-LYEluGYX7n4OAAtZTGjNfY1Y1rI-epeEJLaUM0w6CjQDtTscUgcJ32hqX-E4Cv0d3YXViZ3lg
+#EXTINF:-1 channel-id="228" channel-number="228" CUID="228" group-title="Dummy" tvg-chno="228" tvg-group="Dummy" tvg-id="228" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/229" tvg-name="PTTH 1",PTTH 1
+http://hksmt.huanqiuzhibo.cn:4268/v/o3DEGMCBxelkz2nhafFPkPYuntvORJV1GtUUg47jdKWPo8Yro9KuaGI9oLL4SVUVPXd0m7rh-0oFC3X9gyBhjg
+#EXTINF:-1 channel-id="229" channel-number="229" CUID="229" group-title="Dummy" tvg-chno="229" tvg-group="Dummy" tvg-id="229" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/230" tvg-name="Rania",Rania
+http://hksmt.huanqiuzhibo.cn:4268/v/z4aWIGHpGmYUN52b8mrAyr3MEKfJxFNBkDx1oK-ZCZuI7pLL7evWfmBXtRIc-2sEQyduWdAsI8AEzyuyYjTvlA
+#EXTINF:-1 channel-id="230" channel-number="230" CUID="230" group-title="Dummy" tvg-chno="230" tvg-group="Dummy" tvg-id="230" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/231" tvg-name="RCTI",RCTI
+http://hksmt.huanqiuzhibo.cn:4268/v/vI0CN_HNBGvtHAG2QdO0y7m3S2w7vwzH69XSRJ0R0w1rYg4RaQJXunfJrHtzYdjhGw9KtazsGDNY5OgrchSnmA
+#EXTINF:-1 channel-id="231" channel-number="231" CUID="231" group-title="Dummy" tvg-chno="231" tvg-group="Dummy" tvg-id="231" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/232" tvg-name="RHK 31",RHK 31
+http://hksmt.huanqiuzhibo.cn:4268/v/YdW4pbMC5_wCfB2IPbyUWUT95LbPOpfLxOCj4ARcB8evN9KHD8SUvHCoXfre3AcLMOLuwnn-KXYS0HgM55FRYw
+#EXTINF:-1 channel-id="232" channel-number="232" CUID="232" group-title="Dummy" tvg-chno="232" tvg-group="Dummy" tvg-id="232" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/233" tvg-name="RHK 32",RHK 32
+http://hksmt.huanqiuzhibo.cn:4268/v/oOsqvNvX3rN2f7HJpFh12CARLFgcfZi1hZdHy4zOjkNjqDYrk35tGeJPdweRo4Hnr9st71OtGwykU-AgwjTZIQ
+#EXTINF:-1 channel-id="233" channel-number="233" CUID="233" group-title="Dummy" tvg-chno="233" tvg-group="Dummy" tvg-id="233" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/234" tvg-name="Ria",Ria
+http://hksmt.huanqiuzhibo.cn:4268/v/5v3ocRvTzwN1JfAv1G5ShwmWWRjtBNUeN8-UvHsAl711QVSMa2PAanwqFpVWXMyCW_qWGyoCLoS5gKHOGK0_sQ
+#EXTINF:-1 channel-id="234" channel-number="234" CUID="234" group-title="Dummy" tvg-chno="234" tvg-group="Dummy" tvg-id="234" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/235" tvg-name="Ria backup",Ria backup
+http://hksmt.huanqiuzhibo.cn:4268/v/wyIAXOpuFoJqwuFkUauSi9kWQuv07w0fcQYUfa0LlnWqZooR1QxKaJfNrpmULSdo-MPsKxruz1zxJ06S72FSXw
+#EXTINF:-1 channel-id="235" channel-number="235" CUID="235" group-title="Dummy" tvg-chno="235" tvg-group="Dummy" tvg-id="235" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/236" tvg-name="Ria-3",Ria-3
+http://hksmt.huanqiuzhibo.cn:4268/v/o7c9w44yJNynK56DKFiYGG9k8GwUEnCoBLt3XE5vsl2fuBRcVFobZoh43V9NmuFIKmo8vHrxLPJhkYPcisWMUg
+#EXTINF:-1 channel-id="236" channel-number="236" CUID="236" group-title="Dummy" tvg-chno="236" tvg-group="Dummy" tvg-id="236" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/237" tvg-name="Rock Actions",Rock Actions
+http://hksmt.huanqiuzhibo.cn:4268/v/QhYN8ImXSt9H3xTiVzOmnnKDbIcl8TD07ec7wzHYS9RnkiE5KW0hQUm4xnnZ3touKlbwi2tR-QCWpwUMFAgpkA
+#EXTINF:-1 channel-id="237" channel-number="237" CUID="237" group-title="Dummy" tvg-chno="237" tvg-group="Dummy" tvg-id="237" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/238" tvg-name="Rock Entertainment",Rock Entertainment
+http://hksmt.huanqiuzhibo.cn:4268/v/0Vvg4KlZe1fVZpBsF07IQmOkbXQMiRSFVG9ACxQrsM_pk-5M4gzye5nR8vhZGmXBUMHoTlpJQtHk_0p_dRF2xQ
+#EXTINF:-1 channel-id="238" channel-number="238" CUID="238" group-title="Dummy" tvg-chno="238" tvg-group="Dummy" tvg-id="238" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/239" tvg-name="RTM Sports HD",RTM Sports HD
+http://hksmt.huanqiuzhibo.cn:4268/v/0rPOXxJb8i2M-jffUigtaynPl4H46iIVoOwPVlAc7RQoZa4sCQDhthfZI0I0193CD1HQAwph1-vDgGqED2zbpQ
+#EXTINF:-1 channel-id="239" channel-number="239" CUID="239" group-title="Dummy" tvg-chno="239" tvg-group="Dummy" tvg-id="239" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/240" tvg-name="RTV",RTV
+http://hksmt.huanqiuzhibo.cn:4268/v/yPdoWWEH-0Us23kkHHb8pt1x88w6mZhktKCzzZihWYsw9mL2PsELBAE11pWD6bK1CFxCaTzbmeCyrmJvmek7uw
+#EXTINF:-1 channel-id="240" channel-number="240" CUID="240" group-title="Dummy" tvg-chno="240" tvg-group="Dummy" tvg-id="240" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/241" tvg-name="Rugby Pass TV",Rugby Pass TV
+http://hksmt.huanqiuzhibo.cn:4268/v/2sg_yfo6xf5mtxAtI3XQapZRqkjA-9cAaayvavdC6UfsIFQRzTVKzSJRvilJohjkGKpcNiCcfIU6pYJyFPVkbw
+#EXTINF:-1 channel-id="241" channel-number="241" CUID="241" group-title="Dummy" tvg-chno="241" tvg-group="Dummy" tvg-id="241" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/242" tvg-name="SBS Plus",SBS Plus
+http://hksmt.huanqiuzhibo.cn:4268/v/jky1GH6UsMT1n-JuqtP-ITMgFT1kaJmA6UpC26TpEFvBnR1BD1EuSva13o3nZmHkGh-7cZD3fRlOXqRH8mPQ7Q
+#EXTINF:-1 channel-id="242" channel-number="242" CUID="242" group-title="Dummy" tvg-chno="242" tvg-group="Dummy" tvg-id="242" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/243" tvg-name="SCM",SCM
+http://hksmt.huanqiuzhibo.cn:4268/v/rxJEMzlaALBMBhcWSxW9JUiwA6C9BsG_wPuN2K4f3qIQRxs_kL7pYLAaeEJqJ2-A-nMKFNqUfVzCExungKp1yg
+#EXTINF:-1 channel-id="243" channel-number="243" CUID="243" group-title="Dummy" tvg-chno="243" tvg-group="Dummy" tvg-id="243" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/244" tvg-name="SCTV",SCTV
+http://hksmt.huanqiuzhibo.cn:4268/v/BDkUiipcXlxQGxkUSrqfx1UCbYFIDIYHg_8D8hy02ZkgiGZjs6UrGLoRKE19fk-vS7gOOTta9Sf_h7MAooeiVQ
+#EXTINF:-1 channel-id="244" channel-number="244" CUID="244" group-title="Dummy" tvg-chno="244" tvg-group="Dummy" tvg-id="244" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/245" tvg-name="Sensasi",Sensasi
+http://hksmt.huanqiuzhibo.cn:4268/v/HLu-ry2APn9zRUw7spb6owED3tQkCX3onHhoVxdvBiRkqx3V6qnwVAV_rwphLgYSNIwbsBDt8QQnJk7FdZ5c-A
+#EXTINF:-1 channel-id="245" channel-number="245" CUID="245" group-title="Dummy" tvg-chno="245" tvg-group="Dummy" tvg-id="245" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/246" tvg-name="Showcase",Showcase
+http://hksmt.huanqiuzhibo.cn:4268/v/pUoRXCosVvBgetmVLkGbHuZ0mth_Ew8YII2Lgmf7jaBEaASWyQsp8jZ7A21BGvMUaaDpW3vtVKjc1CmiRozSyw
+#EXTINF:-1 channel-id="246" channel-number="246" CUID="246" group-title="Dummy" tvg-chno="246" tvg-group="Dummy" tvg-id="246" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/247" tvg-name="Skynews",Skynews
+http://hksmt.huanqiuzhibo.cn:4268/v/qzI6bdq-6OdHEU7xkymyPJEDYQJZGXphfrD2FbTNZEiehHjrxoowITicfZluTKJ__589Lf-tL2NNPwlDda7p_A
+#EXTINF:-1 channel-id="247" channel-number="247" CUID="247" group-title="Dummy" tvg-chno="247" tvg-group="Dummy" tvg-id="247" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/248" tvg-name="Skysports Arena",Skysports Arena
+http://hksmt.huanqiuzhibo.cn:4268/v/oyBTjr3--8uvGCCePN9cjsemS-P7W8D911Ufk7lzDiNQtq_pDfF7UFs0t3dM8uCN0RXOHN1jQuobqsImYSbZyw
+#EXTINF:-1 channel-id="248" channel-number="248" CUID="248" group-title="Dummy" tvg-chno="248" tvg-group="Dummy" tvg-id="248" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/249" tvg-name="Skysports Cricket",Skysports Cricket
+http://hksmt.huanqiuzhibo.cn:4268/v/5yMDERNcZLaMkiY7R4Nz0MVZR2-67OG4uf4IBhFdFIBQGDrFAHic85Xj5Thng27jUUOXzLWgvMcPMMUJD2-Tqg
+#EXTINF:-1 channel-id="249" channel-number="249" CUID="249" group-title="Dummy" tvg-chno="249" tvg-group="Dummy" tvg-id="249" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/250" tvg-name="Skysports EPL",Skysports EPL
+http://hksmt.huanqiuzhibo.cn:4268/v/YoW7zCTY9ffjGGQbGEOZq5_XY-LY1TkGkr7X1UD96F7XQkz2qxZCFYJ4b25FtI0RiXKFf0BEwC5U_EKGmkQDkw
+#EXTINF:-1 channel-id="250" channel-number="250" CUID="250" group-title="Dummy" tvg-chno="250" tvg-group="Dummy" tvg-id="250" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/251" tvg-name="Skysports F1",Skysports F1
+http://hksmt.huanqiuzhibo.cn:4268/v/rwxg_nM4jkE3Bi2dQ11r1Q5dqMxV-ucUwtdbnCsz8msLxZWPR4CPfXar9yBlNN3DfoJ-yVN25k7UZz9mt9DHPQ
+#EXTINF:-1 channel-id="251" channel-number="251" CUID="251" group-title="Dummy" tvg-chno="251" tvg-group="Dummy" tvg-id="251" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/252" tvg-name="Skysports Football",Skysports Football
+http://hksmt.huanqiuzhibo.cn:4268/v/8jFbFj3gfyjtH2Xxhy6oF9OFseGOibLMYdPDLABmzzchYpMdhL7HyzTvZtVzA0z5JRGbzKmuQjF8tVV9cjLz3Q
+#EXTINF:-1 channel-id="252" channel-number="252" CUID="252" group-title="Dummy" tvg-chno="252" tvg-group="Dummy" tvg-id="252" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/253" tvg-name="Skysports Golf",Skysports Golf
+http://hksmt.huanqiuzhibo.cn:4268/v/OAS-KDqwKTBbR_yKFtHdKaW032aToSWBmKbODuWNPruIMai_2ZynI7e7eWQeILq8RFl0QACTjtHZOw82oNEDJA
+#EXTINF:-1 channel-id="253" channel-number="253" CUID="253" group-title="Dummy" tvg-chno="253" tvg-group="Dummy" tvg-id="253" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/254" tvg-name="Skysports Main Event",Skysports Main Event
+http://hksmt.huanqiuzhibo.cn:4268/v/3-WLQ5lQbK135gef85msy52PtH3OygjRG1SG4L9JI2T10EC-dsnFNnlzoxZLR93d8-vtZRDb0hTbocq1vlwq0A
+#EXTINF:-1 channel-id="254" channel-number="254" CUID="254" group-title="Dummy" tvg-chno="254" tvg-group="Dummy" tvg-id="254" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/255" tvg-name="Skysports Mix",Skysports Mix
+http://hksmt.huanqiuzhibo.cn:4268/v/Z3HU3UhtE9ccemBGDw82YTFCPLB1wYH7Uttwxg2ZXlqkvAKqXnWZBamQVTCih_gZHN5nxYmLiTNx3Gz_6l2P6g
+#EXTINF:-1 channel-id="255" channel-number="255" CUID="255" group-title="Dummy" tvg-chno="255" tvg-group="Dummy" tvg-id="255" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/256" tvg-name="Skysports News",Skysports News
+http://hksmt.huanqiuzhibo.cn:4268/v/FJqhFNb_1A-47CX-06WvfCzYbFRMuolwAxNkjazCL-xO4q4xDm2m21PECzb8B0tiHmizr8N0nrWJMsvuLS2N1A
+#EXTINF:-1 channel-id="256" channel-number="256" CUID="256" group-title="Dummy" tvg-chno="256" tvg-group="Dummy" tvg-id="256" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/257" tvg-name="Skysports NFL",Skysports NFL
+http://hksmt.huanqiuzhibo.cn:4268/v/9HZ4nPn1LQtCAphX_dZrDnDCHI_5_WsGnPFsuPBcXNH1PSlOcsVmTwagIn8oR7mgqCabe9UQK99D24ApZpyDdQ
+#EXTINF:-1 channel-id="257" channel-number="257" CUID="257" group-title="Dummy" tvg-chno="257" tvg-group="Dummy" tvg-id="257" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/258" tvg-name="Skysports Racing",Skysports Racing
+http://hksmt.huanqiuzhibo.cn:4268/v/sGn9nYnzosqZAykFrpcWX7mqUN42_3m9Uwt3WG_556kGbh_BgPi9T43woTxhh48_5sDF5sthMgWGUH-FVrvCpQ
+#EXTINF:-1 channel-id="258" channel-number="258" CUID="258" group-title="Dummy" tvg-chno="258" tvg-group="Dummy" tvg-id="258" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/259" tvg-name="Sony HD",Sony HD
+http://hksmt.huanqiuzhibo.cn:4268/v/qlI2wkvsb25mH9oBis6jt9ceBshTHmEYJtVL-B0ibJ7lC6hP4GmCe22sFXN6qNdFbv9gxGf0mUgBsyD4zEP9yg
+#EXTINF:-1 channel-id="259" channel-number="259" CUID="259" group-title="Dummy" tvg-chno="259" tvg-group="Dummy" tvg-id="259" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/260" tvg-name="Sony Pix HD",Sony Pix HD
+http://hksmt.huanqiuzhibo.cn:4268/v/OiLggLEEmXocTHC0ed4HS3hTKWtftOs82zD6EfeJxafRLgqVZpody-HLLPnMspWJ8Cqg07uqGt0eYNvLxQA_JA
+#EXTINF:-1 channel-id="260" channel-number="260" CUID="260" group-title="Dummy" tvg-chno="260" tvg-group="Dummy" tvg-id="260" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/261" tvg-name="Sony Ten 1",Sony Ten 1
+http://hksmt.huanqiuzhibo.cn:4268/v/rqlsXLkpAP7KajpXaZ_HtJrKAqkssUEXltEQrMM7rawi3PBXGfhCat3H_PLbh57rc-G4RO-N7quiNLUM1pomJQ
+#EXTINF:-1 channel-id="261" channel-number="261" CUID="261" group-title="Dummy" tvg-chno="261" tvg-group="Dummy" tvg-id="261" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/262" tvg-name="Sony Ten 2",Sony Ten 2
+http://hksmt.huanqiuzhibo.cn:4268/v/mNH3fRKeZ4BOyAUpnc-UZcA0WuENSvVK8moIytFQoLaruv7VpOyVZFhtB6A_XLL3iyc51CSEDJAJnAsQ6APV6Q
+#EXTINF:-1 channel-id="262" channel-number="262" CUID="262" group-title="Dummy" tvg-chno="262" tvg-group="Dummy" tvg-id="262" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/263" tvg-name="Sony Ten 3",Sony Ten 3
+http://hksmt.huanqiuzhibo.cn:4268/v/b7pzhJU3CAA5B_UMRSZXU3LpGcNECEFROgBkG93Vs3elSmIT7IhTWO4-4jxXgvJpcL8KfvPcECFXqsh9FipooQ
+#EXTINF:-1 channel-id="263" channel-number="263" CUID="263" group-title="Dummy" tvg-chno="263" tvg-group="Dummy" tvg-id="263" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/264" tvg-name="Sony Yay Tamil",Sony Yay Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/u9KjpGf9aiPhoeHEjXeVGxAN5wiiUfxaa1NyLR4LNYYTtBnvYPaFyhhXBcDwg1rzyzQBC_IKk8LSaxS4TdyGWw
+#EXTINF:-1 channel-id="264" channel-number="264" CUID="264" group-title="Dummy" tvg-chno="264" tvg-group="Dummy" tvg-id="264" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/265" tvg-name="SPO TV 2",SPO TV 2
+http://hksmt.huanqiuzhibo.cn:4268/v/CHJr8OUgt-trtvv5cTbGLxQYL-9TdWB6bXuFq5tT221VzeidMx_x85FMFDN-PRkCcbCaOLNmrhfqQUkRQRhRLw
+#EXTINF:-1 channel-id="265" channel-number="265" CUID="265" group-title="Dummy" tvg-chno="265" tvg-group="Dummy" tvg-id="265" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/266" tvg-name="SPOTV 1 HD",SPOTV 1 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/vYYauzNgHjyEdF2Qw7d_AmNs2hwEn-o6AY1vw_zFBCfNIiV0_sONpnRM2IBCsI8cRycS_L4AziUOg_mB2hEvyw
+#EXTINF:-1 channel-id="266" channel-number="266" CUID="266" group-title="Dummy" tvg-chno="266" tvg-group="Dummy" tvg-id="266" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/267" tvg-name="Star Movies HD",Star Movies HD
+http://hksmt.huanqiuzhibo.cn:4268/v/FwTJkX4uMpHqVN00DzgUMo8S0ou81Eg3JPhruWu6XNfwcfqaxKjBO0ZS4m3QmzHF1wVTQC5L3KBU8UBqW15GFA
+#EXTINF:-1 channel-id="267" channel-number="267" CUID="267" group-title="Dummy" tvg-chno="267" tvg-group="Dummy" tvg-id="267" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/268" tvg-name="Star Vijay",Star Vijay
+http://hksmt.huanqiuzhibo.cn:4268/v/xjaVqPC9l4aqHzyRp5IRWsdqRIXtLBSLKEc615g5vaTE1eUUXtycRzowxWARqrhGjBRV6uHa7spnJovKwfVEWQ
+#EXTINF:-1 channel-id="268" channel-number="268" CUID="268" group-title="Dummy" tvg-chno="268" tvg-group="Dummy" tvg-id="268" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/269" tvg-name="Starmaa HD",Starmaa HD
+http://hksmt.huanqiuzhibo.cn:4268/v/dPpLXRFzk4TbBv_dI9ytrsEFElGZ9972C4i6KM4BebOQI_MFRjabyOdGIr6cW-Fcy1_Nx0Gi70mLzDFqaLuQpA
+#EXTINF:-1 channel-id="269" channel-number="269" CUID="269" group-title="Dummy" tvg-chno="269" tvg-group="Dummy" tvg-id="269" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/270" tvg-name="Starmaa Movies HD",Starmaa Movies HD
+http://hksmt.huanqiuzhibo.cn:4268/v/roMxLnOc6g_35skqsaAn4e4M2v4w1EDEM80Di0SQh-glrK6s8dW09On9Q_bbz-AMdANuibykSL4sSeTrYDNCJg
+#EXTINF:-1 channel-id="270" channel-number="270" CUID="270" group-title="Dummy" tvg-chno="270" tvg-group="Dummy" tvg-id="270" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/271" tvg-name="Starplus HD",Starplus HD
+http://hksmt.huanqiuzhibo.cn:4268/v/fxxG4h7oqWOOE7oj_wbFAQy4rubE9e-ldvo8j8Im5pDewD-JQKtGDH4tzyn-tfFozTQiT53Jb9B2GuS9blU7vg
+#EXTINF:-1 channel-id="271" channel-number="271" CUID="271" group-title="Dummy" tvg-chno="271" tvg-group="Dummy" tvg-id="271" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/272" tvg-name="Sun Music",Sun Music
+http://hksmt.huanqiuzhibo.cn:4268/v/IFGg2gYPEM7g6xiXBHnQhhwMfV6k7DrC_ZsVXf_8CZw_3DxF9jz2XNq1_8UV73DrZoog5aD1KVQ5cFYvXlYjvA
+#EXTINF:-1 channel-id="272" channel-number="272" CUID="272" group-title="Dummy" tvg-chno="272" tvg-group="Dummy" tvg-id="272" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/273" tvg-name="Sun TV HD",Sun TV HD
+http://hksmt.huanqiuzhibo.cn:4268/v/Krnw3q8r4dSTn-IoMPqZK7grLF6OFgr7t8xI2SviXEsuz5w7_lecWB6NHaJmk9790PPDWjaznuIzxfroSYyhvA
+#EXTINF:-1 channel-id="273" channel-number="273" CUID="273" group-title="Dummy" tvg-chno="273" tvg-group="Dummy" tvg-id="273" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/274" tvg-name="Sun TV India",Sun TV India
+http://hksmt.huanqiuzhibo.cn:4268/v/kVYKpNRDLDmJH4WeLezYlW28FMB6eNYHE825Y8kLPFDzTO8VKwVEiBbfsaCs-mVIU6Bro_xwvJn6EqfEqWCJwg
+#EXTINF:-1 channel-id="274" channel-number="274" CUID="274" group-title="Dummy" tvg-chno="274" tvg-group="Dummy" tvg-id="274" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/275" tvg-name="Supersportq 1 backup2",Supersportq 1 backup2
+http://hksmt.huanqiuzhibo.cn:4268/v/ia0VI4dggBFLm4DGpy-LPhpI7DUvb5UEWoWP-U5-kkhWaZqtrSrRQbPOag1GD2Ty8R0tfPlt8z7jH5uuOYXDlg
+#EXTINF:-1 channel-id="275" channel-number="275" CUID="275" group-title="Dummy" tvg-chno="275" tvg-group="Dummy" tvg-id="275" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/276" tvg-name="Supersports 1",Supersports 1
+http://hksmt.huanqiuzhibo.cn:4268/v/lc8NfZK5SRRpllazt5SkmhIgCgMnGzZ1pdBt1vdGeD6dQjwS1GcDkuYgofdfdSdyKX7W-WJnz8mi1KXcFWWlCA
+#EXTINF:-1 channel-id="276" channel-number="276" CUID="276" group-title="Dummy" tvg-chno="276" tvg-group="Dummy" tvg-id="276" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/277" tvg-name="Supersports 1 backup",Supersports 1 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/RnVW27l21U36PdxT99PrW0DGOO64aPqFzJQkFT7fIsPAmey1NBjoCfZ6jvuHe9ejHnbl01rmLsm3jSQj8VbsKw
+#EXTINF:-1 channel-id="277" channel-number="277" CUID="277" group-title="Dummy" tvg-chno="277" tvg-group="Dummy" tvg-id="277" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/278" tvg-name="Supersports 2",Supersports 2
+http://hksmt.huanqiuzhibo.cn:4268/v/eSPpb6WZS6lur_CN2jbxE3yo_Xcgy2rzqhhCpgUPr6jsbA3x38vkEyPqCQZjrTR6HssdWDVZckucK15MvHJEPg
+#EXTINF:-1 channel-id="278" channel-number="278" CUID="278" group-title="Dummy" tvg-chno="278" tvg-group="Dummy" tvg-id="278" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/279" tvg-name="Supersports 2 backup",Supersports 2 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/p8cFPklGkVXBSadwaxLTJf6WXurRnhNDY_S7VPFrSf2prSvsf16oQafRtMhNzjvXMj1KmLsr8TKrWRjkxtT04Q
+#EXTINF:-1 channel-id="279" channel-number="279" CUID="279" group-title="Dummy" tvg-chno="279" tvg-group="Dummy" tvg-id="279" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/280" tvg-name="Supersports 3",Supersports 3
+http://hksmt.huanqiuzhibo.cn:4268/v/o04zhY6FXhwM-qZyBu7jdnnpOvOx0RyYVWQaN7Cj9udk3i1MKE1YlFzFcCX013DEpj5CBJ-OyDvJ-q3SeA8vsw
+#EXTINF:-1 channel-id="280" channel-number="280" CUID="280" group-title="Dummy" tvg-chno="280" tvg-group="Dummy" tvg-id="280" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/281" tvg-name="Supersports 3 backup",Supersports 3 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/VfUaNeUd8CYTFdeGAe8TMxV_D7m1iFn1juaXJwTxfJ4R0bIYjg7IpLHztVwIzrgyTDgLsy3n4dDr1yYV4wRq-g
+#EXTINF:-1 channel-id="281" channel-number="281" CUID="281" group-title="Dummy" tvg-chno="281" tvg-group="Dummy" tvg-id="281" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/282" tvg-name="Supersports 3 backup2",Supersports 3 backup2
+http://hksmt.huanqiuzhibo.cn:4268/v/2G5QncrT6W2MwzdQ53ONR9rpGpfyNMchZCOMHP2WM-oFFURdgzjhpy1_qJrZAhh4YM_5-I0JPvkyzG_Ry06LUw
+#EXTINF:-1 channel-id="282" channel-number="282" CUID="282" group-title="Dummy" tvg-chno="282" tvg-group="Dummy" tvg-id="282" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/283" tvg-name="Supersports 4",Supersports 4
+http://hksmt.huanqiuzhibo.cn:4268/v/1xR1MggklxKvFZ_ww4RRs9-XzJkUcaxWATGPKkl0GDd_K4-nJiSBA0s0WMh-r7EEa65kimR-iSOwmruDxqKJLA
+#EXTINF:-1 channel-id="283" channel-number="283" CUID="283" group-title="Dummy" tvg-chno="283" tvg-group="Dummy" tvg-id="283" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/284" tvg-name="Supersports 4 backup",Supersports 4 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/AwmU8AOAGReJu5BQe78P7CHlM1czLDPzUkvMDJ7EJOxbZ1zdtODTvCjswDfZpRrz7kYRlJDPJ8YfTlnLVDh2Hg
+#EXTINF:-1 channel-id="284" channel-number="284" CUID="284" group-title="Dummy" tvg-chno="284" tvg-group="Dummy" tvg-id="284" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/285" tvg-name="Supersports 5",Supersports 5
+http://hksmt.huanqiuzhibo.cn:4268/v/SUhzkYWR3wntInQihagebv604zUwCA8ROtgLaFnEjO3gRxRiV20APn1jSEhTu7G0A9HLskD877nCqhP0_WW2rA
+#EXTINF:-1 channel-id="285" channel-number="285" CUID="285" group-title="Dummy" tvg-chno="285" tvg-group="Dummy" tvg-id="285" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/286" tvg-name="Suria",Suria
+http://hksmt.huanqiuzhibo.cn:4268/v/SnP2qn1ZkYs-bLTA4lUNdIuRf7Nke7vbeESeLXzC3LDDv4HABF1Tn7GWfgixD7ECK-2ijsnLL8urFTePMqPHRQ
+#EXTINF:-1 channel-id="286" channel-number="286" CUID="286" group-title="Dummy" tvg-chno="286" tvg-group="Dummy" tvg-id="286" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/287" tvg-name="Suria backup",Suria backup
+http://hksmt.huanqiuzhibo.cn:4268/v/WgCA1906HteM9VKpeFAo_iSDATjx79rxTN0xSrrL92R1V40e9nNZAVgW9hnSP7byQoYB8gM2hxfDvguhUDE_xA
+#EXTINF:-1 channel-id="287" channel-number="287" CUID="287" group-title="Dummy" tvg-chno="287" tvg-group="Dummy" tvg-id="287" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/288" tvg-name="Tawaf TV",Tawaf TV
+http://hksmt.huanqiuzhibo.cn:4268/v/9vDfagONgd7zOvhOAmAsWYBO_8NWdPQYxqGajatr5B7JTKfHzGfpjY9-i_iAuOryUyCkYS9UfpGOkZwG9k4S5A
+#EXTINF:-1 channel-id="288" channel-number="288" CUID="288" group-title="Dummy" tvg-chno="288" tvg-group="Dummy" tvg-id="288" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/289" tvg-name="Thai Thai",Thai Thai
+http://hksmt.huanqiuzhibo.cn:4268/v/uszfawf9D1dxZqsX1doQECgrRU8GdydB9eO7d5wkdL2fEKMfwIuWoLjSd7vyfLhCue03cgfdARCYBPRwrKbbOw
+#EXTINF:-1 channel-id="289" channel-number="289" CUID="289" group-title="Dummy" tvg-chno="289" tvg-group="Dummy" tvg-id="289" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/290" tvg-name="Thairath",Thairath
+http://hksmt.huanqiuzhibo.cn:4268/v/COGJhHTGovA68scfb4ICDN91yE52W--10eecBy9fyVVz1tTJ8sxSNebBv0y4DjM6c6PiHGejkcPo6YPeKNcpgA
+#EXTINF:-1 channel-id="290" channel-number="290" CUID="290" group-title="Dummy" tvg-chno="290" tvg-group="Dummy" tvg-id="290" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/291" tvg-name="Thrill",Thrill
+http://hksmt.huanqiuzhibo.cn:4268/v/gzHHXQuIdHIIMzYEE36jLFe0zyvCMYdUfe2ztA1DF-v3wiT0Uywt7nosX8gooWRdICSgAMqhw_0_79wqS-Mtkw
+#EXTINF:-1 channel-id="291" channel-number="291" CUID="291" group-title="Dummy" tvg-chno="291" tvg-group="Dummy" tvg-id="291" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/292" tvg-name="Times Now",Times Now
+http://hksmt.huanqiuzhibo.cn:4268/v/DWSqszbxdnYTLzUsBhltrHJAZyqyVWvMzKNuZWcneIOzvDKSouREejSE6anmtjhhdLs3f8vTmeHAioLskkv05A
+#EXTINF:-1 channel-id="292" channel-number="292" CUID="292" group-title="Dummy" tvg-chno="292" tvg-group="Dummy" tvg-id="292" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/293" tvg-name="TLC",TLC
+http://hksmt.huanqiuzhibo.cn:4268/v/SdJrvrJXq6KdXRwxnzFlKDhW4ODAJWDOsHolBzJWAb1FMJCRLBGteBOjxhiGls6L7DsuKnrXIDielbfZ8Mw-hg
+#EXTINF:-1 channel-id="293" channel-number="293" CUID="293" group-title="Dummy" tvg-chno="293" tvg-group="Dummy" tvg-id="293" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/294" tvg-name="Tnn24",Tnn24
+http://hksmt.huanqiuzhibo.cn:4268/v/DPwXuprPHRpZD893D3UC1_HkLbDX5U_-20PKe4U76hbL5N26vvX68UhFMztIs542sGSH-aYBW0T1qirKsqVVbA
+#EXTINF:-1 channel-id="294" channel-number="294" CUID="294" group-title="Dummy" tvg-chno="294" tvg-group="Dummy" tvg-id="294" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/295" tvg-name="TNT Sports 1",TNT Sports 1
+http://hksmt.huanqiuzhibo.cn:4268/v/cSVUDIAN8hjEUrk9KSW_Zq_s5UYMqJSmj64VbpxR1xtPWNLkMkF524BOnS8x0wMQgf1Um8WfjiCZaf65k2Llfw
+#EXTINF:-1 channel-id="295" channel-number="295" CUID="295" group-title="Dummy" tvg-chno="295" tvg-group="Dummy" tvg-id="295" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/296" tvg-name="TNT Sports 2",TNT Sports 2
+http://hksmt.huanqiuzhibo.cn:4268/v/1Nz9FZPWE1co-Rwv40BHq7joOwEOL-glUP0-PMJsYP9XP1lYF4kGeVS8d0RfEZOLFWlS6Jg7j8DIl__apidLEw
+#EXTINF:-1 channel-id="296" channel-number="296" CUID="296" group-title="Dummy" tvg-chno="296" tvg-group="Dummy" tvg-id="296" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/297" tvg-name="TNT Sports 3",TNT Sports 3
+http://hksmt.huanqiuzhibo.cn:4268/v/K8ptx1tl9TXTPYnu6jrdNqMkQz3Sn21xDkvJR7MSK4_e_gHjdgUe29zFmXLvGd9xNlSDnWErD8zXk7oSRbjJqw
+#EXTINF:-1 channel-id="297" channel-number="297" CUID="297" group-title="Dummy" tvg-chno="297" tvg-group="Dummy" tvg-id="297" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/298" tvg-name="TNT Sports 4",TNT Sports 4
+http://hksmt.huanqiuzhibo.cn:4268/v/8sIqKZh_2YCATL1qKJ3mNZvVSYLSv4p-nqSUx_Y6UHfvtk_U7i9D8r7qiOZ2FG_4kV_KZNzUBqNQHgx5Bxm4yg
+#EXTINF:-1 channel-id="298" channel-number="298" CUID="298" group-title="Dummy" tvg-chno="298" tvg-group="Dummy" tvg-id="298" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/299" tvg-name="TOKYOMX",TOKYOMX
+http://hksmt.huanqiuzhibo.cn:4268/v/GCBl7FBiqGltlBPGa5Nj59QUBr0cvxRRKCjmbfNs_8FoTTNzGGhieI4FdfCp_pz2WKvHxCDGdQGs-43Rnd1-qw
+#EXTINF:-1 channel-id="299" channel-number="299" CUID="299" group-title="Dummy" tvg-chno="299" tvg-group="Dummy" tvg-id="299" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/300" tvg-name="tpbs",tpbs
+http://hksmt.huanqiuzhibo.cn:4268/v/A8oydkiTKCELSKaORjf5PxN4usZxxEoj-d8Yrp-rgbW4HsrVmwT8Fbx_9E3HkAZ0XbkTcehr9NEzzQRgOSldiQ
+#EXTINF:-1 channel-id="300" channel-number="300" CUID="300" group-title="Dummy" tvg-chno="300" tvg-group="Dummy" tvg-id="300" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/301" tvg-name="TPTV",TPTV
+http://hksmt.huanqiuzhibo.cn:4268/v/WuAuhE_8_L7-F15IBEIf5rk3zyyOGIxRY3HTMPle5cYoraKknDDbTlELGKcvRlDKFvIQSISrtTMxUNQ76WDlUw
+#EXTINF:-1 channel-id="301" channel-number="301" CUID="301" group-title="Dummy" tvg-chno="301" tvg-group="Dummy" tvg-id="301" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/302" tvg-name="Trans 7",Trans 7
+http://hksmt.huanqiuzhibo.cn:4268/v/V0WF7vwScbgxXreCBEGVFS1tURbmSk9__hhLFPephfJc5VNP4A5AJc86AJI3aF4PcoppwSs_OJeX3q2w5sJbRA
+#EXTINF:-1 channel-id="302" channel-number="302" CUID="302" group-title="Dummy" tvg-chno="302" tvg-group="Dummy" tvg-id="302" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/303" tvg-name="Transtv",Transtv
+http://hksmt.huanqiuzhibo.cn:4268/v/GQce510ROZxSrOdpfoCmu0ea0kzp9Ft7SYw8Krry7ZSZwNUsqILGOKIIbymEpHtq91jvYWt8c4ZrUhmWstMJoA
+#EXTINF:-1 channel-id="303" channel-number="303" CUID="303" group-title="Dummy" tvg-chno="303" tvg-group="Dummy" tvg-id="303" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/304" tvg-name="TV1",TV1
+http://hksmt.huanqiuzhibo.cn:4268/v/CwlONHeNP7G_1MFB-acuGfg9Q2is75m2iuanh1prT5lOa0KFakgrK9L9i4269C4LUg4Mf3NmyhTeoI8QtnwxPA
+#EXTINF:-1 channel-id="304" channel-number="304" CUID="304" group-title="Dummy" tvg-chno="304" tvg-group="Dummy" tvg-id="304" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/305" tvg-name="TV1 backup",TV1 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/Rxu-a3JmsxwPK2AE8xNnDgG-tdjfa2i5b1IuSyWR4KRnXO3lG8DevFmPfTJRqUcmIfp8BayWdTkSOpet4RDltQ
+#EXTINF:-1 channel-id="305" channel-number="305" CUID="305" group-title="Dummy" tvg-chno="305" tvg-group="Dummy" tvg-id="305" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/306" tvg-name="TV2",TV2
+http://hksmt.huanqiuzhibo.cn:4268/v/kOH93ZdbXYeagxVmIr-ZsGQqzi4a7EtIbeWZ-uEe35ojhsZ1Gc_ZVXI_q0uA69g5SL3VFR4uG6czQLSXlBKT5g
+#EXTINF:-1 channel-id="306" channel-number="306" CUID="306" group-title="Dummy" tvg-chno="306" tvg-group="Dummy" tvg-id="306" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/307" tvg-name="TV3",TV3
+http://hksmt.huanqiuzhibo.cn:4268/v/YkM-KpLfQI5gAezIOUSpkjkCTptNUGQn_ACoDKCRVYsu9jg0DqFCU_xD8fZZ937Qe05UZnSk4GD4JA8JY4grgQ
+#EXTINF:-1 channel-id="307" channel-number="307" CUID="307" group-title="Dummy" tvg-chno="307" tvg-group="Dummy" tvg-id="307" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/308" tvg-name="TV3 backup",TV3 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/lXC_RgQL1txQEVNr9SlXDxdIhqHqhL4FDwltj1nig8swh8Om9_m7L3L_TsWhNEilny8gPTfLib0Zv-vo-boguA
+#EXTINF:-1 channel-id="308" channel-number="308" CUID="308" group-title="Dummy" tvg-chno="308" tvg-group="Dummy" tvg-id="308" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/309" tvg-name="TV8",TV8
+http://hksmt.huanqiuzhibo.cn:4268/v/rphdQEhjAR2AvqY__wf8TWMy8rBmrGjXwGU3Uz8S5auuLyBe7Zy7fceRYNYrsptnmCUBZarbvhffTCZcq7s9sA
+#EXTINF:-1 channel-id="309" channel-number="309" CUID="309" group-title="Dummy" tvg-chno="309" tvg-group="Dummy" tvg-id="309" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/310" tvg-name="TV9",TV9
+http://hksmt.huanqiuzhibo.cn:4268/v/UD0d-yEvlC7YxfBuyBXAkYW6evlntN5ftqf0mT3GCZpDsFPAN-TigAdtbpRTsquEyP0KEjzXPJ7XMJ-dz_YQoA
+#EXTINF:-1 channel-id="310" channel-number="310" CUID="310" group-title="Dummy" tvg-chno="310" tvg-group="Dummy" tvg-id="310" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/311" tvg-name="TVB Asia",TVB Asia
+http://hksmt.huanqiuzhibo.cn:4268/v/uzxPC8fZ8OI2FhN0nXXqU-9Ad2xKU_EZXm9JpifhmnMhWk0cUKavcH0JznJtXFssL5vr6fwHdjcRZL0rLkTVPQ
+#EXTINF:-1 channel-id="311" channel-number="311" CUID="311" group-title="Dummy" tvg-chno="311" tvg-group="Dummy" tvg-id="311" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/312" tvg-name="TVB Classic",TVB Classic
+http://hksmt.huanqiuzhibo.cn:4268/v/aQjTyTdHqQcF2JwrkkSO6LF1pqD7NiJFrqCtPJdx7Wrr1GqVbixvmcgSO6xbLo6ny9x_Z5I3ZgmwtrJaK-HhQw
+#EXTINF:-1 channel-id="312" channel-number="312" CUID="312" group-title="Dummy" tvg-chno="312" tvg-group="Dummy" tvg-id="312" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/313" tvg-name="TVB Entertainment",TVB Entertainment
+http://hksmt.huanqiuzhibo.cn:4268/v/7XHbiGhDB5UKfZ-xaUfYe2sVMj5tsk9x8FUnNN3y2QAwNbqrbyuOdNiFiqoW7-wO3JIseZt4OUPglvmhW6mIjA
+#EXTINF:-1 channel-id="313" channel-number="313" CUID="313" group-title="Dummy" tvg-chno="313" tvg-group="Dummy" tvg-id="313" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/314" tvg-name="TVB Jade",TVB Jade
+http://hksmt.huanqiuzhibo.cn:4268/v/yqviVlcJinpS31c2mxPhJmvvPaWpZNMT9d8uxfAqIxleyNo6W8FfyJUnCVqUMdNnqZPnH6Kx4fFC8w8SGSCHmw
+#EXTINF:-1 channel-id="314" channel-number="314" CUID="314" group-title="Dummy" tvg-chno="314" tvg-group="Dummy" tvg-id="314" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/315" tvg-name="TVB 星河",TVB 星河
+http://hksmt.huanqiuzhibo.cn:4268/v/hKEyzxgBPXLgMip0N8oebRjgjF2Sg0ZaqOcqZcNuh3WjJ38QvXZbi2lzf5Jvb9Nt9EPTtccATImGdY0owWGBCw
+#EXTINF:-1 channel-id="315" channel-number="315" CUID="315" group-title="Dummy" tvg-chno="315" tvg-group="Dummy" tvg-id="315" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/316" tvg-name="TVB 星河台  Xing He",TVB 星河台  Xing He
+http://hksmt.huanqiuzhibo.cn:4268/v/5qSpFdQViwgTR31HZAnuRCa8K4brHxW9FzJYPTlonrTW9uJEn-nqBtMvFk5WHwq1cxbrRumE7IpTuQO3gKeY8g
+#EXTINF:-1 channel-id="316" channel-number="316" CUID="316" group-title="Dummy" tvg-chno="316" tvg-group="Dummy" tvg-id="316" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/317" tvg-name="TVBS HD",TVBS HD
+http://hksmt.huanqiuzhibo.cn:4268/v/EVqmlgZceOsL9N56JU1pXNCx9U9pUjYndD76W3osS3M8BWjrGZVBYc3CwtSpv1z-vcrsydhBX43Jf-bYsTziug
+#EXTINF:-1 channel-id="317" channel-number="317" CUID="317" group-title="Dummy" tvg-chno="317" tvg-group="Dummy" tvg-id="317" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/318" tvg-name="TVBS News 新闻台",TVBS News 新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/viS55nsIAE2PJUBFU2wj25PUIzLi6v9PisikiOQ2Cjviml1fXD0npIRvriutbTnmTkOFteW_mEg6ct_Ay_YkEQ
+#EXTINF:-1 channel-id="318" channel-number="318" CUID="318" group-title="Dummy" tvg-chno="318" tvg-group="Dummy" tvg-id="318" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/319" tvg-name="TVBS 欢乐台",TVBS 欢乐台
+http://hksmt.huanqiuzhibo.cn:4268/v/qqHLimIHVFOTNIlo2SjEvo-UqX2lUC7uqFt2ZZaizddHAFRq6JcgtHsBMS1zhLMZ9vSQsbZb9KkU6TX6KiAIOw
+#EXTINF:-1 channel-id="319" channel-number="319" CUID="319" group-title="Dummy" tvg-chno="319" tvg-group="Dummy" tvg-id="319" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/320" tvg-name="TVMU",TVMU
+http://hksmt.huanqiuzhibo.cn:4268/v/j8OEKh-hHY5PexD2yd3z0s6nbAHM3PdEa2qY4Y7oGCkN1Ta7n6J4r6l4JH7vd2SxcT50XwIHHzS5ZUSFQGYrlQ
+#EXTINF:-1 channel-id="320" channel-number="320" CUID="320" group-title="Dummy" tvg-chno="320" tvg-group="Dummy" tvg-id="320" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/321" tvg-name="TvN",TvN
+http://hksmt.huanqiuzhibo.cn:4268/v/MWcS57TETqv0WPvvHCSjqOifeaVyo1gn8ZXiybpRfZBddCiDrJHQ7KB8Mf-IXDLEOctoJnFTnWm88Mbt34XoHQ
+#EXTINF:-1 channel-id="321" channel-number="321" CUID="321" group-title="Dummy" tvg-chno="321" tvg-group="Dummy" tvg-id="321" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/322" tvg-name="tvN Movie",tvN Movie
+http://hksmt.huanqiuzhibo.cn:4268/v/nCcN6eS6RY6KAZBjIdk907KFf6BuYMD6at3k6P3r2Zr7V8FZh8-gR9N2AicbysVscKXTIhfVGX_c_oi22TCrXA
+#EXTINF:-1 channel-id="322" channel-number="322" CUID="322" group-title="Dummy" tvg-chno="322" tvg-group="Dummy" tvg-id="322" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/323" tvg-name="Tvone",Tvone
+http://hksmt.huanqiuzhibo.cn:4268/v/N6CKuO3drYZtrFkXybLAFDGVYfCLuDGYGLlVAM5M8rpke_QmFl5gnq7gCLZ5-Uj9rrQfRY4SDu26d1NDb40PZw
+#EXTINF:-1 channel-id="323" channel-number="323" CUID="323" group-title="Dummy" tvg-chno="323" tvg-group="Dummy" tvg-id="323" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/324" tvg-name="TVRI National",TVRI National
+http://hksmt.huanqiuzhibo.cn:4268/v/Mwi2kOakVj4Hm-ndAl9j-K1EbgXlX2H6yjKvgCTtw33uqjOB3iteZp48f4IUwSbVBlDOF5MG4P50dWy576DQBw
+#EXTINF:-1 channel-id="324" channel-number="324" CUID="324" group-title="Dummy" tvg-chno="324" tvg-group="Dummy" tvg-id="324" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/325" tvg-name="UFC Network",UFC Network
+http://hksmt.huanqiuzhibo.cn:4268/v/NCEK1kNX1QbGGEwDmjMW_MKmdtHVt7c9inZFOUrDfNhPo6poHD2RzFSXh5W0lvnfD2J2G_HfV1zCOyfIZ_i3sw
+#EXTINF:-1 channel-id="325" channel-number="325" CUID="325" group-title="Dummy" tvg-chno="325" tvg-group="Dummy" tvg-id="325" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/326" tvg-name="Vasantham",Vasantham
+http://hksmt.huanqiuzhibo.cn:4268/v/QPYZlZspGI45CeNtrpev-mKpoyaEnu9MxiD_9QzpDThFZpGMHyYu205Gbp6ogPyKT7X14tZowHRTnWjERD8LPg
+#EXTINF:-1 channel-id="326" channel-number="326" CUID="326" group-title="Dummy" tvg-chno="326" tvg-group="Dummy" tvg-id="326" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/327" tvg-name="Vasantham backup",Vasantham backup
+http://hksmt.huanqiuzhibo.cn:4268/v/hR6-6RMqbwdYaRY3bNrKjmpBhpPqFhzuVVRFz7am-xJROaxas-wjwNWZAjIJ6uxeMiDn2rpJUydLp7RgfMM8Kw
+#EXTINF:-1 channel-id="327" channel-number="327" CUID="327" group-title="Dummy" tvg-chno="327" tvg-group="Dummy" tvg-id="327" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/328" tvg-name="Vijay Super",Vijay Super
+http://hksmt.huanqiuzhibo.cn:4268/v/usQYU0xwN4wQeUFBUIeX-4tbOFVgQVzXbHUtBMdScZ_QFoLSmP_5jBu2mUp8lt5IRpU3UT05Wp8DJBCHgwv7aA
+#EXTINF:-1 channel-id="328" channel-number="328" CUID="328" group-title="Dummy" tvg-chno="328" tvg-group="Dummy" tvg-id="328" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/329" tvg-name="Vision Prime",Vision Prime
+http://hksmt.huanqiuzhibo.cn:4268/v/HaQiwJbPWZbYgRGRyQNIUTiDfur_rJPC_kFwJFZuXykDVuqMRGGMFASh_40ZgwzX0XaQW_ZhvSI_tTBDrhYC9w
+#EXTINF:-1 channel-id="329" channel-number="329" CUID="329" group-title="Dummy" tvg-chno="329" tvg-group="Dummy" tvg-id="329" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/330" tvg-name="Viu TV 69",Viu TV 69
+http://hksmt.huanqiuzhibo.cn:4268/v/aZwWTTocMp2wgG3eHJeycH-Zd-gUmd5L5hPgNMiea99QWY1P1nlyDpGbF6CP5i5Zbnup8qZhpzSG7B5n5cgmtQ
+#EXTINF:-1 channel-id="330" channel-number="330" CUID="330" group-title="Dummy" tvg-chno="330" tvg-group="Dummy" tvg-id="330" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/331" tvg-name="Viu6",Viu6
+http://hksmt.huanqiuzhibo.cn:4268/v/QNtH97xb1IA1Djq4z5XHVU_4qLxPYlJXj-bGlTIu2gZLok3nSpDxc4X1FMRY5t4aOFR--oWHsP7qqWD1euWtfw
+#EXTINF:-1 channel-id="331" channel-number="331" CUID="331" group-title="Dummy" tvg-chno="331" tvg-group="Dummy" tvg-id="331" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/332" tvg-name="VIUTV1",VIUTV1
+http://hksmt.huanqiuzhibo.cn:4268/v/XyBpYd_Bgy-HQ0ajcJOsRzL8LX5ytVyMfWxuJa3kPg4KeaOW30Y5mZvFdFLa8nkT5jIFzEIy3L6rS2_NqS0H5g
+#EXTINF:-1 channel-id="332" channel-number="332" CUID="332" group-title="Dummy" tvg-chno="332" tvg-group="Dummy" tvg-id="332" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/333" tvg-name="VTV 1",VTV 1
+http://hksmt.huanqiuzhibo.cn:4268/v/CjCoovbOyn1TWubo_dHGrSNU_B-HB725eqLkOYG1NBkDVthMnWrWDTCf_NTMyw81WCAB42LzxPL-d_ZRkKYWYg
+#EXTINF:-1 channel-id="333" channel-number="333" CUID="333" group-title="Dummy" tvg-chno="333" tvg-group="Dummy" tvg-id="333" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/334" tvg-name="VTV 7",VTV 7
+http://hksmt.huanqiuzhibo.cn:4268/v/ifTOWbJGJxoIeWo3SrV3Pfi1swG1RL9_JbL9WyJYQu-7qIeiyz-gD4cpuhk4D4sfOXT-iGBQz3PkB044KBNqeg
+#EXTINF:-1 channel-id="334" channel-number="334" CUID="334" group-title="Dummy" tvg-chno="334" tvg-group="Dummy" tvg-id="334" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/335" tvg-name="Warna",Warna
+http://hksmt.huanqiuzhibo.cn:4268/v/hllAI4ElWKa2F7emefPkWp8ZpIyevT8mCMKfqjZhcp8et0_-8XeTriqfjMDQP_BROetivftEnIoU1Y5GHXlk3w
+#EXTINF:-1 channel-id="335" channel-number="335" CUID="335" group-title="Dummy" tvg-chno="335" tvg-group="Dummy" tvg-id="335" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/336" tvg-name="Warna backup",Warna backup
+http://hksmt.huanqiuzhibo.cn:4268/v/B_Y0-8RQwf3rpbLA9omD9ya3xWb3Tu-QqODYBWIG82tKdhjRTJ8yXdv7G_gJ0n-LHfJKAD6WhbcPll_QW9T_Sw
+#EXTINF:-1 channel-id="336" channel-number="336" CUID="336" group-title="Dummy" tvg-chno="336" tvg-group="Dummy" tvg-id="336" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/337" tvg-name="Warner TV",Warner TV
+http://hksmt.huanqiuzhibo.cn:4268/v/Id8QPgsDMkBvnbnyEocizF398_kIab6k0bCgw4TLi-2GSmazP9QF8PSNqP0Iubc8JezjFPUuUr4DQqCNO3kA0Q
+#EXTINF:-1 channel-id="337" channel-number="337" CUID="337" group-title="Dummy" tvg-chno="337" tvg-group="Dummy" tvg-id="337" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/338" tvg-name="Workpoint",Workpoint
+http://hksmt.huanqiuzhibo.cn:4268/v/U_gqRP3GBlISx_-yiSIA0ulUi7znfgg2bcCY2iKhE8SJ135dP5U7CfJTWY__2FTrx1Wsx9TgfeiUowLHdSBZLw
+#EXTINF:-1 channel-id="338" channel-number="338" CUID="338" group-title="Dummy" tvg-chno="338" tvg-group="Dummy" tvg-id="338" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/339" tvg-name="WWE",WWE
+http://hksmt.huanqiuzhibo.cn:4268/v/imhbefSBcyWMmUioY7oyS8hHo5_99uPXVmyo2KtseYodC2ToivtcOpPOTdiO9fXYuP9MXzFKTyL1zqL26SvmGg
+#EXTINF:-1 channel-id="339" channel-number="339" CUID="339" group-title="Dummy" tvg-chno="339" tvg-group="Dummy" tvg-id="339" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/340" tvg-name="Yonhap News",Yonhap News
+http://hksmt.huanqiuzhibo.cn:4268/v/MCwTtymYb3WxSueAH1RC8HtSBVc8Db5dfW4oh0UP9SbQFLUNU5BLjkanngoRTUnrh7ddKC9j38S46df-Y8BRvA
+#EXTINF:-1 channel-id="340" channel-number="340" CUID="340" group-title="Dummy" tvg-chno="340" tvg-group="Dummy" tvg-id="340" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/341" tvg-name="YTN",YTN
+http://hksmt.huanqiuzhibo.cn:4268/v/3g8LSU3OLjtERaQZpK_7CoxNmc-XHHsFgMudNWX3hGSR58xcTYMXMwKKLZxdxnFuWJLLu56-HAj3F48cg1YYWw
+#EXTINF:-1 channel-id="341" channel-number="341" CUID="341" group-title="Dummy" tvg-chno="341" tvg-group="Dummy" tvg-id="341" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/342" tvg-name="YTN DMB",YTN DMB
+http://hksmt.huanqiuzhibo.cn:4268/v/yFt2CR2kx63jZ4pl7D-oAGBpt3SqsWP1AdToYip4PyMQgUkK1bSnmJHz3EmMPILtM3V3HCKDlBrQf2h7Zi1kVw
+#EXTINF:-1 channel-id="342" channel-number="342" CUID="342" group-title="Dummy" tvg-chno="342" tvg-group="Dummy" tvg-id="342" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/343" tvg-name="YTN Korean",YTN Korean
+http://hksmt.huanqiuzhibo.cn:4268/v/tXsiviTrDrESJ7cmjdJejZfE08WA6q4dZ11LVN96GOcPJTUk-d580FnThqzqyhz5SsiwBjIrOMmTIXH3p33ETw
+#EXTINF:-1 channel-id="343" channel-number="343" CUID="343" group-title="Dummy" tvg-chno="343" tvg-group="Dummy" tvg-id="343" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/344" tvg-name="YTN Science",YTN Science
+http://hksmt.huanqiuzhibo.cn:4268/v/17POyqAEAn9vLAbfQ_iIXRkrTTXKISezxTMTVt-6SOqldEWcEbPQQlUVFGmIpf7kXFbvuSCmjw0CItCg2q0YQg
+#EXTINF:-1 channel-id="344" channel-number="344" CUID="344" group-title="Dummy" tvg-chno="344" tvg-group="Dummy" tvg-id="344" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/345" tvg-name="Zee Action",Zee Action
+http://hksmt.huanqiuzhibo.cn:4268/v/HgYJjxP5Zaou6Dp1YHRaSuto1jW6LkoeZ91EYc03-TMIOLPcwvurzV0OiGxLEVjPyDz4IA3Igf8wtLIpiah-9g
+#EXTINF:-1 channel-id="345" channel-number="345" CUID="345" group-title="Dummy" tvg-chno="345" tvg-group="Dummy" tvg-id="345" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/346" tvg-name="Zee Business",Zee Business
+http://hksmt.huanqiuzhibo.cn:4268/v/IZbmojw0i4Tkf-wcGfa0qQLmcNOnEcPUeTm1OXK_HoBKAasmWu0DuuRfiy7JHElDZaWGE6LwbqNxOy5e_dLULg
+#EXTINF:-1 channel-id="346" channel-number="346" CUID="346" group-title="Dummy" tvg-chno="346" tvg-group="Dummy" tvg-id="346" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/347" tvg-name="Zee Cinema HD",Zee Cinema HD
+http://hksmt.huanqiuzhibo.cn:4268/v/zsHbf1glJ1pcfmNj6iw63DvaCorzWDhxmeJrvmw6ybhdit455iecfDTc2ExEEgns7wMcdxqOi7QS56IfuuhcAA
+#EXTINF:-1 channel-id="347" channel-number="347" CUID="347" group-title="Dummy" tvg-chno="347" tvg-group="Dummy" tvg-id="347" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/348" tvg-name="Zee News",Zee News
+http://hksmt.huanqiuzhibo.cn:4268/v/RFVxQtMgANDllyHx6UV9sK33SXmDQoaOH88dfkEoR6O7iesfxL4CxgTQcr011hczooGUH5diipL0Aoky33Wo3Q
+#EXTINF:-1 channel-id="348" channel-number="348" CUID="348" group-title="Dummy" tvg-chno="348" tvg-group="Dummy" tvg-id="348" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/349" tvg-name="Zee Tamil",Zee Tamil
+http://hksmt.huanqiuzhibo.cn:4268/v/blfTNGSMBX95U3KImbKApJXOEYUvBm293LfdJuFpfhfY7VMefhvMdYCaqYjoSRWRVeDppXOWiEMM5Nxh1hVnpg
+#EXTINF:-1 channel-id="349" channel-number="349" CUID="349" group-title="Dummy" tvg-chno="349" tvg-group="Dummy" tvg-id="349" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/350" tvg-name="Zee TV HD",Zee TV HD
+http://hksmt.huanqiuzhibo.cn:4268/v/MZQ-SZXZvwjzODT0NJuQblAyLST2uMODYE03hbDB9tZ4BUfvodKG-qu4_H52igKHMbPUEcoiPHqd7nRROrfytw
+#EXTINF:-1 channel-id="350" channel-number="350" CUID="350" group-title="Dummy" tvg-chno="350" tvg-group="Dummy" tvg-id="350" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/351" tvg-name="テレビ朝日 Asahi TV",テレビ朝日 Asahi TV
+http://hksmt.huanqiuzhibo.cn:4268/v/cHTQMjHUdZ5E6SwPw0CL7-xplfhwLI6eiLdBztgHjiAJN7T_Aqs5KDRim0EyNbT2EKxh5TpOwv6o12dvcf-M7w
+#EXTINF:-1 channel-id="351" channel-number="351" CUID="351" group-title="Dummy" tvg-chno="351" tvg-group="Dummy" tvg-id="351" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/352" tvg-name="テレビ東京 Tokyo TV",テレビ東京 Tokyo TV
+http://hksmt.huanqiuzhibo.cn:4268/v/pbjpc-rpLbhPLrcJ9gd99YR8CrjgV35gi37VHL67mz0C5PNXd28rYVHFdurIhSEHkmGvvCc4cCsl8WLned4nQA
+#EXTINF:-1 channel-id="352" channel-number="352" CUID="352" group-title="Dummy" tvg-chno="352" tvg-group="Dummy" tvg-id="352" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/353" tvg-name="三立台湾 Sanli Taiwan",三立台湾 Sanli Taiwan
+http://hksmt.huanqiuzhibo.cn:4268/v/-wZMPvKaBkpwKGD2cHVA1mkWs9FIgu0fOD5ls0LFoDu5kvTX7-yxX2Lzv0WQ9s8xuIJyerwlwc_6XqI2vrlI6g
+#EXTINF:-1 channel-id="353" channel-number="353" CUID="353" group-title="Dummy" tvg-chno="353" tvg-group="Dummy" tvg-id="353" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/354" tvg-name="三立戏剧台",三立戏剧台
+http://hksmt.huanqiuzhibo.cn:4268/v/BVd2Hg47GpsAif8TG8zL8M4DpQnzp-mQrqbtwd7T1Vz9Pu7KyLIl66hzMLPQNcw1yePZsiNsguKDOTutZIt9sA
+#EXTINF:-1 channel-id="354" channel-number="354" CUID="354" group-title="Dummy" tvg-chno="354" tvg-group="Dummy" tvg-id="354" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/355" tvg-name="三立综合 Sanli Metro",三立综合 Sanli Metro
+http://hksmt.huanqiuzhibo.cn:4268/v/BMUJaOKXzhF99B3FWjVrx11jBqzZuGVG3xK7DD0hnRFiEuvLx5YaVnH0o0tULeT-VmF8aPQpd3l3Cl5wgNiHlg
+#EXTINF:-1 channel-id="355" channel-number="355" CUID="355" group-title="Dummy" tvg-chno="355" tvg-group="Dummy" tvg-id="355" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/356" tvg-name="三立都会台",三立都会台
+http://hksmt.huanqiuzhibo.cn:4268/v/-t1qcBOngtzPJgFpooMw6r5K-fvnJcLmv6VRcR8Q2uignltbD4tBd_LVJ2bJ4CrIEMZo14xpwb1RXk83YzqsSw
+#EXTINF:-1 channel-id="356" channel-number="356" CUID="356" group-title="Dummy" tvg-chno="356" tvg-group="Dummy" tvg-id="356" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/357" tvg-name="东方卫视",东方卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/rvZyjQxcW0NcnQFobhJyL5CpkAJQiQfloxQs6rr32T7A8v7nMBBXaQvJDcsf3AMtqRawBoro9QkwSqCgNEwrlQ
+#EXTINF:-1 channel-id="357" channel-number="357" CUID="357" group-title="Dummy" tvg-chno="357" tvg-group="Dummy" tvg-id="357" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/358" tvg-name="东森幼幼 Yoyo TV",东森幼幼 Yoyo TV
+http://hksmt.huanqiuzhibo.cn:4268/v/gcS_WawWAif1jaV6aWFlwAHBpOhUmlFthfx5wZY_ysRK_zKeze4aSd1l2PK6p3NV3pkjukXABiQ_jCrIIdlGiA
+#EXTINF:-1 channel-id="358" channel-number="358" CUID="358" group-title="Dummy" tvg-chno="358" tvg-group="Dummy" tvg-id="358" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/359" tvg-name="东森戏剧 ETTV Drama",东森戏剧 ETTV Drama
+http://hksmt.huanqiuzhibo.cn:4268/v/PkGq6dCO8NCxfE_UqLZ0xanjPvBF_I0gQZiE27RITl9cYnOstOCzSAgssHCFL0GIIaY3Yssv36CqeVFwn4Kg2A
+#EXTINF:-1 channel-id="359" channel-number="359" CUID="359" group-title="Dummy" tvg-chno="359" tvg-group="Dummy" tvg-id="359" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/360" tvg-name="东森新闻 ETTV News",东森新闻 ETTV News
+http://hksmt.huanqiuzhibo.cn:4268/v/UQ4CUkDIGL8kvz1zMhR4qCIW4takYOIcI-nBMEIitTtlyVVWGsO04SvjlsyyTWNBjITNAN57N41jmWBM4qvz-Q
+#EXTINF:-1 channel-id="360" channel-number="360" CUID="360" group-title="Dummy" tvg-chno="360" tvg-group="Dummy" tvg-id="360" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/361" tvg-name="东森洋片",东森洋片
+http://hksmt.huanqiuzhibo.cn:4268/v/ucd950wiXref3MivUUycnAMCUJ1xdT5UGKF7_t-xl8os3eUhMjBj7C5A8FV0VBAhoE70rWoKB01tqy2eHjvmgg
+#EXTINF:-1 channel-id="361" channel-number="361" CUID="361" group-title="Dummy" tvg-chno="361" tvg-group="Dummy" tvg-id="361" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/362" tvg-name="东森电影",东森电影
+http://hksmt.huanqiuzhibo.cn:4268/v/CyLFMmsVBNnmzoRr9JLKaIdPYpQXuetKB-Z2DqQjxD3yOtw0I2Ho3Ke2K_zupkOMFuhbzn22vvmxTBPCxhbwTw
+#EXTINF:-1 channel-id="362" channel-number="362" CUID="362" group-title="Dummy" tvg-chno="362" tvg-group="Dummy" tvg-id="362" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/363" tvg-name="东森电影 ETTV Movie",东森电影 ETTV Movie
+http://hksmt.huanqiuzhibo.cn:4268/v/MEr4iJs0uG-N_lC7a4_gceQD4ZYapHSBQD8ttX5z4SR2hR4-7eh1YprZL-jxkSY0tjq6N9ppPxV09uZ_pUGD-Q
+#EXTINF:-1 channel-id="363" channel-number="363" CUID="363" group-title="Dummy" tvg-chno="363" tvg-group="Dummy" tvg-id="363" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/364" tvg-name="东森综合 ETTV Metro",东森综合 ETTV Metro
+http://hksmt.huanqiuzhibo.cn:4268/v/xvPU_J_MMfvRose0kRJs6jtBXg_odMvBp-frKz4nNmffu8RFnE3VdXTEovwvzA3v3kAI6AEODS1GjfESCTJSsQ
+#EXTINF:-1 channel-id="364" channel-number="364" CUID="364" group-title="Dummy" tvg-chno="364" tvg-group="Dummy" tvg-id="364" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/365" tvg-name="东森财经新闻",东森财经新闻
+http://hksmt.huanqiuzhibo.cn:4268/v/KhKIysF4HgsHxZjQwS-45Wr47vVY7IBy-U4KdJ-dKOVYtOzbymIuGhkZV3qcgJU5plkhblamWMGHpvOde8Lijw
+#EXTINF:-1 channel-id="365" channel-number="365" CUID="365" group-title="Dummy" tvg-chno="365" tvg-group="Dummy" tvg-id="365" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/366" tvg-name="东森财经新闻 ETTV Business",东森财经新闻 ETTV Business
+http://hksmt.huanqiuzhibo.cn:4268/v/K0SEPjNfqMGhFjQv_pEqxSa6mvcpZd1WBEk64zeGjLiZIvGF4DumFPIdILkY3qV6hPmpp2TMDWyIPUVazrGSKw
+#EXTINF:-1 channel-id="366" channel-number="366" CUID="366" group-title="Dummy" tvg-chno="366" tvg-group="Dummy" tvg-id="366" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/367" tvg-name="东森超视",东森超视
+http://hksmt.huanqiuzhibo.cn:4268/v/6VBRaRzXZ8rzOOA00jWRi7As2PwAVvWawfTvcmcG9cmnWlT-PpYoDy1Hyq6FhVhddKatU52mvHazB6CA773zfA
+#EXTINF:-1 channel-id="367" channel-number="367" CUID="367" group-title="Dummy" tvg-chno="367" tvg-group="Dummy" tvg-id="367" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/368" tvg-name="中天亚洲台",中天亚洲台
+http://hksmt.huanqiuzhibo.cn:4268/v/1Fim-XfQVZMITBVAZfnUyHu3k2jwxM3caYnTXfhj_6TADCJ4QAUPN-KS5fXnsO5Xkm9Z-XMsHSbQgTk7ypQ9QA
+#EXTINF:-1 channel-id="368" channel-number="368" CUID="368" group-title="Dummy" tvg-chno="368" tvg-group="Dummy" tvg-id="368" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/369" tvg-name="中天娱乐 CTI Entertaiment",中天娱乐 CTI Entertaiment
+http://hksmt.huanqiuzhibo.cn:4268/v/QYqihZMOVcDyzaxdMqwA6aAZ-tycZaIIOM9TdzJZP_I5Xvx8GHWNlxMlZJM7jxSuQEW4422eD5qVCBJl-a5oxA
+#EXTINF:-1 channel-id="369" channel-number="369" CUID="369" group-title="Dummy" tvg-chno="369" tvg-group="Dummy" tvg-id="369" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/370" tvg-name="中天新闻 HD",中天新闻 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/tQImoT6Qo7FO7m6AeKVqSDe6J2G7WSYJhMUTjB4-Gvq4y9XYL7j_pXZrkDHaIhBCTl3J0G7YNvwEEtGHGXHKaA
+#EXTINF:-1 channel-id="370" channel-number="370" CUID="370" group-title="Dummy" tvg-chno="370" tvg-group="Dummy" tvg-id="370" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/371" tvg-name="中天综合 CTI Metro",中天综合 CTI Metro
+http://hksmt.huanqiuzhibo.cn:4268/v/C3va6DhPHEURvmyGqYGF2hcytEBh_woQVkPAHo1IqUOcXB3LgUUpLNWSDoNICdf39sOgqw5eOSjs99XbHyg9Pw
+#EXTINF:-1 channel-id="371" channel-number="371" CUID="371" group-title="Dummy" tvg-chno="371" tvg-group="Dummy" tvg-id="371" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/372" tvg-name="中视 HD",中视 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/0MRiKZs6E4gDqO8QPJzdIUwZ3MRo8A-k1JFB0K3HyMZ84pz0NjEpGv4gEYggTOygJiU9v0joYxB10LFHBAjzTg
+#EXTINF:-1 channel-id="372" channel-number="372" CUID="372" group-title="Dummy" tvg-chno="372" tvg-group="Dummy" tvg-id="372" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/373" tvg-name="中视新闻台",中视新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/pDGqm7DXKblH1HAQpYCl6fPaAxyDTz1Zw4LG3WdIJZHRK5BnH0HMyKaleN_7vsAhP0eMW7m-ROgk4TTqSofktg
+#EXTINF:-1 channel-id="373" channel-number="373" CUID="373" group-title="Dummy" tvg-chno="373" tvg-group="Dummy" tvg-id="373" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/374" tvg-name="亚洲旅游 TLC Asia",亚洲旅游 TLC Asia
+http://hksmt.huanqiuzhibo.cn:4268/v/w66SkZO451squIMsiNi1EiCKoO-MfHcAexpFTYAV9dd0GYWL7hGBt9Mh1OEHpFDwJneeDj4R0ypNuEcGAvo5TA
+#EXTINF:-1 channel-id="374" channel-number="374" CUID="374" group-title="Dummy" tvg-chno="374" tvg-group="Dummy" tvg-id="374" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/375" tvg-name="亚洲美食",亚洲美食
+http://hksmt.huanqiuzhibo.cn:4268/v/hQxl06Gh0qnGAlGLeEFYrCa2yxAj1XVi3YrW8LymQztCg0s2gLuWCr3s3Yqd55e2azsfy8ik-xfo4IiqQbuP0A
+#EXTINF:-1 channel-id="375" channel-number="375" CUID="375" group-title="Dummy" tvg-chno="375" tvg-group="Dummy" tvg-id="375" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/376" tvg-name="八大娱乐 GTV Entertainment",八大娱乐 GTV Entertainment
+http://hksmt.huanqiuzhibo.cn:4268/v/_U7Ac_cZit1nTaoiHCI-s39hk5ob4RdrwJ_594KfUOGiyidosevqTvMO03-_ZPNr5UyBqTkZW6dYtiZrOsDvgg
+#EXTINF:-1 channel-id="376" channel-number="376" CUID="376" group-title="Dummy" tvg-chno="376" tvg-group="Dummy" tvg-id="376" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/377" tvg-name="八大戏剧 GTV Drama",八大戏剧 GTV Drama
+http://hksmt.huanqiuzhibo.cn:4268/v/WhNlotB0W3-JC25-BUjV4rbIr_Qiez1q6OsAUuXG1ZaWWZ6Oz8H7R9ktPYajoBZD-x7klcitTHpHV_5_yPAf8Q
+#EXTINF:-1 channel-id="377" channel-number="377" CUID="377" group-title="Dummy" tvg-chno="377" tvg-group="Dummy" tvg-id="377" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/378" tvg-name="八大第一 GTV First",八大第一 GTV First
+http://hksmt.huanqiuzhibo.cn:4268/v/QVerVxLG4jqgO8PHyQoFuFwTfB_9A4rhkKGkFofd4z7vLEnlb75YMSA807-_aAj8mf4mCoSOLwFxm4q1Bs2RnA
+#EXTINF:-1 channel-id="378" channel-number="378" CUID="378" group-title="Dummy" tvg-chno="378" tvg-group="Dummy" tvg-id="378" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/379" tvg-name="八大综合 GTV Metro",八大综合 GTV Metro
+http://hksmt.huanqiuzhibo.cn:4268/v/aS5V5CbLGlZHIKcmArOtPf4jtILe044bqC2SFSW1rwgEr9KCYOVTbIlhH0TDkJ0nGtlnMUUCIwhWYuV-msncYg
+#EXTINF:-1 channel-id="379" channel-number="379" CUID="379" group-title="Dummy" tvg-chno="379" tvg-group="Dummy" tvg-id="379" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/380" tvg-name="公视 CTV",公视 CTV
+http://hksmt.huanqiuzhibo.cn:4268/v/FaGmxFpWvlxreZGchc9J_hk5vp3WJ-6Kg4BbltLfTFdPTvHDYUVdMgjqa5dVs6-6Cfg5ozHZmek6QUPfE5QRYQ
+#EXTINF:-1 channel-id="380" channel-number="380" CUID="380" group-title="Dummy" tvg-chno="380" tvg-group="Dummy" tvg-id="380" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/381" tvg-name="凤凰卫视",凤凰卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/C5a8IxqYGPKJjYEi26n4Cd0MABY5z4wpCpgP4pKbfqJ3433t4xG-ApG5X7HiOu0JTnMxcbToln6a48uLQsrxZg
+#EXTINF:-1 channel-id="381" channel-number="381" CUID="381" group-title="Dummy" tvg-chno="381" tvg-group="Dummy" tvg-id="381" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/382" tvg-name="凤凰资讯",凤凰资讯
+http://hksmt.huanqiuzhibo.cn:4268/v/QdCQz2KgySo6hyfzDY2f301oMDcnapEgj2N6oAvryFA-_1zpnY6ToWIORq0Z7nTnrLjph9NqFJwTwCENI_3Vdg
+#EXTINF:-1 channel-id="382" channel-number="382" CUID="382" group-title="Dummy" tvg-chno="382" tvg-group="Dummy" tvg-id="382" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/383" tvg-name="凤凰香港",凤凰香港
+http://hksmt.huanqiuzhibo.cn:4268/v/GQK_FJ2cKpjGml8yUX_7q5GGnut0ggVN_cM6CP0rTB9Mhmw59JRPgBur0MhNtHAA2oiYtwTJUejYH8eynn0hLg
+#EXTINF:-1 channel-id="383" channel-number="383" CUID="383" group-title="Dummy" tvg-chno="383" tvg-group="Dummy" tvg-id="383" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/384" tvg-name="北京卫视",北京卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/Z_7VDEj7JHAegWTbJCfdLAGoGiX5nahY7Jd25h5xHklvSmxg6JtNnAQxdi4SKm8XBmQC7dz139JVrE1s5hJmHA
+#EXTINF:-1 channel-id="384" channel-number="384" CUID="384" group-title="Dummy" tvg-chno="384" tvg-group="Dummy" tvg-id="384" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/385" tvg-name="华丽台",华丽台
+http://hksmt.huanqiuzhibo.cn:4268/v/A74hK9fAM-rsO6ZmLXXn_UVjezpGAeZjnsRV-DpxIBBBaoHlT_QlkzQC8oB2Ic3HwOCcYqYtLE5FWJ0H2XRxSA
+#EXTINF:-1 channel-id="385" channel-number="385" CUID="385" group-title="Dummy" tvg-chno="385" tvg-group="Dummy" tvg-id="385" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/386" tvg-name="华视 CTS HD",华视 CTS HD
+http://hksmt.huanqiuzhibo.cn:4268/v/mosWASlgpomc2EE2SnKkdgBesd3XYqKSPr8pb2WLxOpFbblCTPaqPKGPzX62p02cCcZOnz-Ni92RjlSwPKPryA
+#EXTINF:-1 channel-id="386" channel-number="386" CUID="386" group-title="Dummy" tvg-chno="386" tvg-group="Dummy" tvg-id="386" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/387" tvg-name="博斯无限",博斯无限
+http://hksmt.huanqiuzhibo.cn:4268/v/BnFpVWhB47UwpV-nn-DA2vql1ac5ZCRG0ys5iimbdSa4YxmH1vkP32dx6SNSD2ZdPJY3icd6HTEsviVDF4UvEg
+#EXTINF:-1 channel-id="387" channel-number="387" CUID="387" group-title="Dummy" tvg-chno="387" tvg-group="Dummy" tvg-id="387" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/388" tvg-name="博斯网球 HD",博斯网球 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/0RNyOvKcRyKNP2Lmxek55KT6F1NmyKZ2sW8RV1wkxfbGSAGXBx9nUPFv0y8wiS3SeDSvHCRvKs65I4mWUUwihA
+#EXTINF:-1 channel-id="388" channel-number="388" CUID="388" group-title="Dummy" tvg-chno="388" tvg-group="Dummy" tvg-id="388" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/389" tvg-name="博斯运动 1",博斯运动 1
+http://hksmt.huanqiuzhibo.cn:4268/v/QJIPLSMm0kHLI7YFMHkejKecheti36HW_KcDHP1aj_hq-117FZs1r4z6EHO4ws9W8ExxXOlL9OAHKwUFCTvY-Q
+#EXTINF:-1 channel-id="389" channel-number="389" CUID="389" group-title="Dummy" tvg-chno="389" tvg-group="Dummy" tvg-id="389" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/390" tvg-name="博斯运动 2",博斯运动 2
+http://hksmt.huanqiuzhibo.cn:4268/v/Nzi0a_QWEcYpJSb6wZas3Wj0POHvn_yRDsQWT0E-dG9rpVWhl669XToNmhIFkZtkKuU9i7D-1LY2_yCIcApgZg
+#EXTINF:-1 channel-id="390" channel-number="390" CUID="390" group-title="Dummy" tvg-chno="390" tvg-group="Dummy" tvg-id="390" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/391" tvg-name="博斯高球1 HD",博斯高球1 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/l2MhpQztAcRWe_2TuO9-5ORAIs1ERUljaY7ULj46bgRkTtGKLXWRi0wLRt_uc8z6oZQWU7ieFU1jnT5jWsdQCg
+#EXTINF:-1 channel-id="391" channel-number="391" CUID="391" group-title="Dummy" tvg-chno="391" tvg-group="Dummy" tvg-id="391" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/392" tvg-name="博斯高球2 HD",博斯高球2 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/_0bE1LEM9jFx2UgXVgtIQjGWSm1qMo5mmMbyo2gfsaJryeO7OOWErPXNnSylqKHeVC5lYf2BM5m0YjDiK24wmw
+#EXTINF:-1 channel-id="392" channel-number="392" CUID="392" group-title="Dummy" tvg-chno="392" tvg-group="Dummy" tvg-id="392" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/393" tvg-name="卫视中文台",卫视中文台
+http://hksmt.huanqiuzhibo.cn:4268/v/RXZx0jdvAMwrIbg5XOIOAcTUymQkfePE29z_83fORM15yFv_3KRs3FBt8zHDIPnl0muokp3E1kxEW4AHWZvRmg
+#EXTINF:-1 channel-id="393" channel-number="393" CUID="393" group-title="Dummy" tvg-chno="393" tvg-group="Dummy" tvg-id="393" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/394" tvg-name="卫视电影台",卫视电影台
+http://hksmt.huanqiuzhibo.cn:4268/v/jWpw2hpMnRRhr9tUAP8Ab58oQ0J32gBr9p5xlOWH4zjvCgfMA39M9vkN_hyqqOK5tqbIi7lL9Ix2TaL2_yDegA
+#EXTINF:-1 channel-id="394" channel-number="394" CUID="394" group-title="Dummy" tvg-chno="394" tvg-group="Dummy" tvg-id="394" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/395" tvg-name="台视 TTV HD",台视 TTV HD
+http://hksmt.huanqiuzhibo.cn:4268/v/-5ZIlBEEDHi_oXYRgn35hWCmMhAvqxNCE2lFsBjGjQfuU9Brud4BzQ7cnQ4PKIM3f5Pwy8Rb8OB2r4o_xIUIVQ
+#EXTINF:-1 channel-id="395" channel-number="395" CUID="395" group-title="Dummy" tvg-chno="395" tvg-group="Dummy" tvg-id="395" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/396" tvg-name="台视新闻台",台视新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/WAhP2BiwgPhwrOv_MJO1MOUzls0Pk3tpbhsP9QzWy42Xf8hUx-OZjTR027VrsR2QK4Iyj0EUDhJV3YH4QyQfiA
+#EXTINF:-1 channel-id="396" channel-number="396" CUID="396" group-title="Dummy" tvg-chno="396" tvg-group="Dummy" tvg-id="396" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/397" tvg-name="台视综合台",台视综合台
+http://hksmt.huanqiuzhibo.cn:4268/v/SJM4Rj_qTJYqpWIwiiq98TUOv_trM5LWmEiwXQt5XsFNsQgSs7Bl__uDJGUwgZyM7hgGDKphbDIfu0jiXfG4-Q
+#EXTINF:-1 channel-id="397" channel-number="397" CUID="397" group-title="Dummy" tvg-chno="397" tvg-group="Dummy" tvg-id="397" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/398" tvg-name="四川卫视",四川卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/ho_9hy1iHTK94tvvakyu69T-wMhu1C5OKd3OfpRj1uoQILphKxnCgWYiVFEDnvPA5cezfJ55idCRSsXoS5Z6oQ
+#EXTINF:-1 channel-id="398" channel-number="398" CUID="398" group-title="Dummy" tvg-chno="398" tvg-group="Dummy" tvg-id="398" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/399" tvg-name="壹新闻台",壹新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/e9QZrnX5Gzxw9oUPGqK6g15P28wqIvH0R-yvUAAwrSBWPJaEonPzW4ZuJ9ZhEno6QPGEd4VzQBgWUg-0buvGbg
+#EXTINF:-1 channel-id="399" channel-number="399" CUID="399" group-title="Dummy" tvg-chno="399" tvg-group="Dummy" tvg-id="399" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/400" tvg-name="大爱1台",大爱1台
+http://hksmt.huanqiuzhibo.cn:4268/v/46OCbbtfaJOXxPuWYQDs62g-mtpGpCiUOL8svF5Ep7SyA7w56w19ndPQ-V-5Zn49hG9Kfy_TwxaZHDvtQrLahA
+#EXTINF:-1 channel-id="400" channel-number="400" CUID="400" group-title="Dummy" tvg-chno="400" tvg-group="Dummy" tvg-id="400" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/401" tvg-name="大爱2台",大爱2台
+http://hksmt.huanqiuzhibo.cn:4268/v/RKLLXW4ewVK3Xv7ljb24_h-VqnLtWv5CkEobclwbO9uo2b_fMi21nm5XWSQDoHlBk_nKYg6odDVb-guXAYyR8Q
+#EXTINF:-1 channel-id="401" channel-number="401" CUID="401" group-title="Dummy" tvg-chno="401" tvg-group="Dummy" tvg-id="401" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/402" tvg-name="好消息 2",好消息 2
+http://hksmt.huanqiuzhibo.cn:4268/v/VnDWrnZUgMlZ3cFa4DsGEE4H-R-4Uw3qOTK2QmOE88cgiXGSiUF-Lo6mjIh6vERrXUMZyimcxvPZ9OomT2YQFQ
+#EXTINF:-1 channel-id="402" channel-number="402" CUID="402" group-title="Dummy" tvg-chno="402" tvg-group="Dummy" tvg-id="402" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/403" tvg-name="寰宇新闻台",寰宇新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/Lnd0m8ofp3ADhg3e8z4zm6YZ6MlU-_orIs9TdnaCB2qcVK4NUaXcsQ9Da5_JflyuMXYfVY352WPY0qXeiFyvDw
+#EXTINF:-1 channel-id="403" channel-number="403" CUID="403" group-title="Dummy" tvg-chno="403" tvg-group="Dummy" tvg-id="403" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/404" tvg-name="寰宇财经",寰宇财经
+http://hksmt.huanqiuzhibo.cn:4268/v/nHArfZnjwYyIx6TAb8BBcfq9SpDVcIftXRuMM1lR3FMTl2bgEZaC5-w3pro4SJr6WGYfB6CJ-Uwxx-TGR7OIqQ
+#EXTINF:-1 channel-id="404" channel-number="404" CUID="404" group-title="Dummy" tvg-chno="404" tvg-group="Dummy" tvg-id="404" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/405" tvg-name="年代新闻",年代新闻
+http://hksmt.huanqiuzhibo.cn:4268/v/rEvBiUQcvbFAB4BD0E-iupmmr6JmndEPtjObe5fo0F8o8roU0KzU0X023NUXM871mNOe_dQ5DvRC1W5ASphklg
+#EXTINF:-1 channel-id="405" channel-number="405" CUID="405" group-title="Dummy" tvg-chno="405" tvg-group="Dummy" tvg-id="405" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/406" tvg-name="广东南方卫视",广东南方卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/pPqCO_NckOm22fQ-JyUFY7r1B24f6zZcHHqEIpAk4p6KijiisUHERUTwLHBENCnt70ph8bJeL26AQjpbw2J9uA
+#EXTINF:-1 channel-id="406" channel-number="406" CUID="406" group-title="Dummy" tvg-chno="406" tvg-group="Dummy" tvg-id="406" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/407" tvg-name="广东卫视",广东卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/FAnj8jNIFdGCwxUL2j6BHjqotgS87FF9IVhJIJ2CF-rpxH6MXaZ9vgbw7AP5ACvlq35PGXE7ntahtIj9bwZ1Fg
+#EXTINF:-1 channel-id="407" channel-number="407" CUID="407" group-title="Dummy" tvg-chno="407" tvg-group="Dummy" tvg-id="407" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/408" tvg-name="广西卫视",广西卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/Vl8ZUb75K2amw0TKn_nFdCrTEw5GvVUP8aAS3kbNpvRtFt7U2N3KDYRzP42vM2Pwyu_aBMPiM03aRBBfvHwl-w
+#EXTINF:-1 channel-id="408" channel-number="408" CUID="408" group-title="Dummy" tvg-chno="408" tvg-group="Dummy" tvg-id="408" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/409" tvg-name="无线财经资讯台",无线财经资讯台
+http://hksmt.huanqiuzhibo.cn:4268/v/4j5X_d9XA1RzPjSdhhhsia58rMrjrWuGNl2_PoqnRNgsijx1uXLRQL7NXMq_tByBe1WEUizeYIlJl5YS_DWU5A
+#EXTINF:-1 channel-id="409" channel-number="409" CUID="409" group-title="Dummy" tvg-chno="409" tvg-group="Dummy" tvg-id="409" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/410" tvg-name="星卫电影",星卫电影
+http://hksmt.huanqiuzhibo.cn:4268/v/vygN4K6bVck3b_4xJL94HANi27zabC27KzY3OLW6RPH0CNWZnWy2XGxDfrUs1S1yy10Br4mdD-ijeZafT0rOjA
+#EXTINF:-1 channel-id="410" channel-number="410" CUID="410" group-title="Dummy" tvg-chno="410" tvg-group="Dummy" tvg-id="410" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/411" tvg-name="欢喜台",欢喜台
+http://hksmt.huanqiuzhibo.cn:4268/v/BLWBtt70Ozei7gx9N2oG_-YdaVOKb705eeoeVkAQqco1UaiKIOfnw0OVIq300LvCiC5x2mTg4gWzYRlTDBa8AQ
+#EXTINF:-1 channel-id="411" channel-number="411" CUID="411" group-title="Dummy" tvg-chno="411" tvg-group="Dummy" tvg-id="411" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/412" tvg-name="欢喜台 backup",欢喜台 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/Sp2Z3BfZIRgqF0gK6bnOj5G2hyWCMO2gymaCE5D1423_ck7VTf6ho_rt_pYmtgM_zsfkRFfbZLoq9_7qiyxKoA
+#EXTINF:-1 channel-id="412" channel-number="412" CUID="412" group-title="Dummy" tvg-chno="412" tvg-group="Dummy" tvg-id="412" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/413" tvg-name="民视 HD",民视 HD
+http://hksmt.huanqiuzhibo.cn:4268/v/dPuOH4lKPd4HoOXn88H2uy4peNZsAWIlon560iCX3tcjIyYX2_Y5WMvzF9KUcBllZe737N1ZjZqZvmsmOEncpQ
+#EXTINF:-1 channel-id="413" channel-number="413" CUID="413" group-title="Dummy" tvg-chno="413" tvg-group="Dummy" tvg-id="413" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/414" tvg-name="民视台湾台",民视台湾台
+http://hksmt.huanqiuzhibo.cn:4268/v/NtBIQohpOA5fKGpwY1DmSuEmR8qxriPkA0UOVkD_uRTNpcYmatimdF3RxE-4mZ3gdJEG66tDET1xufWXCJXCbw
+#EXTINF:-1 channel-id="414" channel-number="414" CUID="414" group-title="Dummy" tvg-chno="414" tvg-group="Dummy" tvg-id="414" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/415" tvg-name="民视新闻台 FTV News",民视新闻台 FTV News
+http://hksmt.huanqiuzhibo.cn:4268/v/_sX99alZwL1kWhvYlVMvg3AM_XDyusLaCBfhvZnbJWBWKp195Mn3K4snZhFOL8i3z6RYV2DhX92g__v9LVikAQ
+#EXTINF:-1 channel-id="415" channel-number="415" CUID="415" group-title="Dummy" tvg-chno="415" tvg-group="Dummy" tvg-id="415" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/416" tvg-name="江苏卫视",江苏卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/LSa87rehSDTwmoiSd2oDk69phndNM91CXHWL-bxo6nM5VAee1zNpmU6ZaH_lPGwmtrhJFk9svDpRe3FF2J2Y1Q
+#EXTINF:-1 channel-id="416" channel-number="416" CUID="416" group-title="Dummy" tvg-chno="416" tvg-group="Dummy" tvg-id="416" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/417" tvg-name="浙江卫视",浙江卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/BSdlyhd3Q15MQCGnpm5OVcPvMWCxSSHxZKXlu2oUB2xPE4NzFIhg6s3QhTKqaNt9sFvawYsRI5pPysn6dOwNbg
+#EXTINF:-1 channel-id="417" channel-number="417" CUID="417" group-title="Dummy" tvg-chno="417" tvg-group="Dummy" tvg-id="417" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/418" tvg-name="深圳卫视",深圳卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/kit4YGbt0SNj9JUEPC4HNNPiff2PoVbKphI57TnYdAukeKZUFvu4tBcxvkxrcnNN_Pv121DYQyeQsDg3lOr1Lw
+#EXTINF:-1 channel-id="418" channel-number="418" CUID="418" group-title="Dummy" tvg-chno="418" tvg-group="Dummy" tvg-id="418" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/419" tvg-name="湖北卫视",湖北卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/UavzkGIzOngQFEukkjzDWnhAAy1nrFfXxv-9yyGCGMwoQmH_IrmfnEpFVsn749-RpdpHedCWxMGuIKu_uHSxhw
+#EXTINF:-1 channel-id="419" channel-number="419" CUID="419" group-title="Dummy" tvg-chno="419" tvg-group="Dummy" tvg-id="419" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/420" tvg-name="湖南卫视",湖南卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/AJl9fN0Zrd0sTfta7XJkYvVrV6AcJwLNOdW6rKw1AYLLpPUBaD8TTB2qzwiiK2ezoIi_xhfL6eUf8AAMItsEEA
+#EXTINF:-1 channel-id="420" channel-number="420" CUID="420" group-title="Dummy" tvg-chno="420" tvg-group="Dummy" tvg-id="420" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/421" tvg-name="爱奇艺 iQiyi",爱奇艺 iQiyi
+http://hksmt.huanqiuzhibo.cn:4268/v/PjU0oS8xmjkgm-joc6QftVYwzThxT8Da0a1KJaXfIauN2youp-Kdb7i4ib0uFKBaMvDSFvQ1NOr4Fwdvq1Oklg
+#EXTINF:-1 channel-id="421" channel-number="421" CUID="421" group-title="Dummy" tvg-chno="421" tvg-group="Dummy" tvg-id="421" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/422" tvg-name="爱尔达体育1台",爱尔达体育1台
+http://hksmt.huanqiuzhibo.cn:4268/v/ViodLHSSoovcpMA89wAx1Vgqn2u4ieWAVShVVdnXM_sTpKDC5QRjtolMdSVTCEeu4WQKJxShxnN0l_fo94Yn8Q
+#EXTINF:-1 channel-id="422" channel-number="422" CUID="422" group-title="Dummy" tvg-chno="422" tvg-group="Dummy" tvg-id="422" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/423" tvg-name="爱尔达体育2台",爱尔达体育2台
+http://hksmt.huanqiuzhibo.cn:4268/v/uKrthsHixp97U3cjXHqRLaSEMxmxaaoIZnjZigKF3zABGF1zKGJTuDKTC0K8A5Z43H8Q6k6GNr1dheCYPc4rBQ
+#EXTINF:-1 channel-id="423" channel-number="423" CUID="423" group-title="Dummy" tvg-chno="423" tvg-group="Dummy" tvg-id="423" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/424" tvg-name="爱尔达体育3台",爱尔达体育3台
+http://hksmt.huanqiuzhibo.cn:4268/v/YTuf-FPI3WWLBK6KJxIZ-z1_hXEnWOB4XUfN_tBFfsmek5M0WYmU5mDXi0sph82lnQN0-3BiRd0Lm7FbawdyFg
+#EXTINF:-1 channel-id="424" channel-number="424" CUID="424" group-title="Dummy" tvg-chno="424" tvg-group="Dummy" tvg-id="424" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/425" tvg-name="爱尔达影剧",爱尔达影剧
+http://hksmt.huanqiuzhibo.cn:4268/v/of3K4IsU5ukrTp36B8uRmgUEIw7XgFNug9l6bJxc_GiQ0nhlwlW98wDewEa87Lt8PROUwTY7oiOs4wSUySyN8g
+#EXTINF:-1 channel-id="425" channel-number="425" CUID="425" group-title="Dummy" tvg-chno="425" tvg-group="Dummy" tvg-id="425" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/426" tvg-name="爱尔达影剧台",爱尔达影剧台
+http://hksmt.huanqiuzhibo.cn:4268/v/urRv6KFUo48rMrvIW8cwHigPbRc4CK5tGNIpvIhw3hSBp-pfZNEfWwjcoDhyu4GeQQnaK5Vi12-fczyxlm-2HA
+#EXTINF:-1 channel-id="426" channel-number="426" CUID="426" group-title="Dummy" tvg-chno="426" tvg-group="Dummy" tvg-id="426" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/427" tvg-name="爱尔达综合台",爱尔达综合台
+http://hksmt.huanqiuzhibo.cn:4268/v/_gQbcHyFXdLWrBFdVEv-b9T29rCf5wIOsskVJ7w042ColITwoFcc3A29JwNH2TKY1jiiLios2i6o19A8Fh1r4A
+#EXTINF:-1 channel-id="427" channel-number="427" CUID="427" group-title="Dummy" tvg-chno="427" tvg-group="Dummy" tvg-id="427" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/428" tvg-name="珍珠台",珍珠台
+http://hksmt.huanqiuzhibo.cn:4268/v/ja3hOJ9DzFuddZynivnMn36DLfZC9yOeJIw5kTa1jkSVD-pIk3csHExTGZ122lIU1kwD8ztuYwVdtq-Ct5CzUw
+#EXTINF:-1 channel-id="428" channel-number="428" CUID="428" group-title="Dummy" tvg-chno="428" tvg-group="Dummy" tvg-id="428" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/429" tvg-name="珍珠台  备用",珍珠台  备用
+http://hksmt.huanqiuzhibo.cn:4268/v/tZIs1TLpVRJlBeesdxxRBDO8eSholukIZz64YJtMF9HKeFKgVINYI18jWzLyVD-BXrbiaQBq9x3bhI8FpSryDg
+#EXTINF:-1 channel-id="429" channel-number="429" CUID="429" group-title="Dummy" tvg-chno="429" tvg-group="Dummy" tvg-id="429" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/430" tvg-name="珠江台",珠江台
+http://hksmt.huanqiuzhibo.cn:4268/v/V6b5F6xzQzB8TkIH7J4TB8pqWjx_cAgHEObyI9uMfDf6aXSKYorGXh4kga3pwhQL4bTXmje9Y6xbV5hlHLYxjw
+#EXTINF:-1 channel-id="430" channel-number="430" CUID="430" group-title="Dummy" tvg-chno="430" tvg-group="Dummy" tvg-id="430" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/431" tvg-name="福建东南卫视",福建东南卫视
+http://hksmt.huanqiuzhibo.cn:4268/v/RFp5oAqqQBZMZtV_kno-_XqwE9Vaxsui32ZwDwUJI0pMOA84HDcI5VXuv2UXO2Rj8ZrZhu1Oc4-vx9xzaViidw
+#EXTINF:-1 channel-id="431" channel-number="431" CUID="431" group-title="Dummy" tvg-chno="431" tvg-group="Dummy" tvg-id="431" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/432" tvg-name="纬来体育台",纬来体育台
+http://hksmt.huanqiuzhibo.cn:4268/v/taGVIDbSm73eRb7dEun_-Gbc2YfiIUYdF0v78uHwYewFqESv3BEloGcPvRCECtxcJLlxGTSVEro0UnNdjNeNxQ
+#EXTINF:-1 channel-id="432" channel-number="432" CUID="432" group-title="Dummy" tvg-chno="432" tvg-group="Dummy" tvg-id="432" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/433" tvg-name="纬来日本台",纬来日本台
+http://hksmt.huanqiuzhibo.cn:4268/v/jtjEi79xakrDAmr24-VncIixh-Y-DgNWZoPRzoIy-qbLwqvj9q3ONRYae1vBFilXWF1FBinh-Jcw_B8rNkJcsQ
+#EXTINF:-1 channel-id="433" channel-number="433" CUID="433" group-title="Dummy" tvg-chno="433" tvg-group="Dummy" tvg-id="433" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/434" tvg-name="纬来电影台",纬来电影台
+http://hksmt.huanqiuzhibo.cn:4268/v/zOw-YwZweoTY5gDJWdRsEec4dIMm3PQDvVzM6_pIMQoy5ep7eIeftgQ-vKjHv2LexXbMHstHtzxVKYxQnOm4Xw
+#EXTINF:-1 channel-id="434" channel-number="434" CUID="434" group-title="Dummy" tvg-chno="434" tvg-group="Dummy" tvg-id="434" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/435" tvg-name="纬来精彩",纬来精彩
+http://hksmt.huanqiuzhibo.cn:4268/v/RBqJMPfOukw7N9BSNnogkppxFaug2WtBRm0yTRwSN7bIDiKIfFfNYhN3KFNvPfkBmA6AY5bk0UbyRgarWU0zHg
+#EXTINF:-1 channel-id="435" channel-number="435" CUID="435" group-title="Dummy" tvg-chno="435" tvg-group="Dummy" tvg-id="435" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/436" tvg-name="纬来综合台",纬来综合台
+http://hksmt.huanqiuzhibo.cn:4268/v/uV35PQB1r_OiMcTveXNaUJFXF8MgvE2qNg9GGLMLMGzcseMHWdETMCS4ChmHxmmuHb3sdp4NQt0enN85TddIVg
+#EXTINF:-1 channel-id="436" channel-number="436" CUID="436" group-title="Dummy" tvg-chno="436" tvg-group="Dummy" tvg-id="436" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/437" tvg-name="纬来育乐",纬来育乐
+http://hksmt.huanqiuzhibo.cn:4268/v/MMAQeCtGBrDSv2dUMg4Bn-VPRprIDNgrIwhlC_TrNPxBTSb7kgBH7OAS6MNwQyGN49f4i-OA30ITnSARIeOfBw
+#EXTINF:-1 channel-id="437" channel-number="437" CUID="437" group-title="Dummy" tvg-chno="437" tvg-group="Dummy" tvg-id="437" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/438" tvg-name="美亚电影",美亚电影
+http://hksmt.huanqiuzhibo.cn:4268/v/ak87yFM_I1lv6RVz1B8r-moq1m8RXj7FAN1NddVCh0LL1xa7NnaC-kYn55dZzKRyyCueaye9PYMCC27jDeB-xw
+#EXTINF:-1 channel-id="438" channel-number="438" CUID="438" group-title="Dummy" tvg-chno="438" tvg-group="Dummy" tvg-id="438" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/439" tvg-name="美食星球",美食星球
+http://hksmt.huanqiuzhibo.cn:4268/v/0CtTPFtxoey44MUDG3FeZ2eKa9mthj4g0GI5W5kyvonzKgwrRL3C0FvsjDHWfal9qBO3Bx6J8rY9MKYC4CfdAQ
+#EXTINF:-1 channel-id="439" channel-number="439" CUID="439" group-title="Dummy" tvg-chno="439" tvg-group="Dummy" tvg-id="439" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/440" tvg-name="翡翠台",翡翠台
+http://hksmt.huanqiuzhibo.cn:4268/v/Nm59aSptqYpwQnSclZYdonkTb_F0rRgWFov5XE6PKHBgNXwoNggsXZdFQsN3U6XQSFObd-gfz78MMPsh3hSyeQ
+#EXTINF:-1 channel-id="440" channel-number="440" CUID="440" group-title="Dummy" tvg-chno="440" tvg-group="Dummy" tvg-id="440" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/441" tvg-name="翡翠台 backup",翡翠台 backup
+http://hksmt.huanqiuzhibo.cn:4268/v/i-TDQ8J7313YmEiSMBrdi07JoTHCzEQW7mW1qpXJ4Es0aFtyabjUFcev2ImS2uvgskI_WAionLEdDvMdp2nI8g
+#EXTINF:-1 channel-id="441" channel-number="441" CUID="441" group-title="Dummy" tvg-chno="441" tvg-group="Dummy" tvg-id="441" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/442" tvg-name="阿里郎 Arirang",阿里郎 Arirang
+http://hksmt.huanqiuzhibo.cn:4268/v/mOB5c2ALi8kbH3cFJ_I_QLLz6VK-mgxgt2EPtTtBUSFq1eDNnmxSC3O8VJlTKj6eRcSVHj326v4AwPoEsxvqDA
+#EXTINF:-1 channel-id="442" channel-number="442" CUID="442" group-title="Dummy" tvg-chno="442" tvg-group="Dummy" tvg-id="442" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/443" tvg-name="靖天卡通台",靖天卡通台
+http://hksmt.huanqiuzhibo.cn:4268/v/dZbFJxHhxqDkEa5ZuQpP3ND_Dpv5884RMP3ECVRiLZ7VW-3ZB4jNJyRfnYPPT2NZzx_4MbjHdMExGL1nOSxjUA
+#EXTINF:-1 channel-id="443" channel-number="443" CUID="443" group-title="Dummy" tvg-chno="443" tvg-group="Dummy" tvg-id="443" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/444" tvg-name="靖天国际台",靖天国际台
+http://hksmt.huanqiuzhibo.cn:4268/v/2FoH2M9-_siYDz_55p8VjsyEc5Xv25XVNkr-w7X_rEz7Vrw7LIQYiaX32moLcAthbrsLQ6hR4ceUV6cGKxCTLw
+#EXTINF:-1 channel-id="444" channel-number="444" CUID="444" group-title="Dummy" tvg-chno="444" tvg-group="Dummy" tvg-id="444" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/445" tvg-name="非凡新闻台",非凡新闻台
+http://hksmt.huanqiuzhibo.cn:4268/v/aBYZyIJjXr6XBJxxO_3u6gU-kqQqxLmiS_qZwVSNXuVU7IW3iqRbs8Byea0h-E5VX9EAVGfy4WxFMgoCX16Cug
+#EXTINF:-1 channel-id="445" channel-number="445" CUID="445" group-title="Dummy" tvg-chno="445" tvg-group="Dummy" tvg-id="445" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/446" tvg-name="龙华偶像",龙华偶像
+http://hksmt.huanqiuzhibo.cn:4268/v/p1oQgOSr9o-vqHkQaasiOo0njxsupMqMHRJhmk4Gh_nyBJKO3pQoYWztMzw8D_lJMgaqaUyuNiKLJd3FOXVI1Q
+#EXTINF:-1 channel-id="446" channel-number="446" CUID="446" group-title="Dummy" tvg-chno="446" tvg-group="Dummy" tvg-id="446" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/447" tvg-name="龙华戏剧 Lunghua Drama",龙华戏剧 Lunghua Drama
+http://hksmt.huanqiuzhibo.cn:4268/v/0GZXaYxGDlucB2lxwyTAtkcUAG25CuaXpmeSHTzmxKuUD7769mXQbwG-HxR4tAZmESwjdm4uUenRAYYv3Aj5Aw
+#EXTINF:-1 channel-id="447" channel-number="447" CUID="447" group-title="Dummy" tvg-chno="447" tvg-group="Dummy" tvg-id="447" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/448" tvg-name="龙华戏剧台",龙华戏剧台
+http://hksmt.huanqiuzhibo.cn:4268/v/2xNbNlZo1BY6wkMfxHJa3XMNUiV5d_NZnoTRNvIzDVXFp1K1JzL2sa7aTaZHUXpMszI9HCiMk5KOkgGFRYIORQ
+#EXTINF:-1 channel-id="448" channel-number="448" CUID="448" group-title="Dummy" tvg-chno="448" tvg-group="Dummy" tvg-id="448" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/449" tvg-name="龙华洋片",龙华洋片
+http://hksmt.huanqiuzhibo.cn:4268/v/yIVhYK33ifbFRX_pOFu600yVwtn_Zmzt0s1H5RkvNnalD-_KP_hKkg8tmLHPbXfjF-X8W8VkOQEJ3MCb4CTApA
+#EXTINF:-1 channel-id="449" channel-number="449" CUID="449" group-title="Dummy" tvg-chno="449" tvg-group="Dummy" tvg-id="449" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/450" tvg-name="龙华经典台",龙华经典台
+http://hksmt.huanqiuzhibo.cn:4268/v/s_FHFWk5eMyvYeuWuPpAkDKeOcKAwahYq0KPuSWPtOPnRfi9xCOJZlYnmBa2BLk-wgwVXy1MfsYh4_kas-xcFg
+#EXTINF:-1 channel-id="450" channel-number="450" CUID="450" group-title="Dummy" tvg-chno="450" tvg-group="Dummy" tvg-id="450" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/451" tvg-name="龙详时代",龙详时代
+http://hksmt.huanqiuzhibo.cn:4268/v/PyZMLt04t_cvlcbi3LMpzvAkr-zubHSYvSRwMDOYTiQPUKF0Mm5xuBXAbkel-VG77dkgQIAqw_izYSVle-uySw
+#EXTINF:-1 channel-id="451" channel-number="451" CUID="451" group-title="Dummy" tvg-chno="451" tvg-group="Dummy" tvg-id="451" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/452" tvg-name="HOY 77",HOY 77
+http://hksmt.huanqiuzhibo.cn:4268/v/eV6121wPBFpORhlZNOFY1wipnR-CBQgx-VyItDsBSK-dSe2i3UONsewsA8fOWVJXeKuP585IMfcFiaCJ2jWRoQ
+#EXTINF:-1 channel-id="452" channel-number="452" CUID="452" group-title="Dummy" tvg-chno="452" tvg-group="Dummy" tvg-id="452" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/453" tvg-name="HOY 78",HOY 78
+http://hksmt.huanqiuzhibo.cn:4268/v/aCfH0iJBcgWHc0yk8qsAfp5Rs51FVyWjTKspYft8Bv88H07B_MXGVI9hCYxU2GpJCSX1UxFtsjtPV1kMedLtCA
+#EXTINF:-1 channel-id="453" channel-number="453" CUID="453" group-title="Dummy" tvg-chno="453" tvg-group="Dummy" tvg-id="453" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/454" tvg-name="NOW新闻",NOW新闻
+http://hksmt.huanqiuzhibo.cn:4268/v/-2IhoXyiFeia8s8sVOJRRwy145zZcS4pm_vIm-K-Wo7hd4yVQMWDZnhmI6122ASF-wDwNg5BOIGyLluC88FspA
+#EXTINF:-1 channel-id="454" channel-number="454" CUID="454" group-title="Dummy" tvg-chno="454" tvg-group="Dummy" tvg-id="454" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/455" tvg-name="有线18",有线18
+http://hksmt.huanqiuzhibo.cn:4268/v/KZc489h258TDELldeQulMIeMD367iRSLV3f9_KliiKzaIL-lLhVcxwY89mnWJRTGPk13T6XzDzH7gaIjLe_vTA
+#EXTINF:-1 channel-id="455" channel-number="455" CUID="455" group-title="Dummy" tvg-chno="455" tvg-group="Dummy" tvg-id="455" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/456" tvg-name="松视1台",松视1台
+http://hksmt.huanqiuzhibo.cn:4268/v/MY8qy2kN669QTLTyJWPRCjr6PdUtzJksKfL5oz1-uwRg_yRLbs1fZaO4OTUrNYsiEEVMpA9VElRX7h1X3g1j2Q
+#EXTINF:-1 channel-id="456" channel-number="456" CUID="456" group-title="Dummy" tvg-chno="456" tvg-group="Dummy" tvg-id="456" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/457" tvg-name="松视2台",松视2台
+http://hksmt.huanqiuzhibo.cn:4268/v/1Ty8b4w9qNTHLfax1bES4Eq5giSj79etuo8aJvjhdgMkyTEuSPlCfj5fOYxWMESAY51W_YTjBePyZvTrkxXMsw
+#EXTINF:-1 channel-id="457" channel-number="457" CUID="457" group-title="Dummy" tvg-chno="457" tvg-group="Dummy" tvg-id="457" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/458" tvg-name="松视3台",松视3台
+http://hksmt.huanqiuzhibo.cn:4268/v/yJQiZJFr2W5nuPkkgU_Lf4iF9D2iwXUbyNJso0_vULsAaSI-RfysTBZzKhpWqQ0TuFPNh0OyAkiPBsVrxrnt3g
+#EXTINF:-1 channel-id="458" channel-number="458" CUID="458" group-title="Dummy" tvg-chno="458" tvg-group="Dummy" tvg-id="458" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/459" tvg-name="潘朵拉",潘朵拉
+http://hksmt.huanqiuzhibo.cn:4268/v/O0M_Nil80xWbQe_E8sTkl7IIX7OEHfRIIdarQMFbGFiPrwItdofdYVxkcyYAG_rvLmwEfdUWSuDAsDJMqpmUQw
+#EXTINF:-1 channel-id="459" channel-number="459" CUID="459" group-title="Dummy" tvg-chno="459" tvg-group="Dummy" tvg-id="459" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/460" tvg-name="精艳台",精艳台
+http://hksmt.huanqiuzhibo.cn:4268/v/IcyxLiAlsgvGtDo8sqzaDRO3LIs3qG8Q3sTuIXRu3LKbDKJjDy5JXOOWyNtCOBXe5JsWIWthWDJ5WIzF0qrseg
+#EXTINF:-1 channel-id="460" channel-number="460" CUID="460" group-title="Dummy" tvg-chno="460" tvg-group="Dummy" tvg-id="460" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/461" tvg-name="香蕉台",香蕉台
+http://hksmt.huanqiuzhibo.cn:4268/v/pNa96VEnKoyM0HulMg8NFt61cF_qzBZpPNi6gxsr6tS3c5mvOb0-nrcAuNDqELdQ__8uiVOH2EZy-pwbm9h3vw
+#EXTINF:-1 channel-id="461" channel-number="461" CUID="461" group-title="Dummy" tvg-chno="461" tvg-group="Dummy" tvg-id="461" tvg-logo="http://hksmt.huanqiuzhibo.cn:4268/api/files/sm/462" tvg-name="龙详时代",龙详时代
+http://hksmt.huanqiuzhibo.cn:4268/v/5bZLLPf_91sgKt2UbUUk_GGLyfJlpfbkDY3yjV41zAOW_GgGD-pCOzX60Sf4yV9Ke3MMjI-1094Uzs8NWHz6Jg
+
 #EXTINF:-1 tvg-name="更新时间:2025-08-22 15:55:54"
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-logo="https://l2e7j5.xjspimg24.cfd:17856/202302/fc/363fcae36a097e60d8ee883ed59499fc.jpg", 狂飙成人版
@@ -1412,3 +2338,4 @@ https://yqpfbu.aiwuci.com/ijaquEn4Hz.m3u8
 https://adcmrd.aiwuci.com/20180831/t4MsYcuN/index.m3u8
 #EXTINF:-1 tvg-logo="https://l2e7j5.xjspimg24.cfd:17856/202110/2c/16172c39cece3a708b74ee9d006c702c.jpg", 【无码流出】SOD家8女星～泡泡趴后的狂乱性爱趴
 https://yqpfbu.aiwuci.com/112-avid616650a8e44b9.m3u8
+
